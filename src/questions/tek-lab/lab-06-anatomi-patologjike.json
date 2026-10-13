@@ -1,0 +1,350 @@
+[
+  {
+    "id": "lab-06-anatomi-patologjike-001",
+    "question": "Shenjat klinike në hematomën subdurale do të shfaqen:",
+    "answers": [
+      "48 orë pas traumës",
+      "36 orë pas traumës",
+      "24 orë pas traumës",
+      "12 orë pas traumas"
+    ],
+    "correct": 0,
+    "explanation": "Hematoma subdurale jep shenja klinike rreth 48 orë pas traumës, kur gjakderdhja venoze rritet gradualisht."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-002",
+    "question": "Cili është mediatori kimik i inflamacionit:",
+    "answers": [
+      "Histamina",
+      "Prostaglandinat",
+      "Serotonina",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Histamina, prostaglandinat dhe serotonina janë të gjithë mediatorë kimikë të inflamacionit."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-003",
+    "question": "Cilat janë shkaqet e dëmtimit qelizor:",
+    "answers": [
+      "Bakteret",
+      "Hipoksia",
+      "Crregullimet gjenetike",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Dëmtimi qelizor shkaktohet nga bakteret, hipoksia dhe çrregullimet gjenetike (dhe faktorë të tjerë)."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-004",
+    "question": "Cila është proteina që bën transportimin e bilirubines në gjak:",
+    "answers": [
+      "Fibrinogjeni",
+      "Albumina",
+      "Hemoglobina",
+      "Globinat"
+    ],
+    "correct": 1,
+    "explanation": "Albumina transporton bilirubinën e pakonjuguar në gjak."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-005",
+    "question": "Në sëmundjen Hodgkin karakteristike është prania e qelizave gjigande të njohura me emrin:",
+    "answers": [
+      "Hodgkin",
+      "Ascoff",
+      "Reed - Sternberg",
+      "Hageman"
+    ],
+    "correct": 2,
+    "explanation": "Qelizat gjigande Reed-Sternberg janë karakteristike për limfomën Hodgkin."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-006",
+    "question": "Faktori intrinsek që prodhohet nga qelizat perietale të stomakut,është i domosdoshëm në absorbimin e:",
+    "answers": [
+      "Vit B1",
+      "Vit B2",
+      "Vit B12",
+      "Vit B6"
+    ],
+    "correct": 2,
+    "explanation": "Faktori intrinsek nga qelizat parietale është i domosdoshëm për absorbimin e vitaminës B12."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-007",
+    "question": "Cilat trupëza janë të pranishem në hepatitin alkolik:",
+    "answers": [
+      "Ascoff",
+      "Reed-Sternberg",
+      "Hageman",
+      "Të gjithë"
+    ],
+    "correct": 3,
+    "explanation": "Në hepatitin alkoolik prania e trupëzave (Mallory-Denk) është karakteristike; opsionet e listuara janë të pakta/jo të sakta, çelësi pranon 'të gjithë'."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-008",
+    "question": "Sa stade të cirrozës biliare përshkruhen:",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 3,
+    "explanation": "Cirroza biliare përshkruhet në 4 stade."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-009",
+    "question": "Cilat trupëza janë të pranishem në hepatitin alkolik:",
+    "answers": [
+      "Ascoff",
+      "Mallory",
+      "Hageman",
+      "Reed-Sternberg"
+    ],
+    "correct": 1,
+    "explanation": "Trupëzat Mallory (hialin alkoolik) gjenden në hepatitin alkoolik."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-010",
+    "question": "Gurët e trefishtë përbëhen nga të gjithë elementet përvec:",
+    "answers": [
+      "Manganit",
+      "Magnezit",
+      "Amoniumit",
+      "Fosfatet"
+    ],
+    "correct": 0,
+    "explanation": "Gurët e trefishtë (struvit) përbëhen nga fosfat amoniak-magnezi; mangani nuk është përbërës."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-011",
+    "question": "Adenokarcinoma renale është një tumor malinj që e merr origjinën nga:",
+    "answers": [
+      "Epiteli i tubujve proksimal",
+      "Epiteli i tubujve distal",
+      "Epiteli i anses Henle ngjitëse",
+      "Epiteli i anses Henle zbritëse"
+    ],
+    "correct": 0,
+    "explanation": "Adenokarcinoma renale (hipernefroma) rrjedh nga epiteli i tubujve proksimalë."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-012",
+    "question": "Tumori Wilms është tumor malinj dhe takohet tek fëmijet me moshë mesatare:",
+    "answers": [
+      "1 vjec",
+      "2 vjec",
+      "3 vjec",
+      "4 vjec"
+    ],
+    "correct": 2,
+    "explanation": "Tumori Wilms haset më shpesh te fëmijët rreth moshës 3 vjeç."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-013",
+    "question": "Në ezofagit, makroskopikisht mukoza do të paraqitet:",
+    "answers": [
+      "Edematoze",
+      "Hiperemike",
+      "Edematoze dhe hiperemike",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Në ezofagit mukoza është makroskopikisht edematoze dhe hiperemike."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-014",
+    "question": "Gastriti akut do të shkaktohet nga:",
+    "answers": [
+      "Alkoli",
+      "Stresi",
+      "Duhani",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Gastriti akut shkaktohet nga alkooli, stresi, duhani dhe faktorë të tjerë irritues."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-015",
+    "question": "Infarkti akut i miokardit makroskopikisht bëhet i dukshëm:",
+    "answers": [
+      "Në 3 orët e para",
+      "Në 12 orët e para",
+      "Pas 12-24 orësh",
+      "Pas 48-72 orësh"
+    ],
+    "correct": 2,
+    "explanation": "Infarkti i miokardit bëhet makroskopikisht i dukshëm pas 12-24 orësh."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-016",
+    "question": "Në infarktin akut të miokardit brenda 72 orësh në mikroskop me dritë, ne do të shohim:",
+    "answers": [
+      "Infiltrate inflamatore",
+      "Nekrozë koagulative",
+      "Nekrozë kolikuative + infiltrate inflamatore",
+      "Nekrozë koagulative + infiltrate inflamatore"
+    ],
+    "correct": 3,
+    "explanation": "Brenda 72 orëve histologjia tregon nekrozë koagulative me infiltrate inflamatore."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-017",
+    "question": "Hemoptizia është:",
+    "answers": [
+      "Hemorragjia nga trakti respirator",
+      "Hemorragjia difuze siperfaqësore në lëkurë",
+      "Hemorragji të vogla pikësore në lëkurë",
+      "Hemorragjia nga trakti gastro-intestinal që eleminohet me anë të të vjellave"
+    ],
+    "correct": 0,
+    "explanation": "Hemoptizia është hemorragji nga trakti respirator (pështymë me gjak)."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-018",
+    "question": "Cili është shkaku më i shpeshtë i ishemisë:",
+    "answers": [
+      "Hipertensioni arterial",
+      "Diabeti mellitus",
+      "Arteroskleroza",
+      "Ethja reumatike"
+    ],
+    "correct": 2,
+    "explanation": "Arterosklerozë është shkaku më i shpeshtë i ishemisë."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-019",
+    "question": "Shkaqet kryesore të atrofisë janë të gjitha, përvec:",
+    "answers": [
+      "Stimulimit hormonal",
+      "Uljes së vëllimit të punës",
+      "Plakja",
+      "Nutricionit të pamjaftueshëm"
+    ],
+    "correct": 0,
+    "explanation": "Stimulimi hormonal i shtuar çon në hipertrofi/hiperplazi, jo në atrofi."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-020",
+    "question": "Infarkti subendokardial është i kufizuar vetëm në:",
+    "answers": [
+      "1/16 e brendshme të murit ventricular",
+      "1/8 e brendshme të murit ventricular",
+      "1/4 e brendshme të murit ventricular",
+      "1/2 e brendshme të murit ventricular"
+    ],
+    "correct": 3,
+    "explanation": "Infarkti subendokardial kufizohet në pjesën e brendshme (rreth gjysma e brendshme) të murit ventrikular."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-021",
+    "question": "Infarkti transmural zhvillohet në kushtet e një:",
+    "answers": [
+      "Ateroskleroze të pakomplikuar me trombozë",
+      "Ateroskleroze të komplikuar me trombozë",
+      "Hipertensioni arterial",
+      "Stresi"
+    ],
+    "correct": 1,
+    "explanation": "Infarkti transmural zhvillohet zakonisht në aterosklerozë të komplikuar me trombozë."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-022",
+    "question": "Në cilën moshë zhvillohet me tepër pneumonia lobare:",
+    "answers": [
+      "Në moshat e reja",
+      "Tek të porsalindurit",
+      "Në moshat e mesme",
+      "Në moshat e vjetra"
+    ],
+    "correct": 2,
+    "explanation": "Pneumonia lobare zhvillohet më shpesh në moshat e mesme (të rritur)."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-023",
+    "question": "Cila është pasoja e hiperemisë kronike pasive:",
+    "answers": [
+      "Edema",
+      "Temperatura",
+      "Ulja e vëllimit të gjakut në sistemin venoz",
+      "Inflamacioni"
+    ],
+    "correct": 0,
+    "explanation": "Hiperemia kronike pasive çon në edemë (stazë venoze)."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-024",
+    "question": "Si paraqitet hepari në steatozën hepatike:",
+    "answers": [
+      "E zvogëluar",
+      "Normale",
+      "E zmadhuar 2-4 kg",
+      "E zmadhuar 4-6 kg"
+    ],
+    "correct": 3,
+    "explanation": "Hepari steatozik zmadhohet shumë (4–6 kg), me ngjyrë të verdhë dhe konsistencë yndyrore."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-025",
+    "question": "Cila nga qelizat është predominante gjatë inflamacionit akut:",
+    "answers": [
+      "Limfocite",
+      "Neutrofile",
+      "Euzonofile",
+      "Makrofage"
+    ],
+    "correct": 1,
+    "explanation": "Neutrofilet janë qelizat dominuese në inflamacionin akut."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-026",
+    "question": "Cfarë vërehet në mikroskop në stadin e dytë, të pneumonisë lobare, në hapësirat alveolare:",
+    "answers": [
+      "Fibrin",
+      "Infiltrate",
+      "Eritrocite + polimorfinukleare",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Në stadin e dytë (hepatizim i kuq) hapësirat alveolare përmbajnë fibrin, eritrocite dhe polimorfonukleare."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-027",
+    "question": "Cili është manifestimi klinik dhe patologjik i tuberkulozit primar:",
+    "answers": [
+      "Dhimbja",
+      "Kompleksi Gohn",
+      "Temperatura",
+      "Kolla"
+    ],
+    "correct": 1,
+    "explanation": "Kompleksi Gohn është manifestimi patologjik i tuberkulozit primar."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-028",
+    "question": "Emfizema do të shoqërohet me shkatërrimin e :",
+    "answers": [
+      "Bronkeve",
+      "Bronkiolave",
+      "Septumeve alveolare",
+      "Të gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Emfizema karakterizohet nga shkatërrimi i septumeve alveolare."
+  },
+  {
+    "id": "lab-06-anatomi-patologjike-029",
+    "question": "Emfizema paraseptale prek:",
+    "answers": [
+      "Pjesën qëndrore të një lobuli",
+      "Pjesën proksimale të një lobuli",
+      "Pjesën distale të një lobuli",
+      "Të gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Emfizema paraseptale prek pjesën distale të lobulit."
+  }
+]

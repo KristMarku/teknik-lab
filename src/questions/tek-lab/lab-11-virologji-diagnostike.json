@@ -1,0 +1,519 @@
+[
+  {
+    "id": "lab-11-virologji-diagnostike-001",
+    "question": "Terrenet për ushqimin e baktereve janë:",
+    "answers": [
+      "Terrene te pergjithshme",
+      "Terrene elective",
+      "Terrene selective",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Terrenet për ushqimin e baktereve përfshijnë terrene të përgjithshme, elektive dhe selektive."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-002",
+    "question": "Terrenet ushqyese janë:",
+    "answers": [
+      "Terrene pasurimi",
+      "Terrene prodhimi",
+      "Terrene izolimi",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Terrenet ushqyese përfshijnë ato të pasurimit, prodhimit dhe izolimit."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-003",
+    "question": "Candida albicans gjendet në:",
+    "answers": [
+      "Goje",
+      "Urine",
+      "Fece",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Candida albicans gjendet në gojë, urinë dhe feçe."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-004",
+    "question": "Ekzaminimi i feceve nenkupton:",
+    "answers": [
+      "Ekzaminim makroskopik",
+      "Ekzaminim mikroskopik",
+      "Ekzaminim makroskopik dhe mikroskopik",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Ekzaminimi i feçeve përfshin vlerësim makroskopik dhe mikroskopik."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-005",
+    "question": "Per ekzaminimin e materialeve fekale preferohet:",
+    "answers": [
+      "Material i fresket",
+      "Material i mbledhur per 3 dite",
+      "Material i fresket dhe i mbledhur per 3 dite",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Për ekzaminimin e feçeve preferohet materiali i freskët."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-006",
+    "question": "Diagnoza laboratorike e Giardia-Lamblia vendoset me:",
+    "answers": [
+      "Mikroskop",
+      "Kulture",
+      "Serologji",
+      "Te gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Giardia diagnostikohet me mikroskop (cista/trofozoite në feçe)."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-007",
+    "question": "Për vendosjen e diagnozes se malaries duhen ekzaminuar te pakten:",
+    "answers": [
+      "10 fusha",
+      "20 fusha",
+      "50 fusha",
+      "100 fusha"
+    ],
+    "correct": 3,
+    "explanation": "Për diagnozën e malaries ekzaminohen të paktën 100 fusha mikroskopike."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-008",
+    "question": "Në preparatet native, Candida shihet ne formen e:",
+    "answers": [
+      "Filamenteve te gjata",
+      "Elemnteve te shkeputur nga njeri tjetri",
+      "Formacioneve treshe",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Në preparatet native Candida shihet si maja të shkëputura, formacione treshe dhe pseudofilamente: të gjitha format."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-009",
+    "question": "Diagnoza laboratorike e ekinokokut vendoset me:",
+    "answers": [
+      "Ekzaminim histologjik",
+      "Ekzaminim radiografik",
+      "Ekzaminim serologjik",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Diagnoza e ekinokokut bazohet në imazheri, serologji dhe histologji së bashku: të gjitha."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-010",
+    "question": "Diagnoza loboratorike e malaries vendoset me:",
+    "answers": [
+      "Ekzaminim histologjik",
+      "Ekzaminim te gjakut periferik",
+      "Ekzaminim serologjik",
+      "Te gjitha"
+    ],
+    "correct": 1,
+    "explanation": "Malaria diagnostikohet me ekzaminim të gjakut periferik (frotis/pikë e trashë)."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-011",
+    "question": "Antigjeni Australian mund të zhduket nga qarkullimi i gjakut pas:",
+    "answers": [
+      "5-6 javë",
+      "3-6 javë",
+      "1-3 vjet",
+      "3-4 vjet"
+    ],
+    "correct": 1,
+    "explanation": "Antigjeni Australian (HBsAg) mund të zhduket pas javësh deri në muaj te hepatiti akut."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-012",
+    "question": "Diagnoza e hepatitit A vendoset me konstatimin e pranisë së:",
+    "answers": [
+      "Virusit te hepatitit A",
+      "Ac anti Hb A",
+      "Virusit te hepatitit A dhe Ac anti Hb A",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Hepatiti A diagnostikohet me praninë e antitrupave anti-HAV (IgM)."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-013",
+    "question": "Terrenet për kultivimin e viruseve janë:",
+    "answers": [
+      "Kultura qelizore",
+      "Veze te embrionuara",
+      "Kafshe laboratori",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Viruset kultivohen në kultura qelizore, vezë të embrionuara dhe kafshë laboratori."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-014",
+    "question": "Diagnoza për hepatit B akut vendoset:",
+    "answers": [
+      "Hbs Ag + anti hbs+anti hbc",
+      "Hbs Ag + anti hbcigm",
+      "Anti hbs+ antihbc",
+      "Te gjitha"
+    ],
+    "correct": 1,
+    "explanation": "Hepatiti B akut: HBsAg + anti-HBc IgM."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-015",
+    "question": "Kultivimi i viruseve përdoret për të parë:",
+    "answers": [
+      "Pranine e virusit",
+      "Identifikimin e virusit",
+      "Realizimin e vaksinave",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Kultivimi i viruseve përdoret për prani, identifikim dhe prodhim vaksinash."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-016",
+    "question": "Infeksion i vjeter HDV + hbs Ag jep në gjak:",
+    "answers": [
+      "Hbs Ag + anti hbs+anti hbc Ig M +HDV",
+      "Hbs Ag + anti hbc igg+ anti HDV",
+      "Anti hbs+ antihbc igg+anti HDV",
+      "Anti hbc igg+HDV+anti HDV"
+    ],
+    "correct": 2,
+    "explanation": "Në infeksion të vjetër (të shëruar) shfaqen antitrupa: anti-HBs, anti-HBc IgG dhe anti-HDV, pa antigjen aktiv."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-017",
+    "question": "Në gratë shtatzanë TORCH pozitiv per Herpex Simplex I per Anti igg, rekomandon:",
+    "answers": [
+      "Abort mjekesor",
+      "Ekzaminime te metejshme per fetusin",
+      "Tregon infeksion akut per Herpex Simplex I",
+      "Asnjera"
+    ],
+    "correct": 3,
+    "explanation": "IgG pozitiv për HSV-I tregon kontakt të vjetër dhe imunitet, jo infeksion akut; nuk kërkon veprim shtesë."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-018",
+    "question": "Metoda e fiksimit te komplementit per diagnozen e viruseve është metodë:",
+    "answers": [
+      "Sasiore",
+      "Gjysem sasiore",
+      "Cilesore",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Fiksimi i komplementit është metodë gjysmë-sasiore (titër)."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-019",
+    "question": "Diagnoza laboratorike e kandidozes vendoset me:",
+    "answers": [
+      "Mikroskop",
+      "Kulture",
+      "Serologji",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Kandidoza diagnostikohet me mikroskop, kulturë dhe serologji."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-020",
+    "question": "Per sekrecionet vaginale, tamponet duhen dorëzuar në laborator për:",
+    "answers": [
+      "10 min",
+      "30 min",
+      "1 ore",
+      "2 ore"
+    ],
+    "correct": 2,
+    "explanation": "Tamponët vaginalë dorëzohen në laborator brenda 1 ore, që të ruhet jetueshmëria e mikroorganizmave."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-021",
+    "question": "Terrenet per ushqimin e baktereve janë:",
+    "answers": [
+      "Terrene te pergjithshme",
+      "Terrene elective",
+      "Terrene selective",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Terrenet për ushqimin e baktereve janë të përgjithshme, elektive dhe selektive."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-022",
+    "question": "Për diagnozen e cryptococus ka me shume vlere:",
+    "answers": [
+      "Mikroskop",
+      "Kulture",
+      "Serologji",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Për kriptokokun vlejnë të gjitha: mikroskopia (tush kinez), kultura dhe antigjeni serologjik."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-023",
+    "question": "Per diagnozen e infeksionit dermatofit metoda me e rendesishme është:",
+    "answers": [
+      "Ekzaminimin mikroskopik",
+      "Ekzaminimin me culture",
+      "Ekzaminimin me llamben Ëood",
+      "Te gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Për dermatofitet metoda kryesore është ekzaminimi mikroskopik (KOH)."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-024",
+    "question": "Në preparatet native Candida shihet ne formën:",
+    "answers": [
+      "Filamenteve te gjata",
+      "Elemnte te shkeputur nga njeri tjetri",
+      "Ne formacione treshe",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Në preparatet native Candida shihet si maja të shkëputura, formacione treshe dhe pseudofilamente: të gjitha format."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-025",
+    "question": "Diagnoza laboratorike e malaries vendoset:",
+    "answers": [
+      "Ekzaminim histologjik",
+      "Ekzaminim i gjakut periferik",
+      "Ekzaminim serologjik",
+      "Te gjitha"
+    ],
+    "correct": 1,
+    "explanation": "Malaria diagnostikohet me ekzaminim të gjakut periferik."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-026",
+    "question": "Diagnoza laboratorike per Candida synon:",
+    "answers": [
+      "Venien ne pah te elementeve mikotike",
+      "Izolimin e kerpudhes ne culture",
+      "Identifikimin serologjik te species",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Diagnoza e kandidozës synon vënien në pah të elementeve mikotike, izolimin në kulturë dhe identifikimin."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-027",
+    "question": "Prova e Wright është reaksion precipitimi per:",
+    "answers": [
+      "Brucelozen",
+      "Tifon",
+      "Brucelozen dhe Tifon",
+      "Asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Prova Wright është aglutinim për brucelozën (në çelës klasifikuar si reaksion)."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-028",
+    "question": "Metodat e studimit te viruseve janë:",
+    "answers": [
+      "Mikroskopi",
+      "Culture",
+      "Serologji",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Viruset studiohen me mikroskopi, kulturë dhe serologji."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-029",
+    "question": "Terrenet per kultivimin e viruseve janë:",
+    "answers": [
+      "Kultura qelizore",
+      "Veze te embrionuara",
+      "Kafshe laboratori",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Viruset kultivohen në kultura qelizore, vezë të embrionuara dhe kafshë laboratori."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-030",
+    "question": "Per diagnozën laboratorike e poliomielitit perdoret:",
+    "answers": [
+      "ELISA",
+      "Fiksimi i komplementit",
+      "ELISA dhe fiksimi i komplementit",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Poliomieliti diagnostikohet me fiksim komplementi/neutralizim."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-031",
+    "question": "Për diagnozën laboratorike të kinokokut vendoset me:",
+    "answers": [
+      "Ekzaminim histologjik",
+      "Ekzaminim radiografik",
+      "Ekzaminim serologjik",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Diagnoza e ekinokokut bazohet në imazheri, serologji dhe histologji së bashku: të gjitha."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-032",
+    "question": "Diagnoza laboratorike e kandidozës vendoset me:",
+    "answers": [
+      "Mikroskop",
+      "Kulturë",
+      "Serologji",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Kandidoza diagnostikohet me mikroskop, kulturë dhe serologji."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-033",
+    "question": "Për sekrecionet vaginale tamponet duhen dorëzuar në laborator për:",
+    "answers": [
+      "10 min",
+      "30 min",
+      "1 orë",
+      "2 orë"
+    ],
+    "correct": 2,
+    "explanation": "Tamponët vaginalë dorëzohen në laborator brenda 1 ore, që të ruhet jetueshmëria e mikroorganizmave."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-034",
+    "question": "Për diagnozën e cryptococus ka me shumë vlerë:",
+    "answers": [
+      "Mikroskop",
+      "Kulturë",
+      "Serologji",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Për kriptokokun vlejnë të gjitha: mikroskopia (tush kinez), kultura dhe antigjeni serologjik."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-035",
+    "question": "Për diagnozën serologjike të histoplazmozës përdoren:",
+    "answers": [
+      "Reaksionet e precipitimit",
+      "Hemaglutinimit",
+      "Imunofluoreshenca indirekte",
+      "Fiksimi i komplementit",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Histoplazmoza diagnostikohet serologjikisht me precipitim, hemaglutinim, IFI dhe fiksim komplementi."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-036",
+    "question": "Per diagnozën e infeksionit dermatofit metoda më e rëndësishme është:",
+    "answers": [
+      "Ekzaminimi mikroskopik",
+      "Ekzaminimi me kulturë",
+      "Ekzaminimi me llambën Wood",
+      "Të gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Për dermatofitet metoda kryesore është mikroskopia direkte."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-037",
+    "question": "Në preparatet native Candida shihet në formën",
+    "answers": [
+      "Filamenteve të gjata",
+      "Elemnte të shkëputur nga njëri tjetri",
+      "Në formacione treshe",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Në preparatet native Candida shihet si maja të shkëputura, formacione treshe dhe pseudofilamente: të gjitha format."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-038",
+    "question": "Për diagnozen laboratorike te kinokokut vendoset me:",
+    "answers": [
+      "Ekzaminim histologjik",
+      "Ekzaminim radiografik",
+      "Ekzaminim serologjik",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Diagnoza e ekinokokut bazohet në imazheri, serologji dhe histologji së bashku: të gjitha."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-039",
+    "question": "Diagnoza laboratorike për Candida synon:",
+    "answers": [
+      "Vënien në pah të elementëve mikotike",
+      "Izolimin e kërpudhës në kulturë",
+      "Identifikimin serologjik të species",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Diagnoza laboratorike e Candida: elementë mikotikë, kulturë dhe identifikim serologjik."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-040",
+    "question": "Prova e Wright është reaksion precipitimi për:",
+    "answers": [
+      "Brucelozën",
+      "Tifon",
+      "Brucelozën dhe Tifon",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Prova Wright përdoret për brucelozën."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-041",
+    "question": "Metodat e studimit të viruseve janë:",
+    "answers": [
+      "Mikroskopi",
+      "Kulturë",
+      "Serologji",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Viruset studiohen me mikroskopi, kulturë dhe serologji."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-042",
+    "question": "Terrenet për kultivimin e viruseve janë:",
+    "answers": [
+      "Kultura qelizore",
+      "Vezë të embrionuara",
+      "Kafshë laboratori",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Viruset kultivohen në kultura qelizore, vezë të embrionuara dhe kafshë."
+  },
+  {
+    "id": "lab-11-virologji-diagnostike-043",
+    "question": "Metoda e preferuar për diagnozën e viruseve është:",
+    "answers": [
+      "Mikroskopi",
+      "Kultura",
+      "Serologjia",
+      "Të gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Metoda e preferuar për diagnozën e viruseve është serologjia."
+  }
+]

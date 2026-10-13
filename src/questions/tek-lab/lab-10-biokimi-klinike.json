@@ -1,0 +1,989 @@
+[
+  {
+    "id": "lab-10-biokimi-klinike-001",
+    "question": "Në cililin mekanizëm insulina vepron mbi glukozën:",
+    "answers": [
+      "Futjen e glukozës në qelizë",
+      "Nxitjen e glikogjenosintezës",
+      "Frenimin e glikogjenosintezës",
+      "Nxitjen e përdorimit të glukozës nga indet"
+    ],
+    "correct": 0,
+    "explanation": "Insulina lehtëson futjen e glukozës në qelizë dhe ul gliceminë."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-002",
+    "question": "Glukagoni:",
+    "answers": [
+      "Është hormon hipoglicemiant",
+      "Është hormon hipergliceminat",
+      "Sintetizohet nga qelizat B",
+      "Ka veprime të ngjashme me insulinën"
+    ],
+    "correct": 1,
+    "explanation": "Glukagoni është hormon hiperglicemiant (nxit glikogjenolizën dhe glukoneogjenezën)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-003",
+    "question": "Glukoza në hepar nuk shndërrohet në:",
+    "answers": [
+      "Glikogjen",
+      "Fruktoze",
+      "Galaktoze",
+      "Të gjitha"
+    ],
+    "correct": 1,
+    "explanation": "Glukoza në hepar shndërrohet në glikogjen; shndërrimi në fruktozë nuk është rrugë normale hepatike."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-004",
+    "question": "Reperti laboratorik në diabetin mellitus është:",
+    "answers": [
+      "Rritje e ph urinar",
+      "Ulje e trupave ketonike ne gjak",
+      "Hipokalemi",
+      "Acidozë"
+    ],
+    "correct": 3,
+    "explanation": "Në diabet shfaqet acidozë (ketoacidozë) për shkak të trupave ketonikë."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-005",
+    "question": "Fruktozamina bën:",
+    "answers": [
+      "Vlerësimin cilësor të proteinave",
+      "Vlerësimin sasior të proteinave",
+      "Vlerësimin e proteinës totale",
+      "Asnjëra"
+    ],
+    "correct": 3,
+    "explanation": "Fruktozamina matet në proteinat e glikuara; çelësi e klasifikon 'asnjëra' ndër opsionet e dhëna."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-006",
+    "question": "Përfaqësues kryesor i steroideve është:",
+    "answers": [
+      "TG",
+      "AY",
+      "Kolesteroli",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Kolesteroli është përfaqësuesi kryesor i steroideve."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-007",
+    "question": "Enzima që rregullon sintezën e kolesterolit është:",
+    "answers": [
+      "HMG-coa reduktaza",
+      "HMG-coa oksidaza",
+      "HMG-coa - DH",
+      "HMG-coa trasnferaza"
+    ],
+    "correct": 0,
+    "explanation": "HMG-CoA reduktaza është enzima rregulluese e sintezës së kolesterolit."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-008",
+    "question": "Kolesteroli qarkullon në plazmë i lidhur me:",
+    "answers": [
+      "LDL",
+      "Kilomikronet",
+      "Albumina",
+      "AY"
+    ],
+    "correct": 0,
+    "explanation": "Kolesteroli qarkullon i lidhur me lipoproteina (kryesisht LDL)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-009",
+    "question": "Vlerat normale të kolesterolit janë:",
+    "answers": [
+      "150-220 mg/dl",
+      "15-25 mg/dl",
+      "20-30 mg/dl",
+      "200-400 mg/dl"
+    ],
+    "correct": 0,
+    "explanation": "Kolesterolemia normale: rreth 150-220 mg/dl."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-010",
+    "question": "Lipoproteinat klasifikohen në bazë të:",
+    "answers": [
+      "Imunologjisë",
+      "Elektroforezës",
+      "Imunologjisë dhe elektroforezës",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Lipoproteinat klasifikohen sipas elektroforezës (dhe dendësisë)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-011",
+    "question": "Niveli plazmatik i albuminës është:",
+    "answers": [
+      "45-80 g/l",
+      "10-20 g/l",
+      "35-50 g/l",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Albumina plazmatike normale: 35-50 g/l."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-012",
+    "question": "Në grupin e frenuesve të proteazave futet:",
+    "answers": [
+      "Albumina",
+      "Haptoglobina",
+      "Alfa1 antitripsina",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Alfa-1 antitripsina është frenues i proteazave."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-013",
+    "question": "Transferina rritet në:",
+    "answers": [
+      "Sindromën nefrotike",
+      "Anemitë ferrodeficitare",
+      "Asnjëra",
+      "Sindromën nefrotike dhe anemitë ferrodeficitare"
+    ],
+    "correct": 1,
+    "explanation": "Transferina rritet në anemitë ferrodeficitare."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-014",
+    "question": "Fibrinogjeni rritet në:",
+    "answers": [
+      "KID",
+      "Fibrinolizë",
+      "Artrit reumatoid",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Fibrinogjeni rritet në inflamacion (artrit reumatoid), proteinë e fazës akute."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-015",
+    "question": "Cili është hormoni më i rëndësishëm që ndikon në metabolizmin e Na:",
+    "answers": [
+      "Kortizoli",
+      "Adrenalina",
+      "Aldosteroni",
+      "Të gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Aldosteroni është hormoni kryesor i metabolizmit të Na."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-016",
+    "question": "Kloruret kanë funksionin e aktivatorit kryesisht për:",
+    "answers": [
+      "Amilazat",
+      "Proteazat",
+      "ADN nukleazat",
+      "Të gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Kloruret aktivizojnë amilazat."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-017",
+    "question": "Cilat janë vlerat e ph në gjakun arterial?",
+    "answers": [
+      "7.30-7.40",
+      "7.15-7.35",
+      "7.35-7.43",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "pH arterial normal: rreth 7.35-7.45 (7.35-7.43 sipas çelësit)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-018",
+    "question": "Temperatura optimale e veprimit të enzimave:",
+    "answers": [
+      "Mbi 40°C",
+      "37°C",
+      "40°C",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Temperatura optimale e enzimave njerëzore është 37°C."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-019",
+    "question": "Ketoacidoza diabetike është:",
+    "answers": [
+      "Acidozë metabolike",
+      "Acidozë respiratore",
+      "E përzier",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Ketoacidoza diabetike është acidozë metabolike."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-020",
+    "question": "Alkaloza respiratore shkaktohet nga:",
+    "answers": [
+      "Rritja e HCO3",
+      "Ulja e HCO3",
+      "Rritja e pco2",
+      "Ulja e pco2"
+    ],
+    "correct": 3,
+    "explanation": "Alkaloza respiratore shkaktohet nga ulja e pCO2 (hiperventilim)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-021",
+    "question": "Cila nga keto enzima nuk shërben për diagnozën e IAM:",
+    "answers": [
+      "LDH",
+      "CPK",
+      "ALT",
+      "AST"
+    ],
+    "correct": 2,
+    "explanation": "ALT nuk përdoret për diagnozën e IAM (është hepatike)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-022",
+    "question": "Ulje të nivelit te AST vërehen tek:",
+    "answers": [
+      "Pankreatitet",
+      "Sëmundjet muskuloskeltike",
+      "Semundjet hepatike",
+      "Shtatëzania"
+    ],
+    "correct": 3,
+    "explanation": "Ulje e AST vërehet në shtatzani dhe gjendje të rralla; opsioni i çelësit është shtatzania."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-023",
+    "question": "GGT është një test për përcaktimin e sëmundjeve:",
+    "answers": [
+      "Kardiake",
+      "Hepatike",
+      "Pankreasit",
+      "Renale"
+    ],
+    "correct": 1,
+    "explanation": "GGT është test për sëmundjet hepatike/biliare."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-024",
+    "question": "Ulje të kolinesterazës vihen re në:",
+    "answers": [
+      "Helmimin me fosfororganikë",
+      "Diabet",
+      "Nefrozë",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Kolinesteraza ulet në helmimin me fosfororganikë."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-025",
+    "question": "Cili test është më i ndjeshëm për vlerësimin e një hepatopatie?",
+    "answers": [
+      "Transaminazat",
+      "CPK",
+      "Amilazat",
+      "Të gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Transaminazat janë testet më të ndjeshme për hepatopatitë."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-026",
+    "question": "Gjeni alternativen e saktë për kortizolin:",
+    "answers": [
+      "Frenon glikoneogjenezën",
+      "Nxit glikoneogjenezën",
+      "Frenon lipolizën",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Kortizoli nxit glikoneogjenezën."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-027",
+    "question": "AFP është një marker i:",
+    "answers": [
+      "Karcinomës hepatoqelizore",
+      "Karcinomës testikulare",
+      "Karcinomës së ovareve",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "AFP është marker i karcinomës hepatoqelizore, testikulare dhe ovariane (germinale)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-028",
+    "question": "CEA është nje marker i:",
+    "answers": [
+      "Kancerit kolorektal",
+      "Kancerit te gjirit",
+      "Gastrointestinal",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "CEA është marker i kancerit kolorektal dhe tumoreve gastrointestinale/të tjera."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-029",
+    "question": "Fosfataza alkaline është specifike për neoplazitë:",
+    "answers": [
+      "Kockore",
+      "Të prostatës",
+      "Të gjirit",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Fosfataza alkaline rritet në neoplazitë kockore (osteoblastike)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-030",
+    "question": "Forma mbizotëruese e acidit urik në plazëm eshte:",
+    "answers": [
+      "Forma acide",
+      "Urat Natriumi",
+      "I lidhur me proteinat",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Forma mbizotëruese e acidit urik në plazmë është urati i natriumit."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-031",
+    "question": "BUN mat azotin e çliruar nga:",
+    "answers": [
+      "Urea",
+      "Acidi urik",
+      "Proteinat",
+      "Të gjitha"
+    ],
+    "correct": 0,
+    "explanation": "BUN mat azotin e ureas."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-032",
+    "question": "Ulje të përqendrimit plazmatik të kreatininës:",
+    "answers": [
+      "Pakësim të masës muskulore",
+      "Shtatëzani",
+      "Pakësim të masës muskulore dhe shtatëzani",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Kreatinina plazmatike ulet me pakësim të masës muskulore dhe në shtatzani."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-033",
+    "question": "Cili është produkti përfundimtar i reaksionit të parë të ciklit të Krebsit?",
+    "answers": [
+      "Citrati",
+      "Izocitrati",
+      "Ketoglutarati",
+      "Fumarati"
+    ],
+    "correct": 0,
+    "explanation": "Reaksioni i parë i ciklit të Krebsit jep citrat."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-034",
+    "question": "Sa reaksione të pakthyeshme ka glikoliza?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "explanation": "Glikoliza ka 3 reaksione të pakthyeshme (hekzokinaza, PFK, piruvat kinaza)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-035",
+    "question": "Cila nga këto enzima nuk është enzimë rregulluese e glikolizës?",
+    "answers": [
+      "Fosfofruktokinaza",
+      "Fosfofruktoizomeraza",
+      "Piruvat kinaza",
+      "Hekzokinaza"
+    ],
+    "correct": 1,
+    "explanation": "Fosfofruktoizomeraza nuk është enzimë rregulluese e glikolizës."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-036",
+    "question": "Cila nga këto lëndë nuk është formë e depozitimit të tiamines?",
+    "answers": [
+      "Tiaminemonofosfati",
+      "Tiaminedifosfati",
+      "Tiaminetrifosfati",
+      "Tiaminepirofosfati"
+    ],
+    "correct": 0,
+    "explanation": "Monofosfati, difosfati (pirofosfati) dhe trifosfati janë forma të tiaminës; çelësi i konsideron monofosfatin si jo-depozitim."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-037",
+    "question": "Veprimet litike të glukagonit kanë të bëjnë me:",
+    "answers": [
+      "Rritjen e ampc",
+      "Uljen e ampc",
+      "Rritjen dhe uljen e ampc",
+      "Ska të bëjë me përqindjen e ampc"
+    ],
+    "correct": 0,
+    "explanation": "Glukagoni rrit cAMP që nxit lipolizën/glikogjenolizën."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-038",
+    "question": "Procesi i bashkimit të jodit me mbetjet e tirozinës quhet:",
+    "answers": [
+      "Kondensim",
+      "Jodim",
+      "Proteolizë",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Bashkimi i jodit me tirozinat quhet jodim (organifikim)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-039",
+    "question": "Cila nga këto enzima nuk është allosterike:",
+    "answers": [
+      "Fruktoze 1.6 difosfati",
+      "Piruvat kinaza",
+      "Hekzokinaza",
+      "Fosfofruktokinaza",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Hekzokinaza nuk konsiderohet enzimë allosterike klasike në këtë çelës."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-040",
+    "question": "Reaksioni i parë i glikoneogjenezës është:",
+    "answers": [
+      "Piruvat karboksilaza",
+      "Piruvat dehidrogjenaza",
+      "Piruvat hidrataza",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Reaksioni i parë i glikoneogjenezës katalizohet nga piruvat karboksilaza."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-041",
+    "question": "Saharazat hidrolizojnë saharozën në:",
+    "answers": [
+      "Glukozë + galaktozë",
+      "Glukozë + fruktozë",
+      "Glukozë + glukozë",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Saharaza hidrolizon saharozën në glukozë dhe fruktozë."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-042",
+    "question": "Në cilën nga këto organe nuk bëhet tretja e glucideve:",
+    "answers": [
+      "Gojë",
+      "Stomak",
+      "Intestini i hollë",
+      "Kolon"
+    ],
+    "correct": 3,
+    "explanation": "Tretja e glucideve bëhet në gojë dhe zorrën e hollë; në kolon nuk ka tretje enzimatike, vetëm fermentim bakterial."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-043",
+    "question": "Cila nga këto nuk është përbërës normal i nukleotideve?",
+    "answers": [
+      "Baza e azotuar",
+      "Mbetja e acidit fosforik",
+      "Glukoza ose fruktoza",
+      "Riboza ose deoksiriboza"
+    ],
+    "correct": 2,
+    "explanation": "Glukoza/fruktoza nuk janë përbërës të nukleotideve (por riboza/deoksiriboza)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-044",
+    "question": "Cili është pararendës i sintezës së nukleotideve purinike dhe pirimidinike?",
+    "answers": [
+      "Riboze 5-fosfati",
+      "Adenilati",
+      "PRPP",
+      "Guanilati"
+    ],
+    "correct": 2,
+    "explanation": "PRPP është pararendës i sintezës së nukleotideve."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-045",
+    "question": "Në cilin nga organet e mëposhtme kryhet më së shumti glikoneogjeneza?",
+    "answers": [
+      "Hepar",
+      "Veshka",
+      "Tru",
+      "Mm. Skeletikë"
+    ],
+    "correct": 0,
+    "explanation": "Glikoneogjeneza kryhet më së shumti në hepar."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-046",
+    "question": "Jodi kapet nga cellulat folikulare të tiroides me anë të:",
+    "answers": [
+      "Transportit pasiv",
+      "Transportit aktiv",
+      "Difuzion i lehtësuar",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Jodi kapet nga tiroida me transport aktiv (NIS)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-047",
+    "question": "Në grupin e hormoneve peptidike futet:",
+    "answers": [
+      "Insulina",
+      "Glukagoni",
+      "Vazopresina",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Insulina, glukagoni dhe vazopresina janë hormone peptidike."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-048",
+    "question": "Shkruani disa nga prekusorët joglucidike për sintezën e glukozës:",
+    "answers": [
+      "Laktati",
+      "Gliceroli",
+      "Alanina",
+      "Piruvat",
+      "Të gjitha"
+    ],
+    "correct": 4,
+    "explanation": "Laktati, gliceroli, alanina dhe piruvati janë pararendës joglucidikë."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-049",
+    "question": "Funksioni kryesor i ciklit pentozik është:",
+    "answers": [
+      "Funksioni reduktues, i cili kryhet nëpërmjet prodhimit të NADPH",
+      "Funksioni reduktues i cili kryhet nëpërmjet NADH",
+      "Funksioni si prodhues i energjisë në formën e ATP",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Cikli pentozik prodhon NADPH (funksion reduktues)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-050",
+    "question": "Cila nga këto lëndë prodhohet në fazën e fundit të degës oksiduese të ciklit pentozik?",
+    "answers": [
+      "Ribulozë 5-fosfati",
+      "Glukozë 6-fosfati",
+      "Fruktoze 6-fosfati",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Dega oksiduese e ciklit pentozik prodhon ribulozë 5-fosfat."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-051",
+    "question": "Bilirubina konjugohet në :",
+    "answers": [
+      "Hepar",
+      "Veshka",
+      "Hepar dhe veshka",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Bilirubina konjugohet në hepar."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-052",
+    "question": "Cila nga këto reaksione formon HMG - coa?",
+    "answers": [
+      "Acetil coa+Acetil coa",
+      "Acetoacetil coa+Acetil coa",
+      "Acetil coa+Acetil coa dhe Acetoacetil coa+Acetil coa",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "HMG-CoA formohet nga acetoacetil-CoA + acetil-CoA."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-053",
+    "question": "Ku ndodh sinteza e acideve yndyrore?",
+    "answers": [
+      "Citoplazmë",
+      "Mitokondri",
+      "REP",
+      "Lizozome"
+    ],
+    "correct": 0,
+    "explanation": "Sinteza e acideve yndyrore ndodh në citoplazmë."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-054",
+    "question": "Cili nga këto hormone është i domosdoshëm për një shtatëzani normale?",
+    "answers": [
+      "Testosteroni",
+      "Dihidrotestosteroni",
+      "Estrogjeni",
+      "Progesteroni"
+    ],
+    "correct": 3,
+    "explanation": "Progesteroni është i domosdoshëm për shtatzaninë normale."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-055",
+    "question": "Ampc formohet nga bashkëveprimi i :",
+    "answers": [
+      "Hormon+ Gs",
+      "Hormon+ Gi",
+      "Rs+Gs",
+      "Hormon + receptor"
+    ],
+    "correct": 2,
+    "explanation": "cAMP formohet kur hormoni aktivizon receptorin dhe proteinën Gs."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-056",
+    "question": "Bilurubina është produkt përfundimtar i:",
+    "answers": [
+      "Katabolizmit të hemit",
+      "Katabolizmit të globinës",
+      "Katabolizmit të hemit dhe Katabolizmit të globinës",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Bilirubina është produkt përfundimtar i katabolizmit të hemit."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-057",
+    "question": "Nëpërmjet ciklit të uresë fiksohet:",
+    "answers": [
+      "Amoniumi",
+      "Acidi urik",
+      "Amoniumi dhe Acidi urik",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Cikli i ureas fikson amoniumin."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-058",
+    "question": "Ku kryhet katabolizmi i AY:",
+    "answers": [
+      "Citoplazmë",
+      "Mitokondri",
+      "Citoplazmë dhe Mitokondri",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Katabolizmi i aminoacideve kryhet në citoplazmë dhe mitokondri."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-059",
+    "question": "Kreatinina formohet nga kreatina ne:",
+    "answers": [
+      "Muskuj",
+      "Veshka",
+      "Tru",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Kreatinina formohet nga kreatina në muskuj."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-060",
+    "question": "Kortizoli nuk ka këto efekte:",
+    "answers": [
+      "Limfopeni",
+      "Aktivizon ndarjen qelizore",
+      "Rrit glukoneogjenezën",
+      "Rrit depozitimin e glikogjenit"
+    ],
+    "correct": 1,
+    "explanation": "Kortizoli nuk aktivizon ndarjen qelizore (e frenon)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-061",
+    "question": "Në vitaminat liposolubile bëjnë pjesë:",
+    "answers": [
+      "B12+D+A",
+      "D+E+C",
+      "K+E+B2",
+      "A+D+E"
+    ],
+    "correct": 3,
+    "explanation": "Vitaminat liposolubile: A, D, E, K."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-062",
+    "question": "Enzima përgjegjëse për katabolizmin e katekolaminave është:",
+    "answers": [
+      "MAO (monoaminoksidaza)",
+      "KOMT (katekol-o-metiltransferaza)",
+      "MAO (monoaminoksidaza) dhe KOMT (katekol-o-metiltransferaza)",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Katekolaminat degradohen nga MAO dhe COMT."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-063",
+    "question": "Sinteza e kolesterolit ndodh në:",
+    "answers": [
+      "Zorrë",
+      "REP",
+      "Mëlçi",
+      "Veshka"
+    ],
+    "correct": 2,
+    "explanation": "Sinteza e kolesterolit ndodh kryesisht në mëlçi."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-064",
+    "question": "Në vend të enzimës hekzokinazë të glikolizës, glikoneogjeneza përdor:",
+    "answers": [
+      "Glukoze-6-fosfatazën",
+      "Glukokinazën",
+      "Fosfoglicerat kinazën",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Glikoneogjeneza përdor glukozë-6-fosfatazën."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-065",
+    "question": "Sa reaksione zhvillohen gjatë ciklit të uresë:",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "Cikli i ureës ka 5 reaksione enzimatike, nga karbamoilfosfat-sintetaza deri te arginaza."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-066",
+    "question": "Pentozat e nevojshme për sintezën e acideve nukleike sigurohen nga:",
+    "answers": [
+      "Cikli pentozik",
+      "Glikoneogjeneza",
+      "Glikoliza",
+      "Cikli i krebsit"
+    ],
+    "correct": 0,
+    "explanation": "Pentozat vijnë nga cikli pentozik."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-067",
+    "question": "Karbamoilfosfati në ciklin e uresë kondensohet me :",
+    "answers": [
+      "Piruvat karboksikinaza",
+      "Ornitinën",
+      "Piruvat karboksikinaza dhe Ornitinën",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Karbamoilfosfati kondensohet me ornitinën."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-068",
+    "question": "Glicina është aminoacid:",
+    "answers": [
+      "Acid",
+      "Bazik",
+      "Neutral jopolar",
+      "Neutral polar"
+    ],
+    "correct": 2,
+    "explanation": "Glicina është aminoacid neutral polar (më i thjeshti)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-069",
+    "question": "Prej acidit arakidonik formohen:",
+    "answers": [
+      "Eikozanoidet",
+      "Vitamina A",
+      "Eikozanoidet dhe Vitamina A",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Nga acidi arakidonik formohen eikozanoidet."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-070",
+    "question": "Cilat janë acide yndyrore të pangopura:",
+    "answers": [
+      "Acidi mistirik",
+      "Acidi palmitik",
+      "Acidi mistirik dhe acidi palmitik",
+      "Asnjëra"
+    ],
+    "correct": 3,
+    "explanation": "Acidi miristik dhe palmitik janë yndyrorë të ngopur; asnjëri nuk është i pangopur."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-071",
+    "question": "Reaksioni e ciklit citrik zhvillohen në:",
+    "answers": [
+      "Citoplazmë",
+      "Mitokondri",
+      "Bërthamë",
+      "Ribozome"
+    ],
+    "correct": 1,
+    "explanation": "Ciklin citrik zhvillohet në mitokondri."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-072",
+    "question": "Enzimat janë:",
+    "answers": [
+      "Proteina.",
+      "Lipide.",
+      "Karbohidrate.",
+      "Aminoacide."
+    ],
+    "correct": 0,
+    "explanation": "Enzimat janë proteina."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-073",
+    "question": "Hemi është pjesë e:",
+    "answers": [
+      "Mioglobinës",
+      "Albuminës",
+      "Fibrinogjenit.",
+      "Insulinës."
+    ],
+    "correct": 0,
+    "explanation": "Hemi është pjesë e mioglobinës."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-074",
+    "question": "Albumina është:",
+    "answers": [
+      "Monosaharid.",
+      "Acid yndyror i pangopur.",
+      "aminoacid neutral polar.",
+      "Proteinë globulare."
+    ],
+    "correct": 3,
+    "explanation": "Albumina është proteinë globulare."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-075",
+    "question": "Janë monosaharide:",
+    "answers": [
+      "Glikogjeni.",
+      "Riboza.",
+      "Heparina.",
+      "Celuloza"
+    ],
+    "correct": 1,
+    "explanation": "Riboza është monosaharid."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-076",
+    "question": "Aminoacidet kanë:",
+    "answers": [
+      "Vetëm veti acide.",
+      "Vetëm veti bazike.",
+      "Veti amfoterike",
+      "Vetëm veti hidrofobe"
+    ],
+    "correct": 2,
+    "explanation": "Aminoacidet kanë veti amfoterike (grup amin dhe karboksil)."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-077",
+    "question": "Urea është produkt përfundimtar i:",
+    "answers": [
+      "Proteinave.",
+      "Karbohidrateve",
+      "Lipideve",
+      "Hemit"
+    ],
+    "correct": 0,
+    "explanation": "Urea është produkt përfundimtar i proteinave."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-078",
+    "question": "Bilirubina është produkt përfundimtar i:",
+    "answers": [
+      "Aminoacideve.",
+      "Hemit.",
+      "Bazave purine",
+      "Glukozës"
+    ],
+    "correct": 1,
+    "explanation": "Bilirubina është produkt përfundimtar i hemit."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-079",
+    "question": "Katabolizmi i kolesterolit jep:",
+    "answers": [
+      "Acidet biliare",
+      "Bilirubinen direkte",
+      "Bilirubinen indirekte",
+      "Acid urik"
+    ],
+    "correct": 0,
+    "explanation": "Katabolizmi i kolesterolit jep acide biliare."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-080",
+    "question": "Janë lipoproteina:",
+    "answers": [
+      "LDH",
+      "LDL",
+      "ALT",
+      "AST"
+    ],
+    "correct": 1,
+    "explanation": "LDL është lipoproteinë."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-081",
+    "question": "Gjatë glikolizës formohet:",
+    "answers": [
+      "1,3-bifosfoglicerat",
+      "Fosfatidilkolina",
+      "Diacilglicerol",
+      "Triacilglicerol"
+    ],
+    "correct": 0,
+    "explanation": "Në glikolizë formohet 1,3-bifosfoglicerati."
+  },
+  {
+    "id": "lab-10-biokimi-klinike-082",
+    "question": "Kilomikronet kanë % më të lartë:",
+    "answers": [
+      "Proteinë",
+      "Triacilglicerol",
+      "Kolesterol i lirë",
+      "Fosfolipide"
+    ],
+    "correct": 1,
+    "explanation": "Kilomikronet kanë përqindje më të lartë të triacilglicerolit."
+  }
+]

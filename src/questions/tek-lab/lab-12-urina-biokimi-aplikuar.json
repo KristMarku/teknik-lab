@@ -1,0 +1,603 @@
+[
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-001",
+    "question": "Në ekzaminimin urinar me mikroskop optik mund t'i dallojmë të gjitha,përveç:",
+    "answers": [
+      "Cilindra",
+      "Kristale",
+      "Baktere",
+      "Viruse"
+    ],
+    "correct": 3,
+    "explanation": "Viruset nuk dallohen me mikroskop optik në urinë."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-002",
+    "question": "Ne ekzaminimin rutinë mikroskopik të sedimentit urinar hasen mjaft rrallë:",
+    "answers": [
+      "Kristalet e acidit urik",
+      "Kristalet e cistinës",
+      "Oksalatet e kalçiumit",
+      "Kristalet triplifosfat"
+    ],
+    "correct": 1,
+    "explanation": "Kristalet e cistinës hasen rrallë në sedimentin rutinë."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-003",
+    "question": "Ne ekzaminimin fizik rutinë të kampionit urinar janë të gjitha, përveç:",
+    "answers": [
+      "Olumi",
+      "Ngjyra",
+      "PH",
+      "Arom"
+    ],
+    "correct": 2,
+    "explanation": "pH matet kimikisht (strip), jo në ekzaminimin fizik."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-004",
+    "question": "Duket me vështirësi në ekzaminimin rutinë mikroskopik:",
+    "answers": [
+      "Cilindri hialin",
+      "Cilindri granular",
+      "Clindri eritrocitar",
+      "Cilindri leukocitar"
+    ],
+    "correct": 0,
+    "explanation": "Cilindri hialin duket me vështirësi (indeks refraksioni i ulët)."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-005",
+    "question": "Konsiderohet e freskët në ekzaminimin rutinë mikroskopik të sedimentit urinar, kur kampioni urinar është marrë :",
+    "answers": [
+      "Brenda 8 orësh nga çasti i ekzaminimit",
+      "Brenda 12 orësh nga çasti i ekzaminimit",
+      "Brenda 2 orësh nga çasti i ekzaminimit",
+      "Brenda 6 oresh nga çasti i ekzaminimit"
+    ],
+    "correct": 2,
+    "explanation": "Kampioni konsiderohet i freskët kur ekzaminohet brenda 2 orësh."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-006",
+    "question": "Për ekzaminimin rutinë mikroskopik të sedimentit urinar, centrifugimi zakonisht bëhet me:",
+    "answers": [
+      "1000r.p.m. për 10minuta",
+      "5000 r.p.m. për 10 minuta",
+      "2500-3000 r.p.m. për 5 minuta",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Centrifugimi standard: 2500-3000 rpm për 5 minuta."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-007",
+    "question": "Sedimenti urinar shihet në një ekzaminim rutinë në mikroskopin optik:",
+    "answers": [
+      "Me objektivin 40X",
+      "Me objektivin 100x",
+      "Me objektivin 10x",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Sedimenti shihet me objektivin 40X."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-008",
+    "question": "Ekzaminimi me urinometër nuk jep informacion për prani në urinë të:",
+    "answers": [
+      "Glukozës",
+      "Kristaleve",
+      "Eritrociteve",
+      "Leukociteve"
+    ],
+    "correct": 1,
+    "explanation": "Urinometri mat vetëm peshën specifike; nuk jep informacion për kristale."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-009",
+    "question": "Ekzaminimi me urinometër nuk jep informacion për prani në urinë të:",
+    "answers": [
+      "Pigmenteve biliare",
+      "Ketoneve",
+      "Cilindrave urinarë",
+      "Nitriteve"
+    ],
+    "correct": 2,
+    "explanation": "Urinometri nuk jep informacion për cilindrat urinarë."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-010",
+    "question": "Eshtë i njohur më tepër fakti se hasen kristale në ekzaminimin mikroskopik të sedimentit urinar tek:",
+    "answers": [
+      "Individi që përdor antibiotikë si ampicilina",
+      "Individi që përdor antiaritmikët e zemrës",
+      "Individi që përdor antiinflamatorë, si aspirina",
+      "Individi që përdor kontraceptivë"
+    ],
+    "correct": 0,
+    "explanation": "Kristale hasen më shpesh te përdoruesit e antibiotikëve si ampicilina."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-011",
+    "question": "Në gabime të bashkëlindura të metabolizmit të aminoacideve mund të hasen më shpesh:",
+    "answers": [
+      "Kristalet e cistinës",
+      "Kristalet e tirozinës",
+      "Kristalet e acidit urik",
+      "Kksalatet e kalçiumit"
+    ],
+    "correct": 0,
+    "explanation": "Në aminoaciduri të lindura haset cistina."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-012",
+    "question": "Për vlerësimin me real të cilindrave hialine apo granulare nuk konsiderohet fakt qe:",
+    "answers": [
+      "Individi ka kryer stres fizik brenda 2 ditëve të fundit",
+      "Individi ka kryer stres psikologjik brenda 2 ditëve të fundit",
+      "Individi ka pasur temperaturë te lartë kalimtare",
+      "Individi ka kryer stres psikologjik ose fizik para një jave"
+    ],
+    "correct": 3,
+    "explanation": "Stresi fizik/psikologjik para një jave nuk konsiderohet."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-013",
+    "question": "Eshtë tregues me prognozë më të keqe:",
+    "answers": [
+      "Cilindri granular",
+      "Cilindri dyllor",
+      "Cilindri hialin",
+      "Cilindri leukocitar"
+    ],
+    "correct": 1,
+    "explanation": "Cilindri dyllor ka prognozën më të keqe (dëmtim renal kronik)."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-014",
+    "question": "Principet e ekzaminimeve urinometrike rutinë me strip reagent janë:",
+    "answers": [
+      "Me bazë kolorimetrike",
+      "Me bazë turbidimetrike",
+      "Me bazë nefelometrike",
+      "Me bazë fluorometrike"
+    ],
+    "correct": 0,
+    "explanation": "Stripet reagente bazohen në kolorimetri."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-015",
+    "question": "E kalojnë të gjitha normalisht barrierën hematoencefalike, përjashto:",
+    "answers": [
+      "Alkoolin",
+      "Penicilinën",
+      "Monoksidin e karbonit",
+      "Drogat neuroaktive"
+    ],
+    "correct": 1,
+    "explanation": "Penicilina nuk e kalon normalisht barrierën hematoencefalike."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-016",
+    "question": "Në një ethe febrile vlejnë të gjitha, përveç:",
+    "answers": [
+      "Mund të shoqërohet me rritje të leukociteve",
+      "Temperatura është gjithmonë > 38,5",
+      "Temperatura është në përgjithësi >38,5",
+      "Temperatura mund të jetë normale"
+    ],
+    "correct": 3,
+    "explanation": "Në ethe temperatura është e rritur mbi vlerat normale; që të jetë normale nuk përputhet me ethet."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-017",
+    "question": "Tek një alkoolist vlejnë të gjitha, përveç:",
+    "answers": [
+      "Rritet katalaza",
+      "Rritet gammaglutamiltransferaza",
+      "Rritet adenilat ciklaza e trombociteve",
+      "Ulet volumi korpuskular mesatar i eritrociteve"
+    ],
+    "correct": 3,
+    "explanation": "Te alkoolisti MCV rritet, jo ulet."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-018",
+    "question": "Në një dyshim për pankreatit biliar na çojnë të gjitha, përveç:",
+    "answers": [
+      "Mosha mbi 50 vjeç",
+      "Amilaza mbi 4000U/l",
+      "Seksi mashkull",
+      "Alaninë aminotransferaza> 100 UI/l"
+    ],
+    "correct": 2,
+    "explanation": "Pankreatiti biliar: mosha >50, amilaza e lartë, ALT >100; seksi femër është më tipik."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-019",
+    "question": "Diabeti insipid mund të shkaktohet nga të gjitha, përveç:",
+    "answers": [
+      "Pamjafueshmërise veshkore",
+      "Pacientëve që marrin Litium",
+      "Shtatzanise",
+      "Pacientëve që marrin digoksinë"
+    ],
+    "correct": 3,
+    "explanation": "Digoksina nuk shkakton diabet insipid."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-020",
+    "question": "Si reagim në një gjendje febrile nga infeksioni akut, do të ndodhin të gjitha, përveç:",
+    "answers": [
+      "Rritje e fibrinogjenit",
+      "Rritje e eritrosedimentacionit",
+      "Ulje e proteinës C reaktive",
+      "Rritje e polimorfonuklearëve"
+    ],
+    "correct": 2,
+    "explanation": "Në infeksion akut rritet CRP (jo ulet)."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-021",
+    "question": "Doza toksike konsiderohet e tille kur është:",
+    "answers": [
+      "Në mbi 60% të popullatës",
+      "Në mbi 50% të popullatës",
+      "Në mbi 70% të popullatës",
+      "Në mbi 90% të popullatës"
+    ],
+    "correct": 1,
+    "explanation": "Doza toksike afërsisht në mbi 50% të popullatës."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-022",
+    "question": "Dozimi i acidit laktik nuk ka rëndësi:",
+    "answers": [
+      "Në nje intoksikim nga alkooli",
+      "Në nje infarkt të trurit",
+      "Në një infeksion fungal të trurit",
+      "Në një infarkt të zorrës"
+    ],
+    "correct": 2,
+    "explanation": "Acidi laktik nuk ka rëndësi në infeksion fungal të trurit."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-023",
+    "question": "Nuk konsiderohet katastrofe abdominale:",
+    "answers": [
+      "Sëmundja iskemike e zemrës",
+      "Aneurizma e aortës abdminale",
+      "Shtatzania ektopike",
+      "Infarkti i zorrës"
+    ],
+    "correct": 0,
+    "explanation": "Sëmundja iskemike e zemrës nuk konsiderohet katastrofë abdominale."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-024",
+    "question": "Për pankreatitin akut ka rëndësi dhe përdorimi dhe në përcaktimin urinar:",
+    "answers": [
+      "Amilaza",
+      "Aipaza",
+      "Fosfataza alkaline",
+      "Aspartat aminotransferaza"
+    ],
+    "correct": 0,
+    "explanation": "Amilaza urinare ka rëndësi në pankreatitin akut."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-025",
+    "question": "Aktiviteti enzimatik përcaktohet me:",
+    "answers": [
+      "Metodë kinetike",
+      "Metodë kolorimetrike end-point",
+      "Metodë fixed time",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Aktiviteti enzimatik përcaktohet me metodë kinetike."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-026",
+    "question": "Rezulton metodë e parapëlqyer për përcaktimin veç e veç të proteinave të fazës akute të inflamacionit:",
+    "answers": [
+      "Nefelometria",
+      "Metoda kinetike me faktor",
+      "Metoda kolorimetrike end-point",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Proteinat e fazës akute përcaktohen me nefelometri."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-027",
+    "question": "Proteina totale dhe albuminat përcaktohen me metodën:",
+    "answers": [
+      "Kolorimetrike end-point",
+      "Kinetike",
+      "Fixed time",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Proteinat totale dhe albuminat: metodë kolorimetrike end-point."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-028",
+    "question": "Në një inflamacion akut rritet dhe normalizohet më herët:",
+    "answers": [
+      "Eritrosedimenti",
+      "Fibrinogjeni",
+      "Proteina C reaktive",
+      "Albumina"
+    ],
+    "correct": 2,
+    "explanation": "CRP rritet dhe normalizohet më herët në inflamacion akut."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-029",
+    "question": "Për elektroforezën e proteinave, vlejnë të gjitha përveç:",
+    "answers": [
+      "Në shpejtësinë e grimcave proteinike ndikon fusha elektrike e aplikuar",
+      "Në shpejtesinë e grimcave proteinike ndikon mbartësi i ngurtë",
+      "Albuminat ecin më ngadalë se globulinat",
+      "Albuminat kanë më tepër ngarkesë elektrike se globulinat"
+    ],
+    "correct": 2,
+    "explanation": "Albuminat ecin më shpejt (jo më ngadalë) se globulinat."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-030",
+    "question": "Për elektroforezën e proteinave vlejnë të gjitha, përveç:",
+    "answers": [
+      "Igg del në zonën gamma të elektroforezës",
+      "Fibrinogjeni del midis zonës β-γ tyë elektroforezës së serumit",
+      "Fibrinogjeni del midis zonës β-γ të elektroforezës së plazmës",
+      "Albumina është fraksioni i parë elektroforetik më i afërt me vendin e pikimit të kampionit"
+    ],
+    "correct": 1,
+    "explanation": "Fibrinogjeni gjendet vetëm në plazmë, jo në serum."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-031",
+    "question": "Nuk eshtë tregues më i hershëm i ndryshimit të statusit nutricional:",
+    "answers": [
+      "Albumina",
+      "Prealbumina",
+      "Proteina lidhëse e retinolit",
+      "Proteina C reaktive"
+    ],
+    "correct": 0,
+    "explanation": "Albumina (gjysmëjetë e gjatë) nuk është tregues i hershëm i statusit nutricional."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-032",
+    "question": "Nuk eshte proteine e fazës akute \"negative\" të inflamacionit:",
+    "answers": [
+      "Albumina",
+      "Ceruloplazmina",
+      "Prealbumina",
+      "Transferina"
+    ],
+    "correct": 1,
+    "explanation": "Ceruloplazmina është proteinë e fazës akute pozitive."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-033",
+    "question": "Nuk eshte proteine e fazës akute \"pozitive\" të inflamacionit:",
+    "answers": [
+      "Proteina C reaktive",
+      "Fibrinogjeni",
+      "Transferina",
+      "Alfa-1 antitripsina"
+    ],
+    "correct": 2,
+    "explanation": "Transferina është proteinë e fazës akute negative."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-034",
+    "question": "Parametrat e vlerësimit të statusit nutricional mund të jenë:",
+    "answers": [
+      "Proteinikë",
+      "Yndyrorë",
+      "Antropometrikë",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Statusi nutricional vlerësohet me parametra proteinikë, yndyrorë dhe antropometrikë."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-035",
+    "question": "Praktikisht shprehet me g/dl në serum:",
+    "answers": [
+      "Glicemia",
+      "Kolesterolemia",
+      "Proteina totale",
+      "Trigliceridemia"
+    ],
+    "correct": 2,
+    "explanation": "Proteina totale shprehet në g/dl."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-036",
+    "question": "Përcaktohet në përgjithësi me metodën me kohë të fiksuar:",
+    "answers": [
+      "Kreatinermia",
+      "Kolesterolemia",
+      "Trigliceridemia",
+      "Proteina C reaktive"
+    ],
+    "correct": 0,
+    "explanation": "Kreatinemia përcaktohet zakonisht me metodë të kohës së fiksuar."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-037",
+    "question": "Janë alternativa të troponinës në diagnozën e Infarktit të Miokardit:",
+    "answers": [
+      "Kreatinkinaza dhe izoenzima e kreatinkinazës CK-MB",
+      "Laktat dehidrogjenaza dhe alaninë aminotransferaza",
+      "Aspartat aminotransferaza dhe alanine aminotransferaza",
+      "Amilaza dhe lipaza"
+    ],
+    "correct": 0,
+    "explanation": "CK dhe CK-MB janë alternativa të troponinës në IAM."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-038",
+    "question": "Njësia ndërkombëtare e akivitetit enzimatik përcaktohet si:",
+    "answers": [
+      "Masa e tyre si njësi e sasisë së lëndës",
+      "Sasia e substratit të zhvendosur në njësinë e kohës, në një reaksion që katalizohet prej saj",
+      "Sasia e enzimës që katalizon transformimin e një mikromol substrati/min në kushte standarte temperature dhe pehashi",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Njësia ndërkombëtare është sasia e enzimës që katalizon 1 μmol substrat/min."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-039",
+    "question": "Karakteristikat e një shenjuesi nutricional ideal janë të gjitha, përveç:",
+    "answers": [
+      "Është specifik për qëllimin që matet",
+      "Ka ndjeshmëri të lartë",
+      "Gjysmëjetë të gjatë",
+      "Përgjigjet menjëherë ndaj suplementeve (ushqimeve shtesë e zëvendësuese)"
+    ],
+    "correct": 2,
+    "explanation": "Shenjuesi ideal nutricional ka gjysmëjetë të shkurtër, jo të gjatë."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-040",
+    "question": "Në ekzaminimet fotometrike në metodën kolorimetrike end-point:",
+    "answers": [
+      "Standarti shërben për të përcaktuar faktorin",
+      "Standarti shërben për të kontrolluar saktësinë e ekzaminimit",
+      "Standarti shërben për të kontrolluar saktësinë e aparatit",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Në end-point standardi shërben për të përcaktuar faktorin."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-041",
+    "question": "Në ekzaminimet fotometrike end point, për kufirin e linearitetit vlejnë të gjitha, përveç:",
+    "answers": [
+      "Është ajo vlerë ku marrëdhënia absorbancë- përqëndrim është në",
+      "Përpjestim të drejtë",
+      "Është ajo vlerë ku marrëdhënia absorbancë-përqëndrim është në përpjestim të zhdrejtë",
+      "Kufiri i linearitetit është ajo vlerë deri ku gjen zbatim ligji i Lamber-Berit",
+      "Vlerat përtej kufirit të linearitetit nxjerrin nevojën për hollim të kampionit."
+    ],
+    "correct": 2,
+    "explanation": "Kufiri i linearitetit është ku absorbanca është në përpjesëtim të drejtë me përqendrimin."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-042",
+    "question": "Absorbanca shprehet në:",
+    "answers": [
+      "G/dl",
+      "Mg/dl",
+      "UI/l",
+      "Asnjëra"
+    ],
+    "correct": 3,
+    "explanation": "Absorbanca nuk ka njësi."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-043",
+    "question": "Parametër i llogaritur, tek lipidograma është:",
+    "answers": [
+      "Kolesterolemia totale",
+      "Trigliceridemia",
+      "VLDL-kolesterolemia",
+      "HDL-kolesterolemia"
+    ],
+    "correct": 2,
+    "explanation": "VLDL-kolesterolemia llogaritet (TG/5)."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-044",
+    "question": "Janë ekzaminime klasike në ndihmë të diagnozës së Infarktit të Miokardit:",
+    "answers": [
+      "Kreatinkinaza, laktat dehidrogjenaza, aspartat aminotransferaza",
+      "Kreatinkinaza, laktat dehidrigjenaza, alanine aminotransferaza",
+      "Kreatinkinaza, laktat dehidrogjenaza, fosfataza alkaline",
+      "Kreatinkinaza, laktat dehidrogjenaza, gamma-glutamiltransferaza"
+    ],
+    "correct": 0,
+    "explanation": "Enzimat klasike në IAM: CK, LDH, AST."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-045",
+    "question": "Janë metodat më specifike për matjen sasiore të glicemisë:",
+    "answers": [
+      "Metoda me hekzokinazë ose ajo me glukozëoksidazë",
+      "Metoda me hekzokinazë ose ajo me peroksidazë",
+      "Metoda trinder ose metoda me ortotoluidinë",
+      "Vetëm metoda Benedikt"
+    ],
+    "correct": 0,
+    "explanation": "Hekzokinaza dhe glukozë-oksidaza janë metodat më specifike për glicemi."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-046",
+    "question": "Proteina totale në përgjithësi përcaktohet me:",
+    "answers": [
+      "Metodën me briomkezol-griin",
+      "Me metodën trinder",
+      "Një metodë kinetike me faktor",
+      "Metodën e Biuretit"
+    ],
+    "correct": 3,
+    "explanation": "Proteina totale përcaktohet me metodën e Biuretit."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-047",
+    "question": "Tek diabetikët vlen për monitorimin e vlerës mesatare të glukozës, përcaktimi periodik i:",
+    "answers": [
+      "Hemoglobinës së glukozuar",
+      "Kurbës ditore të glukozës",
+      "Glicemisë",
+      "Glicemise esëll"
+    ],
+    "correct": 0,
+    "explanation": "HbA1c monitoron glukozën mesatare afatgjatë."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-048",
+    "question": "Më e pranuara në përcaktimin fotometrik të kalçiumit total është:",
+    "answers": [
+      "Metoda me arsenazo",
+      "Metoda me oksrezolftaleinë",
+      "Metoda me metilbromtymol",
+      "Metoda me kromazol-blu"
+    ],
+    "correct": 1,
+    "explanation": "Metoda më e pranuar fotometrike për kalçiumin total është ajo me o-krezolftaleinë kompleksone."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-049",
+    "question": "është treguesi më besnik i acidozës metabolike:",
+    "answers": [
+      "Bazë eksesi pozitiv",
+      "Bazë eksesi negativ",
+      "Presioni pjesor i dioksidit të karbonit i rritur",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Baza e eksesit negativ është treguesi më besnik i acidozës metabolike."
+  },
+  {
+    "id": "lab-12-urina-biokimi-aplikuar-050",
+    "question": "Për përcaktimin gjysmesasior të glukozës në urinë gjen përdorim:",
+    "answers": [
+      "Metoda Benedikt",
+      "Metoda me hekzokinazë",
+      "Metoda e Biuretit",
+      "Metoda me arsenazo"
+    ],
+    "correct": 0,
+    "explanation": "Metoda Benedikt përdoret gjysmë-sasiore për glukozën në urinë."
+  }
+]

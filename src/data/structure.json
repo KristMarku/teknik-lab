@@ -1,0 +1,113 @@
+{
+    "id": "root",
+    "title": "Teknik Laboratori",
+    "type": "root",
+    "description": "Zgjidh provimin ose temat e Teknik Laboratorit.",
+    "children": [
+        {
+            "id": "exam",
+            "title": "Provimi",
+            "type": "exam",
+            "description": "Simulo provimin me 50 pyetje të rastësishme nga të gjitha temat."
+        },
+        {
+            "id": "teknik-laboratori",
+            "title": "Kapitujt",
+            "type": "folder",
+            "description": "Zgjidh një temë për të praktikuar të gjitha pyetjet me radhë ose të përziera.",
+            "children": [
+                {
+                    "id": "lab-01-anatomi-fiziologji",
+                    "title": "Anatomi dhe Fiziologji",
+                    "type": "lesson",
+                    "questionFile": "tek-lab/lab-01-anatomi-fiziologji.json",
+                    "description": "Praktiko: Anatomi dhe Fiziologji."
+                },
+                {
+                    "id": "lab-02-shendet-publik-etike-legjislacion-histologji",
+                    "title": "Shëndet Publik, Etikë, Legjislacion dhe Histologji",
+                    "type": "lesson",
+                    "questionFile": "tek-lab/lab-02-shendet-publik-etike-legjislacion-histologji.json",
+                    "description": "Praktiko: Shëndet Publik, Etikë, Legjislacion dhe Histologji."
+                },
+                {
+                    "id": "lab-03-biologji-pergjithshme-farmakologji",
+                    "title": "Biologji e Përgjithshme dhe Farmakologji",
+                    "type": "lesson",
+                    "questionFile": "tek-lab/lab-03-biologji-pergjithshme-farmakologji.json",
+                    "description": "Praktiko: Biologji e Përgjithshme dhe Farmakologji."
+                },
+                {
+                    "id": "lab-04-shendet-mjedisor",
+                    "title": "Shëndet Mjedisor",
+                    "type": "lesson",
+                    "questionFile": "tek-lab/lab-04-shendet-mjedisor.json",
+                    "description": "Praktiko: Shëndet Mjedisor."
+                },
+                {
+                    "id": "lab-05-imunologji",
+                    "title": "Imunologji",
+                    "type": "lesson",
+                    "questionFile": "tek-lab/lab-05-imunologji.json",
+                    "description": "Praktiko: Imunologji."
+                },
+                {
+                    "id": "lab-06-anatomi-patologjike",
+                    "title": "Anatomi Patologjike",
+                    "type": "lesson",
+                    "questionFile": "tek-lab/lab-06-anatomi-patologjike.json",
+                    "description": "Praktiko: Anatomi Patologjike."
+                },
+                {
+                    "id": "lab-07-biologji-molekulare-gjenetike",
+                    "title": "Biologji Molekulare dhe Gjenetikë",
+                    "type": "lesson",
+                    "questionFile": "tek-lab/lab-07-biologji-molekulare-gjenetike.json",
+                    "description": "Praktiko: Biologji Molekulare dhe Gjenetikë."
+                },
+                {
+                    "id": "lab-08-lendet-biologjike-hematologji",
+                    "title": "Lëndët Biologjike dhe Hematologji",
+                    "type": "lesson",
+                    "questionFile": "tek-lab/lab-08-lendet-biologjike-hematologji.json",
+                    "description": "Praktiko: Lëndët Biologjike dhe Hematologji."
+                },
+                {
+                    "id": "lab-09-mikrobiologji-diagnostike",
+                    "title": "Mikrobiologji Diagnostike",
+                    "type": "lesson",
+                    "questionFile": "tek-lab/lab-09-mikrobiologji-diagnostike.json",
+                    "description": "Praktiko: Mikrobiologji Diagnostike."
+                },
+                {
+                    "id": "lab-10-biokimi-klinike",
+                    "title": "Biokimi Klinike",
+                    "type": "lesson",
+                    "questionFile": "tek-lab/lab-10-biokimi-klinike.json",
+                    "description": "Praktiko: Biokimi Klinike."
+                },
+                {
+                    "id": "lab-11-virologji-diagnostike",
+                    "title": "Virologji Diagnostike",
+                    "type": "lesson",
+                    "questionFile": "tek-lab/lab-11-virologji-diagnostike.json",
+                    "description": "Praktiko: Virologji Diagnostike."
+                },
+                {
+                    "id": "lab-12-urina-biokimi-aplikuar",
+                    "title": "Urina dhe Biokimi e Aplikuar",
+                    "type": "lesson",
+                    "questionFile": "tek-lab/lab-12-urina-biokimi-aplikuar.json",
+                    "description": "Praktiko: Urina dhe Biokimi e Aplikuar."
+                },
+                {
+                    "id": "lab-ekstra-mesimonline",
+                    "title": "Pyetje Ekstra – Mësim Online",
+                    "type": "lesson",
+                    "questionFile": "tek-lab/lab-ekstra-mesimonline.json",
+                    "description": "Praktiko: Pyetje Ekstra – Mësim Online."
+                }
+            ]
+        }
+    ]
+}

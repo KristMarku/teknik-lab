@@ -1,0 +1,686 @@
+[
+  {
+    "id": "lab-04-shendet-mjedisor-001",
+    "question": "Studimet descriptive:",
+    "answers": [
+      "Bejne vetem pershkrimin e gjerave",
+      "Nuk perdoren per studimin e ekspozimeve",
+      "Nuk perdoren per studimin e efekteve",
+      "Perdoren vetem per ekspozimet"
+    ],
+    "correct": 0,
+    "explanation": "Studimet përshkruese vetëm përshkruajnë shpërndarjen e sëmundjes dhe ekspozimeve, pa testuar shkak."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-002",
+    "question": "Studimet ekologjike:",
+    "answers": [
+      "Njesia e analizes është individi",
+      "Jane te dobishme per gjenerimin e hipotezave",
+      "Vleresohen te plota per percaktimin e shkakesise",
+      "Jane te kushtueshme"
+    ],
+    "correct": 1,
+    "explanation": "Studimet ekologjike janë të lira dhe të dobishme për gjenerimin e hipotezave; njësia e analizës është grupi, jo individi."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-003",
+    "question": "Kontrolli i ekspozimit ndaj FD ne nivel personi:",
+    "answers": [
+      "Duhet menduar si zgjidhja kryesore",
+      "Lidhet me numrin e personave te ekspozuar",
+      "Nuk ka te beje me rregullimin e kohes se ekspozimit",
+      "Nuk ka te beje me nderrimin e detyrave"
+    ],
+    "correct": 1,
+    "explanation": "Kontrolli i ekspozimit në nivel personi lidhet me numrin e personave të ekspozuar, kohën dhe ndryshimin e detyrave."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-004",
+    "question": "Indikatoret per monitorimin e riskut:",
+    "answers": [
+      "Nuk ka vlere besueshmeria",
+      "Nuk është e rendesishme lehtesia e matjes",
+      "Nuk duhet te jene te lidhur ngushte me risqet",
+      "Duhet te shfaqen shpejt pas ekspozimit"
+    ],
+    "correct": 3,
+    "explanation": "Treguesit e monitorimit të riskut duhet të shfaqen shpejt pas ekspozimit, të jenë të besueshëm e të lehtë për t'u matur."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-005",
+    "question": "Kalimi i lendeve toksike ne gjak:",
+    "answers": [
+      "Nuk lidhet me perqendrimin",
+      "Varet nga kohezgjatja e ekspozimit",
+      "Nuk lidhet me tretshmerine e l.toksike ne inde",
+      "Nuk varet nga sasia e ajrit te thithur"
+    ],
+    "correct": 1,
+    "explanation": "Kalimi i lëndëve toksike në gjak varet nga përqendrimi, koha e ekspozimit dhe tretshmëria."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-006",
+    "question": "SO2 si lende ndotese ne ajer ka :",
+    "answers": [
+      "Efekt kryesor-demtimi i trurit",
+      "Nuk ka lidhje me rreshjet acid",
+      "Ndotesi kryesor me permbajtje squfuri",
+      "Eshtë bere problem vetem dekadat e fundit"
+    ],
+    "correct": 2,
+    "explanation": "SO2 është ndotësi kryesor me squfur dhe shkakton shirat acidë, duke dëmtuar mushkëritë dhe mjedisin."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-007",
+    "question": "Fluoruret:",
+    "answers": [
+      "Futen ne organizem kryesisht me ane te ushqimeve",
+      "Merren me ane te ujit te pijshem",
+      "Mungesa e tyre ne uje ul incidencen e kariesit",
+      "Flurore me pakice - shfaqeje e flurozes"
+    ],
+    "correct": 1,
+    "explanation": "Fluoruret merren kryesisht me ujin e pijshëm dhe parandalojnë kariesin; teprica jep fluorozë."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-008",
+    "question": "FD e pranueshme e kimikateve me ane te ujit:",
+    "answers": [
+      "Nuk garanton mbrojtjen e subjekteve vulnerable",
+      "Nuk merr ne konsiderate faktoret e ( pa) sigurise",
+      "Nivel nen te cilin nuk hasen efekte shendetesore",
+      "Nuk merr parasysh futjen e kimikatit ne rruge te tjera"
+    ],
+    "correct": 2,
+    "explanation": "Doza e pranueshme është niveli nën të cilin nuk shfaqen efekte shëndetësore te popullata, përfshirë grupet e ndjeshme."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-009",
+    "question": "Pamjaftueshmeria e hekurit:",
+    "answers": [
+      "Risku i anemise nuk është i madh per grate",
+      "Nuk ndikohet nga parazitozat",
+      "Ndikohet nga dieta",
+      "Haset me shume ne vendet e zhvilluara"
+    ],
+    "correct": 2,
+    "explanation": "Mungesa e hekurit ndikohet nga dieta e parazitozat dhe i rrit anemitë te gratë."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-010",
+    "question": "Efektet shendetesore te pesticideve:",
+    "answers": [
+      "Nuk prekin sistemin imun te organizmit",
+      "Nuk prekin organet e riprodhimit",
+      "Nuk demtojne lekuren",
+      "Kane efekte teratogjenike"
+    ],
+    "correct": 3,
+    "explanation": "Pesticidet kanë efekte teratogjenike, prekin sistemin imun, riprodhimin e lëkurën."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-011",
+    "question": "Strehimi dhe shendeti:",
+    "answers": [
+      "Strehimi nuk ndikon mbi incidencat e semundjeve ngjitese",
+      "Risku per Ca pulm nuk lidhet me strehimin",
+      "Shëndeti psikosocial ndikohet nga dendesia e banimit",
+      "Strehimi nuk ka te beje me aksidentet"
+    ],
+    "correct": 2,
+    "explanation": "Dendësia e banimit ndikon shëndetin psikosocial (stres, mungesë private); strehimi lidhet edhe me sëmundjet dhe aksidentet."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-012",
+    "question": "Efektet ekstraauditive te zhurmave:",
+    "answers": [
+      "Nuk lidhen me presionin arterial",
+      "Nuk kane crregullime te gjumit",
+      "Ndikojne mbi sistemin imun",
+      "Rritje e irritabilitetit SNQ"
+    ],
+    "correct": 3,
+    "explanation": "Zhurma, përtej dëmtimit të dëgjimit, rrit irritueshmërinë dhe ngacmueshmërinë e SNQ, prish gjumin e rrit tensionin."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-013",
+    "question": "Programi i nje qyteti te shendetshem:",
+    "answers": [
+      "Zgjedhjet jane multisektoriale",
+      "Rritje e pjesemarrjes ne vendimmarrje",
+      "Roli i publikut i paperfillshem",
+      "Nje akt dhe jo proces ne vazhdimesi"
+    ],
+    "correct": 0,
+    "explanation": "Programi i qytetit të shëndetshëm bazohet në zgjedhje multisektoriale dhe pjesëmarrje të komunitetit."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-014",
+    "question": "Lendet djegese te biomases:",
+    "answers": [
+      "Nuk permbajne pjeseza te respirueshme",
+      "Permbajne (SO)x",
+      "Problem ne vendet e varfra",
+      "Nuk permbajne HPA"
+    ],
+    "correct": 2,
+    "explanation": "Lëndët djegëse të biomasës janë problem në vendet e varfra, ku përdoren në ambiente të mbyllura."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-015",
+    "question": "Faktoret gjenetike:",
+    "answers": [
+      "Genet funksionojne pafundesisht",
+      "Ndikojne mbi vulnerabilitetin",
+      "Nuk ndikohen nga mjedisi",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Faktorët gjenetikë ndikojnë në ndjeshmërinë (vulnerabilitetin) ndaj ndikimeve të mjedisit."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-016",
+    "question": "Shëndeti mjedisor:",
+    "answers": [
+      "Nuk lidhet me kualitetin e jetes",
+      "Nuk ndikohet nga faktoret sociale",
+      "Ka lidhje me agjentet biologjike",
+      "Nuk lidhet me shendetin e gjeneratave pasardhese"
+    ],
+    "correct": 2,
+    "explanation": "Shëndeti mjedisor lidhet me agjentët biologjikë, kimikë e fizikë, me faktorët socialë dhe me cilësinë e jetës."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-017",
+    "question": "Ekspozimi:",
+    "answers": [
+      "Nuk merr ne konsiderate llojin e ndotesit",
+      "Ndikohet nga elementi kohe",
+      "Nuk ka lidhje me sasine e ndotesit",
+      "Nuk merr parasysh futjen e ndotesit"
+    ],
+    "correct": 1,
+    "explanation": "Ekspozimi varet nga elementi kohë, sasia e llojit të ndotësit dhe rruga e hyrjes."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-018",
+    "question": "Tranzicioni demografik:",
+    "answers": [
+      "Lidhet me numrin e vdekjeve",
+      "Nuk ndikohet nga numri i lindjeve",
+      "Ndikon mbi numrin e popullates",
+      "Nuk ka lidhje me shendetin"
+    ],
+    "correct": 0,
+    "explanation": "Tranzicioni demografik lidhet me ndryshimin e lindjeve dhe vdekjeve në popullatë."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-019",
+    "question": "Problemet e shendetit mjedisor:",
+    "answers": [
+      "Lidhen me migrimin, lindjet, etj",
+      "Nuk ndikohen nga varferia",
+      "Nuk lidhen me konsumin",
+      "Nuk ndikohen nga politikat makroekonomike"
+    ],
+    "correct": 0,
+    "explanation": "Problemet e shëndetit mjedisor lidhen me migrimin, lindjet, varfërinë dhe politikat makroekonomike."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-020",
+    "question": "Vleresimi i ekspozimit human:",
+    "answers": [
+      "Doza matet me lehtesi",
+      "Me mire matja e perqendrimit",
+      "Doza e marre nuk varet nga vecorite e individit",
+      "Doza eshte ne funksion te kohes se ekspozimit"
+    ],
+    "correct": 3,
+    "explanation": "Doza e marrë është në funksion të kohës së ekspozimit (përqendrim × kohë)."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-021",
+    "question": "Ligji i pare per Shendetin Publik:",
+    "answers": [
+      "Merrej kryesisht me ndotjen industriale",
+      "Nuk merrej me problemet e ujit",
+      "Trajtonte rreziqet nga semundjet ngjitese",
+      "Asnjera"
+    ],
+    "correct": 2,
+    "explanation": "Ligji i parë i shëndetit publik trajtonte rreziqet nga sëmundjet ngjitëse dhe higjienën."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-022",
+    "question": "Metodat direkte te vleres se ekspozimit:",
+    "answers": [
+      "Perfshijne metodat matematikore",
+      "Perdoren aparatet vetiake te monitorimit",
+      "Perdoren pyetesoret",
+      "Perdoren ditaret e punetoreve"
+    ],
+    "correct": 1,
+    "explanation": "Metodat direkte të vlerësimit të ekspozimit përdorin aparate individuale monitorimi; pyetësorët e ditarët janë metoda indirekte."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-023",
+    "question": "Standartet mjedisore jane:",
+    "answers": [
+      "Shume me te rrepta se ato profesionale",
+      "Nuk ndikohen nga grupet vulnerable",
+      "Risku profesional është me pak \" i pranueshem\"",
+      "Asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Standardet mjedisore janë shumë më të rrepta se ato profesionale, sepse mbrojnë edhe grupet e ndjeshme."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-024",
+    "question": "Varferia:",
+    "answers": [
+      "Nuk ka lidhje me jetegjatesine",
+      "Nuk lidhet me vdekshmerine foshnjore",
+      "Nuk ndikon mbi incidencen e semundjeve ngjitese",
+      "Ndikon mbi incidencen e paaftesise"
+    ],
+    "correct": 3,
+    "explanation": "Varfëria ndikon në paaftësinë, jetëgjatësinë, vdekshmërinë foshnjore e sëmundjet ngjitëse."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-025",
+    "question": "Risku:",
+    "answers": [
+      "Nuk është nje propabilitet",
+      "Shfaqet kur ka patur nje ekspozim",
+      "Eshtë faktor qe mund te shkaktoje efekt shendetesor",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Risku si probabilitet shfaqet vetëm kur ka pasur ekspozim ndaj një rreziku."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-026",
+    "question": "Doza efektive është:",
+    "answers": [
+      "Doza qe mund te vrase 50% te kafsheve",
+      "Doza qe shkakton efekte ne 50% te kafsheve",
+      "Merret vetem pas nje ekspozimi te zgjatur",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Doza efektive (ED50) shkakton efekt te 50% e subjekteve; doza që vret 50% është DL50."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-027",
+    "question": "Fusha elektromanjetike:",
+    "answers": [
+      "Eshtë nje rezatim i llojit jonizues",
+      "Nuk haset rreth linjave elektrike",
+      "Shkakton kataraktin e syrit",
+      "Mund te shkaktoje kancerin"
+    ],
+    "correct": 3,
+    "explanation": "Fusha elektromagnetike është rrezatim jo jonizues, por mund të shkaktojë kancer sipas disa studimeve (IARC 2B)."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-028",
+    "question": "Marredhenia D-E:",
+    "answers": [
+      "Lidhet me numrin e personave te prekur",
+      "Lidhet me gravitetin e efekteve",
+      "Nuk ekziston nje hierarki efektesh",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Marrëdhënia dozë–efekt (D-E) lidhet me gravitetin e efekteve në individ; dozë–përgjigje (D-P) lidhet me numrin e të prekurve."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-029",
+    "question": "Vleresimi i ekspozimit human:",
+    "answers": [
+      "Doza është e veshtire te matet",
+      "Me mire matja e perqendrimit",
+      "Doza e marre nuk varet nga vecorite e individit",
+      "Doza nuk është ne funksion te kohes"
+    ],
+    "correct": 0,
+    "explanation": "Doza e marrë është e vështirë të matet drejtpërdrejt, ndaj shpesh matet përqendrimi i ndotësit në mjedis."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-030",
+    "question": "Zhiva ( Merkuri ):",
+    "answers": [
+      "Nxirret ne mjedis nga automjetet",
+      "Perdoret si antiseptic/antifungal",
+      "Nuk perdoret ne prodhimin e pasqyrave",
+      "Nuk perdoret ne punimet e veshjes me ar"
+    ],
+    "correct": 1,
+    "explanation": "Merkuri përdoret si antiseptik/antifungal (merkurokrom, timerosal) dhe haset në punime e pasqyra."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-031",
+    "question": "Indikatoret e shendetit mjedisor:",
+    "answers": [
+      "ESH e perdourr duhet te shfaqet pas nje kohe te gjate",
+      "Te jene te lidhur me risqet & ekspozimin",
+      "Nuk ka rendesi lehtesia e matjes",
+      "Nuk ka vlere besueshmeria"
+    ],
+    "correct": 1,
+    "explanation": "Treguesit e shëndetit mjedisor duhet të lidhen me riskun dhe ekspozimin, të jenë të besueshëm e të lehtë për t'u matur."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-032",
+    "question": "Perfitim i drejtperdrejte nga menaxhimi i nje ESHM:",
+    "answers": [
+      "Nuk lidhen me jetet e fituara",
+      "Nuk kane te bejne me vitet e fituara te jetes",
+      "Nuk lidhen me vdekshmerine",
+      "Lidhen me kursimet ne sistemin shendetesor"
+    ],
+    "correct": 3,
+    "explanation": "Përfitimi i drejtpërdrejtë nga menaxhimi i një ESHM është kursimi në sistemin shëndetësor."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-033",
+    "question": "Akumulimi i lendeve ndotese ne ajer:",
+    "answers": [
+      "Nuk lidhet me relievin e tokes",
+      "Nuk lidhet me levizjet e ajrit",
+      "Lidhet me rezatimin diellor",
+      "Nuk lidhet me inversionet temperaturore"
+    ],
+    "correct": 2,
+    "explanation": "Grumbullimi i ndotësve në ajër lidhet me rrezatimin diellor (smogu fotokimik), si edhe me relievin e inversionet."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-034",
+    "question": "Efektet e drejtperdrejta te NO jane:",
+    "answers": [
+      "Nuk ka efekte ne aparatin respirator",
+      "Ka efekt ne shperndarjen e gjakut ne mushkeri",
+      "Eshte ndotes dytesor",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "NO ndikon drejtpërdrejt në shpërndarjen e gjakut në mushkëri dhe është ndotës primar e sekondar."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-035",
+    "question": "Osteporoza e menopauses:",
+    "answers": [
+      "Nuk ndikohet nga crregullimet endokrine",
+      "Nuk ndikohet nga keqfunksioni, gastrintest",
+      "Ndikohet nga ekspozimi ndaj kadiumit",
+      "Asnjera"
+    ],
+    "correct": 2,
+    "explanation": "Osteoporoza e menopauzës ndikohet nga çrregullimet endokrine (rënia e estrogjeneve) dhe nga ekspozimi ndaj kadmiumit."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-036",
+    "question": "Efektet toksike te pesticideve:",
+    "answers": [
+      "Nuk lidhen me substancat mbajtese",
+      "Lidhen me rrugen e ekspozimit",
+      "Nuk lidhen perberes qe permiresojne absorbimin",
+      "Nuk lidhen me dozen"
+    ],
+    "correct": 1,
+    "explanation": "Efektet toksike të pesticideve lidhen me rrugën e ekspozimit, dozën dhe përbërësit ndihmës."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-037",
+    "question": "Vendbanimet humane si ekosisteme:",
+    "answers": [
+      "Nuk lidhen me furnizimin me uje",
+      "Nuk ndikohen nga ujerat e hapura",
+      "Nuk lidhen me kushtet per jeten e eger",
+      "Lidhen me qeverisjen lokale"
+    ],
+    "correct": 3,
+    "explanation": "Vendbanimet njerëzore si ekosisteme lidhen me qeverisjen lokale, ujin dhe kushtet e jetesës."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-038",
+    "question": "Nivelet mesatare te ekspozimit jane:",
+    "answers": [
+      "Te destinuara per ekspozimet 15 minuteshe",
+      "Te destinuara per ekspozimet 8 oreshe",
+      "Nuk duhen tejkaluar per asnje moment",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Nivelet mesatare të ekspozimit synohen për ekspozime 8-orëshe (ditë pune)."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-039",
+    "question": "Ekosistemi i shendetit:",
+    "answers": [
+      "Nuk lidhet me burimet ujore",
+      "Nuk lidhet me ajrin",
+      "Nuk ndikohet nga aktiviteti i njeriut",
+      "Asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Ekosistemi i shëndetit lidhet me ujin, ajrin dhe veprimtarinë e njeriut; asnjë nga pohimet e mohuara nuk është e saktë."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-040",
+    "question": "Materiali gjenetik individual:",
+    "answers": [
+      "Ndikohet lehtesisht nga ekspozimi mjedisor",
+      "Ndikon ne vulnerabilitetin e subjekteve",
+      "Funksionon pa kufizim ne kohe",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Materiali gjenetik i individit ndikon në ndjeshmërinë e tij ndaj ekspozimit mjedisor."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-041",
+    "question": "Zhvillimi i qendrueshem:",
+    "answers": [
+      "Nuk lidhet me ekonomine",
+      "Lidhet me brezat e ardhshem",
+      "Nuk lidhet me mjedisin",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Zhvillimi i qëndrueshëm lidhet me brezat e ardhshëm, ekonominë dhe mjedisin."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-042",
+    "question": "Tranzicioni demografik nenkupton:",
+    "answers": [
+      "Nr. i vdekjeve është i ulet",
+      "Nr. i lindjeve është i ulet",
+      "Perben nje periudhe",
+      "Perben nje moment"
+    ],
+    "correct": 2,
+    "explanation": "Tranzicioni demografik është periudhë kalimi nga lindshmëri e vdekshmëri të larta në të ulëta."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-043",
+    "question": "Rreziqet fizike jane:",
+    "answers": [
+      "Rreziqet nga mjetet motorrike",
+      "Rreziqet nga sportet",
+      "Rreziqet nga rrezatimet",
+      "Demtimet ne vendin e punes"
+    ],
+    "correct": 2,
+    "explanation": "Rreziqet fizike janë ato nga rrezatimet, zhurma dhe temperatura; rreziqet nga mjetet e sportet janë traumatike."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-044",
+    "question": "Matja e mikroorganizmave ne shendetin shendetesor:",
+    "answers": [
+      "Behet ne uje te pijshem",
+      "Nuk perfshin analizen e ushqimeve",
+      "Nuk perfshin analizen e tokes",
+      "Asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Matja e mikroorganizmave në shëndetin mjedisor bëhet në ujin e pijshëm, por edhe në ushqime dhe tokë."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-045",
+    "question": "Studimet e toksicitetit akut:",
+    "answers": [
+      "Perdoren per matjen e toksicitetit te lendeve",
+      "Jane mjaftueshem te karakterizuara nga kimikatet",
+      "Perdoren per kancerogenet",
+      "Nuk perfshijne DL50 dhe PL 50"
+    ],
+    "correct": 0,
+    "explanation": "Studimet e toksicitetit akut maten me DL50/CL50 për të përcaktuar toksicitetin e lëndëve pas ekspozimit të vetëm."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-046",
+    "question": "Treguesi i viteve potenciale te humbura te jetes (VPHJ):",
+    "answers": [
+      "Tenton te gjykoje humbjen e jetes humane",
+      "Nuk lidhet me nr. e viteve produktive te jetes qe humbasin",
+      "Perdoret per te pershkruar humbjen e kontributeve",
+      "Demtimet shpjegojne nje vegel te VPHJ"
+    ],
+    "correct": 0,
+    "explanation": "Treguesi i viteve potenciale të humbura të jetës vlerëson humbjen e jetës nga vdekja e parakohshme."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-047",
+    "question": "Vleresimi i ekspozimit:",
+    "answers": [
+      "Nuk lidhet me identifikimin e burimit te ekspozimit",
+      "Nuk llogaritet lenda e futur ne organizem",
+      "Nuk nevojitet informacion demografik",
+      "Asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Vlerësimi i ekspozimit identifikon burimin, llogarit dozën e hyrë dhe kërkon të dhëna demografike, ndaj asnjë nga pohimet e mohuara nuk është e saktë."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-048",
+    "question": "Vleresimi i riskut per efektet e pragut:",
+    "answers": [
+      "Efektet nuk lidhen me dozen",
+      "Si tregues i dozes nuk perdoret numri i viteve te ekspozimit",
+      "Marredheniet D-P nuk perdoren per faktoret fizike",
+      "Asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Për efektet me prag, vlerësimi i riskut bazohet te marrëdhënia dozë–përgjigje."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-049",
+    "question": "Gjykimi mbi riskun:",
+    "answers": [
+      "Nuk lidhet me vendimmarrjet",
+      "I domosdoshem krahasimi me standartet",
+      "Nuk lidhet me publikun",
+      "Asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Gjykimi mbi riskun lidhet me vendimmarrjen dhe publikun; nga opsionet e dhëna përgjigjja e pranuar është 'asnjëra'."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-050",
+    "question": "Indikatoret ne shendetin mjedisor:",
+    "answers": [
+      "Jane te domosdoshem ne monitorimin e riskut",
+      "Nuk lidhen me jetegjatesine e pritshme",
+      "Nuk perfshijne peshen ne lindje",
+      "Nuk perfshijne vdekjet e parakohshme"
+    ],
+    "correct": 0,
+    "explanation": "Treguesit në shëndetin mjedisor janë të domosdoshëm për monitorimin e riskut; ata përfshijnë jetëgjatësinë, peshën në lindje e vdekjet e parakohshme."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-051",
+    "question": "Ndotja e ajrit:",
+    "answers": [
+      "Nuk ndikohet nga inversionet temperaturore",
+      "Nuk ndikohet nga relievi",
+      "Nuk varet nga levizjet e ajrit",
+      "Asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Ndotja e ajrit varet nga inversionet, relievi dhe lëvizjet e ajrit; asnjë nga pohimet e mohuara nuk është e saktë."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-052",
+    "question": "Lendet organike te avullueshme:",
+    "answers": [
+      "Shkaktojne irritimin e aparatit respirator",
+      "Nuk jane problem per ajrin e brendshem",
+      "Nuk ndikojne ne krijimin e ozonit",
+      "Asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Lëndët organike të avullueshme irritojnë rrugët respiratore dhe marrin pjesë në formimin e ozonit."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-053",
+    "question": "Kontrolli i cilesise se ajrit te jashtem:",
+    "answers": [
+      "Lidhet me vendet e ndertimit",
+      "Lidhet me kontrollin e emisioneve",
+      "Nuk lidhet me transportin",
+      "Nuk lidhet me energjine"
+    ],
+    "correct": 1,
+    "explanation": "Kontrolli i cilësisë së ajrit të jashtëm lidhet me kontrollin e emisioneve, transportin dhe energjinë."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-054",
+    "question": "Kualiteti i ujit te pijshem:",
+    "answers": [
+      "Eshtë i lidhur ngushte me sasine e ujit",
+      "Nuk varet nga veprimtaria humane",
+      "Nuk varet nga aktivitetet agrobujqesore",
+      "Asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Cilësia e ujit të pijshëm varet nga veprimtaria humane e bujqësore; asnjë nga pohimet e mohuara nuk është e saktë."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-055",
+    "question": "Kerkesat energjitike te organizmit:",
+    "answers": [
+      "Nuk maten me KJoul",
+      "Nuk lidhen me permasat trupore",
+      "Ndikohen nga klima",
+      "Nuk varen nga gjendja fiziologjike"
+    ],
+    "correct": 2,
+    "explanation": "Kërkesat energjetike ndikohen nga klima, përmasat trupore dhe gjendja fiziologjike."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-056",
+    "question": "Zgjedhja e ushqimeve:",
+    "answers": [
+      "Nuk lidhet me ndikimet kulturore",
+      "Nuk varet nga mundesia e sigurimit te ushqimeve",
+      "Nuk varet nga shija, era, paraqitja",
+      "Varet nga kostoja dhe pershtatshmeria"
+    ],
+    "correct": 3,
+    "explanation": "Zgjedhja e ushqimeve varet nga kostoja, aksesi dhe përshtatshmëria kulturore, por edhe nga shija e paraqitja."
+  },
+  {
+    "id": "lab-04-shendet-mjedisor-057",
+    "question": "Encefalopatia spongiforme:",
+    "answers": [
+      "Shkaktohet nga nje bakter",
+      "Shkaktohet nga nje ameba",
+      "Ka si vektor kepushat",
+      "Perhapet me ushqimin e gjedhit"
+    ],
+    "correct": 3,
+    "explanation": "Encefalopatia spongjiforme (prionet) përhapet me konsumimin e produkteve të gjedhit të infektuar; nuk është bakter, amebë, apo e bartur nga kapsat."
+  }
+]

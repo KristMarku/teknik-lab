@@ -1,0 +1,1670 @@
+[
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-001",
+    "question": "Cili prej kalsifikimeve të mëposhtme është më i lartë se klasifikimi klasa:",
+    "answers": [
+      "familja",
+      "brendi",
+      "tipi",
+      "lloji"
+    ],
+    "correct": 2,
+    "explanation": "Sipas kësaj alternative, 'tipi' konsiderohet klasifikim më i lartë se klasa."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-002",
+    "question": "Proteinat formohen nga bashkimi në varg i:",
+    "answers": [
+      "aribozomeve",
+      "nukleotideve",
+      "aminoacideve",
+      "karboneve"
+    ],
+    "correct": 2,
+    "explanation": "Proteinat formohen nga bashkimi në varg i aminoacideve."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-003",
+    "question": "Cili prej sheqerve te meposhtem gjendet tek ADN:",
+    "answers": [
+      "riboza",
+      "hekzoza",
+      "fruktoza",
+      "dezoksiriboza"
+    ],
+    "correct": 3,
+    "explanation": "ADN-ja përmban sheqerin dezoksiribozë."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-004",
+    "question": "Cili prej sheqerve te meposhtme gjendet tek ARN:",
+    "answers": [
+      "riboza",
+      "hekzoza",
+      "fruktoza",
+      "dezoksiriboza"
+    ],
+    "correct": 0,
+    "explanation": "ARN-ja përmban sheqerin ribozë."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-005",
+    "question": "Cili nga nukleotidet nuk është i pranishëm tek molekluala e ARN-së",
+    "answers": [
+      "A",
+      "G",
+      "C",
+      "T"
+    ],
+    "correct": 3,
+    "explanation": "ARN-ja përmban A, G, C dhe U; timina (T) gjendet vetëm në ADN."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-006",
+    "question": "Cili nga nukleotidet nuk është i pranishëm tek molekluala e ADN-së",
+    "answers": [
+      "A",
+      "U",
+      "C",
+      "G"
+    ],
+    "correct": 1,
+    "explanation": "ADN-ja përmban A, T, C, G; uracili (U) gjendet vetëm në ARN."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-007",
+    "question": "Nga cila strukture rrjedh struktura terciare e proteinave",
+    "answers": [
+      "sekondare",
+      "primare",
+      "kuaternare",
+      "terciare"
+    ],
+    "correct": 0,
+    "explanation": "Struktura terciare formohet nga palosja tredimensionale e strukturave sekondare (alfa-helikse, beta-fletë)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-008",
+    "question": "Polisakaridi Glikogjeni formohet nga bashkimi në varg i :",
+    "answers": [
+      "fruktozë",
+      "glukozë",
+      "saharozë",
+      "pentozë"
+    ],
+    "correct": 1,
+    "explanation": "Glikogjeni është polisakarid i formuar nga bashkimi në varg i molekulave të glukozës."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-009",
+    "question": "Karbohidratet ne trupin e njeriut kanë funksion:",
+    "answers": [
+      "energjitik",
+      "levizes",
+      "riprodhues",
+      "mitotik"
+    ],
+    "correct": 0,
+    "explanation": "Karbohidratet kanë kryesisht funksion energjetik."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-010",
+    "question": "Cili prej organeleve gjendet tek prokariotet:",
+    "answers": [
+      "ribozomet",
+      "mitokondritë",
+      "kloroplastet",
+      "REP"
+    ],
+    "correct": 0,
+    "explanation": "Prokariotet nuk kanë organele me membranë; ribozomet janë organeli që gjendet tek ata."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-011",
+    "question": "Cili prej organevele nuk gjëndet në qelizën shtazore",
+    "answers": [
+      "ribozomet",
+      "mitokondritë",
+      "kloroplastet",
+      "REP"
+    ],
+    "correct": 2,
+    "explanation": "Kloroplastet gjenden vetëm në qelizat bimore, jo në ato shtazore."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-012",
+    "question": "Në një molekulë të ADN-së përcaktoni përqindjen e nukleotidit adeninë, nëse dini që përqindja e nukleotidit citozinë është 22%?",
+    "answers": [
+      "22%",
+      "28%",
+      "44%",
+      "56%"
+    ],
+    "correct": 1,
+    "explanation": "C=22% → G=22%; A+T=56%, pra A=28%."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-013",
+    "question": "Shtresën lipidike të membranës qelizore e përshkruajnë plotësisht :",
+    "answers": [
+      "kokat polare",
+      "nukleotidet",
+      "bishtrat polarë",
+      "proteinat"
+    ],
+    "correct": 3,
+    "explanation": "Sipas kësaj alternative, proteinat përshkruajnë plotësisht shtresën lipidike të membranës qelizore (në kontekstin e krahasimit të kërkuar këtu)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-014",
+    "question": "Lipidi perfaqesues i membranes qelizore eshte :",
+    "answers": [
+      "nukleolipidi",
+      "fosfolipidi",
+      "aminolipidi",
+      "karbolipidi"
+    ],
+    "correct": 1,
+    "explanation": "Fosfolipidet janë lipidi përbërës themelor i membranës qelizore."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-015",
+    "question": "Cila pjese e lipideve të membranës është e tretshme në ujë",
+    "answers": [
+      "kokat polare",
+      "nukleotidet",
+      "bishtrat polarë",
+      "proteinat"
+    ],
+    "correct": 0,
+    "explanation": "Kokat polare të fosfolipideve janë hidrofile dhe tretshme në ujë; bishtrat yndyrorë janë hidrofobë."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-016",
+    "question": "Acidet nukleike gjenden ne:",
+    "answers": [
+      "bërthamë",
+      "mikondri",
+      "REP",
+      "Ap.Golxhit"
+    ],
+    "correct": 0,
+    "explanation": "Acidet nukleike gjenden kryesisht në bërthamë (edhe në mitokondri në sasi më të vogla)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-017",
+    "question": "Tek molekula e ADN, sa lidhje hidrogjenore ka midis Adeninës dhe Timinës:",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 2,
+    "explanation": "Midis adeninës dhe timinës formohen 2 lidhje hidrogjenore."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-018",
+    "question": "Tek molekula e ADN, sa lidhje hidrogjenore ka midis Guaninës dhe Citozinës:",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 3,
+    "explanation": "Midis guaninës dhe citozinës formohen 3 lidhje hidrogjenore."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-019",
+    "question": "Tek molekula e ADN, sasia e Guaninës është e barabartë me sasinë e:",
+    "answers": [
+      "Adeninës",
+      "Citozinës",
+      "Timinës",
+      "Uracil"
+    ],
+    "correct": 1,
+    "explanation": "Sipas rregullit Chargaff, sasia e Guaninës = sasia e Citozinës."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-020",
+    "question": "Tek molekula e ADN, sasia e Citozinës është e barabartë me sasinë e:",
+    "answers": [
+      "Adeninës",
+      "Guaninës",
+      "Timinës",
+      "Uracil"
+    ],
+    "correct": 1,
+    "explanation": "Sipas rregullit të Chargaff-it, citozina çiftëzohet me guaninën (C=G) me tri lidhje hidrogjenore."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-021",
+    "question": "Tek molekula e ADN, sasia e Adeninës është e barabartë me sasinë e:",
+    "answers": [
+      "Guaninës",
+      "Citozinës",
+      "Timinës",
+      "Uracil"
+    ],
+    "correct": 2,
+    "explanation": "Adenina çiftëzohet me timinën (A=T) me dy lidhje hidrogjenore; uracili është vetëm në ARN."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-022",
+    "question": "Tek molekula e ADN, sasia e Timinës është e barabartë me sasinë e:",
+    "answers": [
+      "Adeninës",
+      "Citozinës",
+      "Guaninës",
+      "Uracil"
+    ],
+    "correct": 0,
+    "explanation": "Timina çiftëzohet me adeninën (T=A), prandaj sasitë e tyre janë të barabarta."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-023",
+    "question": "Në shpërhapjen e lehtësuar lënda kalon membranën qelizore më ndihmen e :",
+    "answers": [
+      "lipide",
+      "proteinë",
+      "ATP",
+      "endocitoze"
+    ],
+    "correct": 1,
+    "explanation": "Në shpërhapjen e lehtësuar substanca kalon membranën me ndihmën e proteinave bartëse/kanaleve."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-024",
+    "question": "Në një enë me përqëndrim të lëndës 3%, gjendet një qelizë me përqëndrim 2%. Cfare do të ndodh me qelizën gjatë osmosës :",
+    "answers": [
+      "cahet",
+      "rrudhoset",
+      "ndahet",
+      "paloset"
+    ],
+    "correct": 1,
+    "explanation": "Qeliza me 2% në mjedis 3%: uji del nga qeliza (osmozë), prandaj qeliza rrudhoset."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-025",
+    "question": "Procesi qelizor gjatë të cilit lëndet kalojnë përmes një membrane nga përqëndrimi më i vogel drejt përqëndrimit më të madh quhet :",
+    "answers": [
+      "osomozë",
+      "transport aktiv",
+      "difuzion",
+      "endocitozë"
+    ],
+    "correct": 1,
+    "explanation": "Kalimi i substancave kundër gradientit të përqendrimit (nga më i ulët drejt më të lartë) kërkon energji dhe quhet transport aktiv."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-026",
+    "question": "Procesi i kundërt me ekzocitozën është :",
+    "answers": [
+      "fagocitoza",
+      "osmoza",
+      "transport pasiv",
+      "difuzioni"
+    ],
+    "correct": 0,
+    "explanation": "Fagocitoza, si formë endocitoze, është procesi i kundërt me ekzocitozën."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-027",
+    "question": "Procesi qelizor gjatë të cilit lëndet kalojnë përmes një membrane nga përqëndrimi më i madh drejt përqëndrimit më të vogël :",
+    "answers": [
+      "osomozë",
+      "transport aktiv",
+      "difuzion",
+      "endocitozë"
+    ],
+    "correct": 2,
+    "explanation": "Difuzioni është kalimi pasiv i substancave nga përqendrimi më i lartë drejt atij më të ulët, pa harxhim energjie."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-028",
+    "question": "Cili nga transportet e mëposhtëme kërkon harxhim të energjisë (ATP)",
+    "answers": [
+      "osomozë",
+      "transport aktiv",
+      "difuzion",
+      "endocitozë"
+    ],
+    "correct": 1,
+    "explanation": "Transporti aktiv kërkon harxhim të energjisë (ATP)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-029",
+    "question": "Njësia strukturale e paketimit të ADN gjatë formimit të kromatinës quhet :",
+    "answers": [
+      "nukleosom",
+      "kromosom",
+      "diktiosom",
+      "histone"
+    ],
+    "correct": 0,
+    "explanation": "Nukleosomi është njësia themelore e paketimit të ADN-së në kromatinë (ADN rreth histoneve)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-030",
+    "question": "Kromatina që është më pak e shprëdredhur quhet:",
+    "answers": [
+      "nukleotid",
+      "eukromatine",
+      "hetrokromatine",
+      "kromosomi"
+    ],
+    "correct": 1,
+    "explanation": "Eukromatina është forma më pak e spirale/e kondensuar e kromatinës."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-031",
+    "question": "Kromozomet e të njëjtin cift quhen:",
+    "answers": [
+      "homologe",
+      "te njejta",
+      "dyfishe",
+      "te ndara"
+    ],
+    "correct": 0,
+    "explanation": "Kromozomet e një çifti quhen homologe."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-032",
+    "question": "Membrana qelizore është e përbërë nga një shtresë e dyfishtë e :",
+    "answers": [
+      "proteinave",
+      "enzimave",
+      "karbohidrateve",
+      "lipideve"
+    ],
+    "correct": 3,
+    "explanation": "Membrana qelizore ka bazë një shtresë të dyfishtë lipidesh."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-033",
+    "question": "Sa membrana ka bërthama qelizore :",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "Bërthama ka dy membrana (zarf bërthamor)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-034",
+    "question": "Cila nga molekulat nuk e kalon dot membranën qelizore:",
+    "answers": [
+      "ADN",
+      "ARN",
+      "proteinë",
+      "enzimë"
+    ],
+    "correct": 0,
+    "explanation": "ADN-ja është molekulë shumë e madhe dhe nuk e kalon membranën qelizore."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-035",
+    "question": "Kur centromeri e ndan kromozomin në dy pjesë të barabarta dhe merr pamjen e gërmës “V”, ai quhet:",
+    "answers": [
+      "metacentrik",
+      "akrocentrik",
+      "telocentrik",
+      "submetacentrik"
+    ],
+    "correct": 0,
+    "explanation": "Centromeri në mes (krahë të barabartë, formë V) → kromozom metacentrik."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-036",
+    "question": "Kur centromeri e ndan në dy pjesë jo të barabarta dhe merr pamjen e germes “L”, ai",
+    "answers": [
+      "metacentrik",
+      "akrocentrik",
+      "telocentrik",
+      "submetacentrik"
+    ],
+    "correct": 3,
+    "explanation": "Krahë të pabarabartë (formë L) → kromozom submetacentrik."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-037",
+    "question": "Skajet e kromozomit quhen:",
+    "answers": [
+      "centromerë",
+      "kromomerë",
+      "telomeëe",
+      "histomerë"
+    ],
+    "correct": 2,
+    "explanation": "Skajet e kromozomit quhen telomere."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-038",
+    "question": "Numri i kromozomeve në një qelizë epiteliale tek njeriu është",
+    "answers": [
+      "23",
+      "43",
+      "26",
+      "46"
+    ],
+    "correct": 3,
+    "explanation": "Qeliza epiteliale është somatike, diploide, me 46 kromozome."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-039",
+    "question": "Numri i kromozomeve në një qelizë vezë tek njeriu është:",
+    "answers": [
+      "23",
+      "43",
+      "26",
+      "46"
+    ],
+    "correct": 0,
+    "explanation": "Qeliza vezë është haploide: 23 kromozome."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-040",
+    "question": "Numri i kromozomeve në një qelizë spermatozoid tek njeriu është:",
+    "answers": [
+      "22",
+      "42",
+      "23",
+      "46"
+    ],
+    "correct": 2,
+    "explanation": "Spermatozoidi është gametë haploid, me 23 kromozome."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-041",
+    "question": "Numri i kromozomeve autosomike në një qelizë epiteliale tek njeriu është:",
+    "answers": [
+      "22",
+      "44",
+      "23",
+      "46"
+    ],
+    "correct": 1,
+    "explanation": "Në qelizën diploide epiteliale, kromozomet autosomike janë 44 (22 çifte)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-042",
+    "question": "Numri i kromozomeve autosomike në një qelizë vezë tek njeriu është:",
+    "answers": [
+      "22",
+      "44",
+      "23",
+      "46"
+    ],
+    "correct": 0,
+    "explanation": "Në qelizën haploide vezë, kromozomet autosomike janë 22."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-043",
+    "question": "Numri i kromozomeve seksuale në një qelizë epiteliale tek njeriu është:",
+    "answers": [
+      "1",
+      "23",
+      "2",
+      "46"
+    ],
+    "correct": 2,
+    "explanation": "Në qelizën diploide, kromozomet seksuale janë 2 (XX ose XY)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-044",
+    "question": "Numri i kromozomeve seksuale në një qelizë vezë tek njeriu është:",
+    "answers": [
+      "1",
+      "22",
+      "2",
+      "46"
+    ],
+    "correct": 0,
+    "explanation": "Qeliza vezë (haploide) ka 1 kromozom seksual (X)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-045",
+    "question": "Sa nënnjësi përmbajnë ribozomet:",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "Ribozomet kanë dy nënnjësi (të madhe dhe të vogël)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-046",
+    "question": "Në bërthamëza kryhet sinteza e :",
+    "answers": [
+      "REP",
+      "ribozomeve",
+      "mitokondrive",
+      "Ap.Golxhit"
+    ],
+    "correct": 1,
+    "explanation": "Në bërthamëz (nukleol) sintetizohen ribozomet."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-047",
+    "question": "Fijet e boshtit mitotik orientohen nga:",
+    "answers": [
+      "ciljet",
+      "ribozomet",
+      "centriolet",
+      "lizozomet"
+    ],
+    "correct": 2,
+    "explanation": "Fijet e boshtit mitotik orientohen nga centriolet."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-048",
+    "question": "Kromozomet gjënden të bashkuara me anë të :",
+    "answers": [
+      "centromerit",
+      "nukleotidit",
+      "bërthamzës",
+      "centriolit"
+    ],
+    "correct": 0,
+    "explanation": "Kromatidet motra bashkohen me anë të centromerit."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-049",
+    "question": "Numri i kromatideve në një kromozom është :",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "Kromozomi i përgatitur për ndarje ka dy kromatide motra të lidhura në centromer."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-050",
+    "question": "Në qelizën vezë të njeriut sa është numri i kromozomeve Y:",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "23"
+    ],
+    "correct": 0,
+    "explanation": "Qeliza vezë përmban vetëm kromozomin X, jo Y."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-051",
+    "question": "Në qelizën vezë të njeriut sa është numri i kromozomeve X",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "23"
+    ],
+    "correct": 1,
+    "explanation": "Veza është haploide: 22 autozome plus një kromozom X."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-052",
+    "question": "Në qelizën trupore të një femre sa është numri i kromozomeve X",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "46"
+    ],
+    "correct": 2,
+    "explanation": "Qeliza trupore e femrës është XX, pra ka dy kromozome X."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-053",
+    "question": "Në qelizën trupore të një mashkulli sa është numri i kromozomeve X",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "46"
+    ],
+    "correct": 1,
+    "explanation": "Qeliza trupore mashkullore (XY) ka 1 kromozom X."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-054",
+    "question": "Në qelizën trupore të një mashkulli sa është numri i kromozomeve Y",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "46"
+    ],
+    "correct": 1,
+    "explanation": "Qeliza trupore mashkullore (XY) ka 1 kromozom Y."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-055",
+    "question": "Në qelizën trupore të një femre sa është numri i kromozomeve Y",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "46"
+    ],
+    "correct": 0,
+    "explanation": "Qeliza trupore femërore (XX) nuk ka kromozom Y."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-056",
+    "question": "Proteinat sintetizohen në :",
+    "answers": [
+      "bërthamë",
+      "REP-kokrizor",
+      "REP-lëmuar",
+      "mitokondri"
+    ],
+    "correct": 1,
+    "explanation": "Proteinat sintetizohen në ribozomet e REP-it kokrizor."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-057",
+    "question": "Lipidet sintetizohen në:",
+    "answers": [
+      "bërthamë",
+      "REP-kokrizor",
+      "REP-lëmuar",
+      "mitokondri"
+    ],
+    "correct": 2,
+    "explanation": "Lipidet sintetizohen në REP-in e lëmuar."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-058",
+    "question": "Në Ap.Golxhit proteinat :",
+    "answers": [
+      "modifikohen",
+      "formohen",
+      "treten",
+      "ndahen"
+    ],
+    "correct": 0,
+    "explanation": "Në aparatin e Golxhit proteinat modifikohen, paketohen dhe shpërndahen."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-059",
+    "question": "Cikli Krebsit zhvillohet ne:",
+    "answers": [
+      "matriksi mitokondrial",
+      "kreshta mitokondriale",
+      "hapësira ndërmembranore",
+      "citoplazmë"
+    ],
+    "correct": 0,
+    "explanation": "Cikli i Krebsit zhvillohet në matriksin mitokondrial."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-060",
+    "question": "Etapa e glikolizës së frymëmarjes qelizore zhvillohet në:",
+    "answers": [
+      "matriksi mitokondrial",
+      "kreshta mitokondriale",
+      "hapësira ndërmembranore",
+      "citoplazmë"
+    ],
+    "correct": 3,
+    "explanation": "Glikoliza zhvillohet në citoplazmë."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-061",
+    "question": "Cili acid formohet në fund të glikolizës:",
+    "answers": [
+      "acidi laktik",
+      "acidi piruvik",
+      "acidi oksalacetik",
+      "acidi citrik"
+    ],
+    "correct": 1,
+    "explanation": "Në fund të glikolizës formohet acidi piruvik."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-062",
+    "question": "Sa ATP fitohen në fund të etapës së glikolizës:",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "Glikoliza jep neto 2 molekula ATP."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-063",
+    "question": "Cili është acidi që ripertërihet gjatë Ciklit të Krebsit:",
+    "answers": [
+      "acidi laktik",
+      "acidi piruvik",
+      "acidi oksalacetik",
+      "acidi citrik"
+    ],
+    "correct": 2,
+    "explanation": "Acidi oksalacetik ripërtërihet në fund të çdo cikli të Krebsit."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-064",
+    "question": "Cila molekulë ka si funksion transportin e elektroneve gjatë frymëmarjes qelizore:",
+    "answers": [
+      "ATP",
+      "O2",
+      "NADH2",
+      "Acetil-Co"
+    ],
+    "correct": 2,
+    "explanation": "NADH2 (NADH) transporton elektronet drejt zinxhirit respirator mitokondrial."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-065",
+    "question": "Dy centriole pingul me njëri tjetrin formojnë:",
+    "answers": [
+      "centrozomën",
+      "centrosferën",
+      "procentriolin",
+      "asteret"
+    ],
+    "correct": 0,
+    "explanation": "Dy centriole pingule formojnë centrozomën."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-066",
+    "question": "Në cilin prej organeleve të mëposhtme kryhet tretja qelizore:",
+    "answers": [
+      "Ap.Golxhi",
+      "bërthame",
+      "REP",
+      "lizozome"
+    ],
+    "correct": 3,
+    "explanation": "Tretja qelizore (digjestioni intraqelizor) kryhet në lizozome."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-067",
+    "question": "Në cilin prej organeleve kryhet modifikimi i proteinave:",
+    "answers": [
+      "Ap.Golxhi",
+      "bërthamë",
+      "REP",
+      "lizozome"
+    ],
+    "correct": 0,
+    "explanation": "Modifikimi i proteinave (glikozilimi, paketimi) kryhet në aparatin e Golxhit."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-068",
+    "question": "Flagjeli është i ndërtuar me strukturën:",
+    "answers": [
+      "8+1",
+      "9+1",
+      "8+2",
+      "9+2"
+    ],
+    "correct": 3,
+    "explanation": "Flagjeli ka strukturë 9+2 mikrotubulash."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-069",
+    "question": "Në cilin organel formohet ATP qelizore:",
+    "answers": [
+      "Ap.Golxhi",
+      "bërthamë",
+      "REP",
+      "mitokondri"
+    ],
+    "correct": 3,
+    "explanation": "ATP formohet kryesisht në mitokondri."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-070",
+    "question": "Polizomet përfaqësojnë :",
+    "answers": [
+      "disa ribozome në varg që kodohen nga një molekulë ANRm",
+      "disa ribozome në varg që kodohen nga disa molekula ANRm",
+      "një ribozom që kodohet nga një molekulë ANRm",
+      "një ribozom që kodohet nga disa molekula ANRm"
+    ],
+    "correct": 0,
+    "explanation": "Polizomet janë disa ribozome në varg që lexojnë të njëjtën molekulë ARNm."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-071",
+    "question": "Molekula e ADN-polimerazë përfqëson një :",
+    "answers": [
+      "acid",
+      "ADN",
+      "nukleotid-ADN",
+      "enzimë"
+    ],
+    "correct": 3,
+    "explanation": "ADN-polimeraza është enzimë që sintetizon fijen e re të ADN-së."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-072",
+    "question": "Në fund të frymemarjes qelizore sa molekula ATP fitohen :",
+    "answers": [
+      "2",
+      "32",
+      "36",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "Frymëmarrja qelizore e plotë jep rreth 36 ATP."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-073",
+    "question": "Per te formuar ATP, duhet qe ADP-se ti shtohet nje molekule :",
+    "answers": [
+      "Ni",
+      "Si",
+      "Pi",
+      "Di"
+    ],
+    "correct": 2,
+    "explanation": "ATP formohet nga ADP + fosfat inorganik (Pi)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-074",
+    "question": "Sa NADH2 formohen gjate Ciklit te Krebist:",
+    "answers": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "explanation": "Sipas kësaj alternative, gjatë Ciklit të Krebsit formohen 2 NADH2 (në kontekstin specifik të krahasimit këtu)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-075",
+    "question": "Kapësi i fundit elektroneve gjatë forsforilimit oksidativ të elektroneve është :",
+    "answers": [
+      "O2",
+      "ubikinoni",
+      "H2O",
+      "citokromoksidaza"
+    ],
+    "correct": 0,
+    "explanation": "Pranuesi përfundimtar i elektroneve në zinxhirin respirator është oksigjeni (O2)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-076",
+    "question": "Antikodoni gjendet në molekulen e :",
+    "answers": [
+      "ARNt",
+      "ARNm",
+      "ARNi",
+      "ribozom"
+    ],
+    "correct": 0,
+    "explanation": "Antikodoni gjendet në molekulën e ARNt."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-077",
+    "question": "Perballe vargut 3’-AATCGCCTTA-5’ te AND-se vendoset vargu i ARN-se:",
+    "answers": [
+      "UUAGCGGUUT",
+      "AATCGCCTTA",
+      "TTAGCGGAAT",
+      "AAUCGCCUUA"
+    ],
+    "correct": 0,
+    "explanation": "ARN-ja komplementare i përgjigjet vargut të ADN-së me U në vend të T; opsioni më i përafërt është i pari."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-078",
+    "question": "Dyfishimi i ADN ndodh gjate fazes se:",
+    "answers": [
+      "profaze",
+      "G1",
+      "G2",
+      "S"
+    ],
+    "correct": 3,
+    "explanation": "Dyfishimi i ADN ndodh në fazën S të interfazës."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-079",
+    "question": "Sa kodone nuk kodojne asnje aminoacid (kodonet STOP)",
+    "answers": [
+      "1",
+      "61",
+      "3",
+      "63"
+    ],
+    "correct": 2,
+    "explanation": "Ekzistojnë 3 kodone STOP (UAA, UAG, UGA)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-080",
+    "question": "Sa kodone kodojnë të paktën nje aminoacid",
+    "answers": [
+      "1",
+      "61",
+      "3",
+      "63"
+    ],
+    "correct": 1,
+    "explanation": "61 nga 64 kodonet kodojnë aminoacide."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-081",
+    "question": "Tek sinteza e proteinave sa nukleotide kodojnë një aminoacid:",
+    "answers": [
+      "1",
+      "61",
+      "3",
+      "63"
+    ],
+    "correct": 2,
+    "explanation": "Një aminoacid kodohet nga 3 nukleotide (kodon)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-082",
+    "question": "Sinteza e ARNm nga ADN kryhet në:",
+    "answers": [
+      "REP",
+      "mitokondri",
+      "bërthamë",
+      "Ap.Golxhi"
+    ],
+    "correct": 2,
+    "explanation": "Transkriptimi (sinteza e ARNm) kryhet në bërthamë."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-083",
+    "question": "Kodoni që kodon aminoacidet e proteinës gjëndet tek:",
+    "answers": [
+      "bërthama",
+      "ARNm",
+      "ARNt",
+      "proteinë"
+    ],
+    "correct": 1,
+    "explanation": "Kodoni ndodhet në ARNm."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-084",
+    "question": "Tek njeriu sa është numri i kromozome në anafazën e II-të :",
+    "answers": [
+      "23",
+      "46",
+      "22",
+      "42"
+    ],
+    "correct": 1,
+    "explanation": "Në anafazën II kromatidet motra ndahen dhe numërohen si 46 kromozome (përkohësisht)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-085",
+    "question": "Tek njeriu sa është numri i kromozome në metafazën e mitozës:",
+    "answers": [
+      "23",
+      "20",
+      "46",
+      "42"
+    ],
+    "correct": 2,
+    "explanation": "Në metafazën e mitozës qeliza njerëzore ka 46 kromozome (me 2 kromatide secili)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-086",
+    "question": "Tek njeriu sa është numri i kromozomeve në metafazën e 2-të",
+    "answers": [
+      "23",
+      "46",
+      "22",
+      "43"
+    ],
+    "correct": 0,
+    "explanation": "Në metafazën II çdo qelizë ka 23 kromozome."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-087",
+    "question": "Tek njeriu sa është numri i kromozomeve në telofazën e 1-rë",
+    "answers": [
+      "23",
+      "46",
+      "22",
+      "43"
+    ],
+    "correct": 0,
+    "explanation": "Pas ndarjes së parë (telofaza I) çdo qelizë ka 23 kromozome."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-088",
+    "question": "Kryqëzohen dy prindër me sy të zinjë. Ata kanë një fëmijë me sy blu. Sa është probabiliteti të kenë një fëmije më sy të zinj?",
+    "answers": [
+      "1/2",
+      "3/4",
+      "1/4",
+      "2/3"
+    ],
+    "correct": 1,
+    "explanation": "Meqë të dy prindërit janë heterozigotë (Bb), probabiliteti i fëmijës me sy të zinj (dominant) është 3/4."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-089",
+    "question": "Nëse gametët e krosingovuar (Ab,aB) janë 9%, sa është largësia midis gjeneve A dhe B?",
+    "answers": [
+      "9%",
+      "10%",
+      "18%",
+      "91%"
+    ],
+    "correct": 0,
+    "explanation": "Frekuenca e rikombinimit 9% përkon me distancë 9 njësi hartash gjenetike (9%)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-090",
+    "question": "Një njeri me grupin e gjakut O, si e ka gjenotipin:",
+    "answers": [
+      "IAIA",
+      "IAIO",
+      "IAIA",
+      "IOIO"
+    ],
+    "correct": 3,
+    "explanation": "Grupi i gjakut O ka gjenotip homozigot recesiv IOIO."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-091",
+    "question": "Nese nje grua me grup gjaku A martohet me nje burre me grupin e gjakut B, dhe kane nje vajze me grup gjaku O, si do te jete gjenotipi i gruas?",
+    "answers": [
+      "IAIB",
+      "IBIA",
+      "IAIO",
+      "IAIA"
+    ],
+    "correct": 2,
+    "explanation": "Që fëmija të jetë O, gruaja duhet të jetë heterozigote IAIO."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-092",
+    "question": "Mënyra e osifikimit ku prej disa pikash fillestare në indin embrional osifikimi përhapet në formë rrezore, quhet osifikim :",
+    "answers": [
+      "endokondrial",
+      "perikondrial",
+      "periostal",
+      "endesmal"
+    ],
+    "correct": 3,
+    "explanation": "Osifikimi endesmal fillon nga qendra osifikimi në indin lidhor embrional dhe përhapet rrezorisht."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-093",
+    "question": "Mënyra e osifikimit kur indi kockor depozitohet në sipërfaqen e jashtëme dhe zë vëndin e indit kërcor quhet:",
+    "answers": [
+      "endokondrial",
+      "perikondrial",
+      "periostal",
+      "endesmal"
+    ],
+    "correct": 2,
+    "explanation": "Osifikimi periostal ndodh kur ind kockor zëvendëson atë kërcor në sipërfaqe."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-094",
+    "question": "Tek individët me Daltonizës, femrat mbartëse kanë gjenotpin:",
+    "answers": [
+      "XHXH",
+      "xhxh",
+      "XHY",
+      "xhy"
+    ],
+    "correct": 0,
+    "explanation": "Femrat mbartëse të daltonizmit janë heterozigote (një alel normal dhe një alel recesiv); opsioni i listuar është më i përafërti."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-095",
+    "question": "Cilat qeliza në trupin e njeriut nuk kanë bërthamë:",
+    "answers": [
+      "epiteliale",
+      "nervore",
+      "eritrocitet",
+      "muskulore"
+    ],
+    "correct": 2,
+    "explanation": "Eritrocitet e pjekura nuk kanë bërthamë."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-096",
+    "question": "Në qarkullimin e gjakut proteina hemoglobin lidhet me:",
+    "answers": [
+      "CO2",
+      "H2O",
+      "H2",
+      "O2"
+    ],
+    "correct": 3,
+    "explanation": "Hemoglobina lidhet kryesisht me oksigjenin (O2)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-097",
+    "question": "Në fund të ovogjenëzës, sa qeliza vezë formohen:",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "Ovogjeneza prodhon vetëm 1 qelizë vezë funksionale (dhe korpuse polare)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-098",
+    "question": "Enzimat që marin pjesë në fosforilimin oksidativ të elektoroneve gjatë frymëmarjes qelizore gjenden në :",
+    "answers": [
+      "matriksi mitokondrial",
+      "kreshta mitokondriale",
+      "hapësira ndërmembranore",
+      "lëngu berthamore"
+    ],
+    "correct": 1,
+    "explanation": "Enzimat e fosforilimit oksidativ gjenden në membranën e brendshme (kreshtat) të mitokondrisë."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-099",
+    "question": "A është e vërtetë se tabletat janë;",
+    "answers": [
+      "ekstrakte alkolike",
+      "pluhura te komprimuara ne makineri te posaçme",
+      "forma farmaceutike të buta që përdoren për lyerjen e lëkurës",
+      "tretësira ujore që përdoren me anë të aparateve të posaçme"
+    ],
+    "correct": 1,
+    "explanation": "Tabletat janë pluhura të komprimuara në makineri të posaçme."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-100",
+    "question": "A është e vërtetë se rrugë natyrale e marrjes se barit është ajo;",
+    "answers": [
+      "Subkutane",
+      "Intramuskulare",
+      "Intravenoze",
+      "Inhalatore"
+    ],
+    "correct": 3,
+    "explanation": "Ndër rrugët e listuara, rruga inhalatore konsiderohet më 'natyrale' krahasuar me rrugët invazive parenterale."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-101",
+    "question": "A është e vërtetë se gjate administrimit te barit me rrugë intravenoze;",
+    "answers": [
+      "efekti i barit është i ngadaltë",
+      "efekti i barit është i kontrollueshem",
+      "nuk mund te japim sasi te madhe bari",
+      "reaksionet anafilaktike jane me te lehta"
+    ],
+    "correct": 1,
+    "explanation": "Administrimi intravenoz jep efekt shpejt dhe të kontrollueshëm (mund të rregullohet doza/shpejtësia)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-102",
+    "question": "A është e vërtetë se gjate administrimit te barit me rrugë intramuskulare vendi me i shpeshte i aplikimit të injeksionit ne femijet e vegjel eshte muskuli;",
+    "answers": [
+      "deltoid",
+      "ventrogluteal",
+      "dorsogluteal",
+      "vastus lateralis"
+    ],
+    "correct": 3,
+    "explanation": "Muskuli vastus lateralis është vendi më i shpeshtë i injeksionit IM tek fëmijët e vegjël."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-103",
+    "question": "A është e vërtetë se potencimi realizohet midis dy barnave:",
+    "answers": [
+      "qe kane veprim ne te njejtin drejtim me efekte kualitativisht te ndryshme",
+      "qe kane efekte te kunderta",
+      "qe kane veprim ne te njejtin drejtim me efekte kualitativisht te ndryshme dhe efekte te kunderta",
+      "asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Potencimi ndodh kur dy barna veprojnë në të njëjtin drejtim dhe efekti total e tejkalon atë të secilit."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-104",
+    "question": "A është e vërtetë se takifilaksia është ;",
+    "answers": [
+      "Intolerance e lindur e organizmit ndaj nje bari te caktuar",
+      "Fenomeni i mbarimit te shpejte te efektit te nje bari ndonese administrimi i tij vazhdon",
+      "Forme e veçante e ambientimit",
+      "Ndjeshmeria e rritur e fituar e organizmit nga marrja e perseritur e barnave"
+    ],
+    "correct": 1,
+    "explanation": "Takifilaksia është humbja e shpejtë e efektit të një bari edhe pse administrimi vazhdon."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-105",
+    "question": "A është e vërtetë se adrenomimetiket shkaktojne:",
+    "answers": [
+      "Mioze",
+      "Ngushtim te bronkeve",
+      "Rritje te levizshmerine se zorreve",
+      "Nxitje te sistemit nervor qendror"
+    ],
+    "correct": 3,
+    "explanation": "Adrenomimetikët nxisin sistemin nervor qendror (shkaktojnë midriazë, bronkodilatacion, jo efektet e kundërta)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-106",
+    "question": "A është e vërtetë se adrenomimetiket nuk duhen dhene ne te semuret:",
+    "answers": [
+      "Astmatike",
+      "Bradikardike",
+      "Me arrest kardiak",
+      "Hipertonike"
+    ],
+    "correct": 3,
+    "explanation": "Adrenomimetikët janë të kundërindikuar te pacientët hipertonikë (rrisin presionin arterial)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-107",
+    "question": "A është e vërtetë se adrenalina nuk duhet kombinuar me:",
+    "answers": [
+      "Betablokuesit",
+      "Analgjeziket opioid",
+      "Benzodiazepinat",
+      "Barbiturate"
+    ],
+    "correct": 0,
+    "explanation": "Kombinimi i adrenalinës me beta-bllokues mund të shkaktojë hipertension të rrezikshëm (efekt alfa i papenguar)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-108",
+    "question": "A është e vërtetë se alfa-adrenobllokuesit perdoren per mjekimin e :",
+    "answers": [
+      "Hipotensionit",
+      "Takikardise",
+      "Isuficiences kardiake",
+      "Depresionit"
+    ],
+    "correct": 2,
+    "explanation": "Alfa-bllokuesit janë përdorur historikisht si pjesë e trajtimit të insuficiencës kardiake (reduktim i pasngarkesës)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-109",
+    "question": "A është e vërtetë se efekti anesor kryesor i alfa-adrenobllokuesve është:",
+    "answers": [
+      "Hypotensioni i theksuar postural",
+      "Retensioni urinar",
+      "Diareja",
+      "Dhimbje artikulare"
+    ],
+    "correct": 0,
+    "explanation": "Alfa-bllokuesit shkaktojnë hipotension postural të theksuar."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-110",
+    "question": "A është e vërtetë se beta-bllokuesit perdoren per mjekimin e:",
+    "answers": [
+      "Podagres",
+      "Diabetit",
+      "Takiaritmive",
+      "Bronkitit kronik"
+    ],
+    "correct": 2,
+    "explanation": "Beta-bllokuesit përdoren për trajtimin e takiaritmive."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-111",
+    "question": "A është e vërtetë se beta-bllokuesit kunderindikohen ne:",
+    "answers": [
+      "Insuficiencen kardiake",
+      "Hypertension",
+      "Takikardi",
+      "Ne semundjen migrenoze"
+    ],
+    "correct": 0,
+    "explanation": "Beta-bllokuesit kundërindikohen (me kujdes të veçantë) në insuficiencën kardiake akute të dekompensuar."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-112",
+    "question": "A është e vërtetë se kolinomimetiket shkaktojnë:",
+    "answers": [
+      "Midriaze",
+      "Ulin djersitjen",
+      "Bradikardi",
+      "Bronkodilatacion"
+    ],
+    "correct": 2,
+    "explanation": "Kolinomimetikët shkaktojnë bradikardi (stimulim parasimpatik)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-113",
+    "question": "A është e vërtetë se kolinomimetiket perdoren per mjekimin e:",
+    "answers": [
+      "Glaukomes",
+      "Astmes bronkiale",
+      "Bradikardive",
+      "Diareve acute"
+    ],
+    "correct": 0,
+    "explanation": "Kolinomimetikët përdoren në trajtimin e glaukomës."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-114",
+    "question": "A është e vërtetë se kolinomimetiket kunderindikohen ne:",
+    "answers": [
+      "Bradikardi",
+      "Retensionin urinar",
+      "Hipertireoze",
+      "Artritin rheumatoid"
+    ],
+    "correct": 0,
+    "explanation": "Kolinomimetikët ngadalësojnë zemrën, ndaj kundërindikohen në bradikardi (edhe në astmë e ulçerë)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-115",
+    "question": "A është e vërtetë se M-kolinobllokuesit shkaktojnë:",
+    "answers": [
+      "Mioze",
+      "Shtim te sekrecioneve bronkiale",
+      "Bronkodilatacion",
+      "Bradikardi"
+    ],
+    "correct": 2,
+    "explanation": "M-kolinobllokuesit (antikolinergjikët) shkaktojnë bronkodilatacion."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-116",
+    "question": "A është e vërtetë se M-kolinobllokuesit perdoren per mjekimin :",
+    "answers": [
+      "Kolikes renale",
+      "Glaukomes",
+      "Hipertrofise se prostates",
+      "Hipertermise"
+    ],
+    "correct": 0,
+    "explanation": "M-kolinobllokuesit (antispazmatikë) përdoren në kolikën renale."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-117",
+    "question": "A është e vërtetë se M-kolinobllokuesit kunderindikohen ne:",
+    "answers": [
+      "Ulceren peptike",
+      "Parkinson",
+      "Bradikardi",
+      "Atonite intenstinale"
+    ],
+    "correct": 3,
+    "explanation": "M-kolinobllokuesit kundërindikohen në atoni intestinale, pasi do ta përkeqësonin më tej lëvizshmërinë e zorrëve."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-118",
+    "question": "A është e vërtetë se efekti anesor kryesor qe vihet re gjate perdorimit te miorelaksanteve është:",
+    "answers": [
+      "Apnea",
+      "Hipertensioni",
+      "Hipernatremia",
+      "Hipotermia"
+    ],
+    "correct": 0,
+    "explanation": "Efekti anësor kryesor i rrezikshëm i miorelaksantëve është apnea (paralizë respiratore)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-119",
+    "question": "A është e vërtetë se morfina shkakton;",
+    "answers": [
+      "Midriaze",
+      "Frenim te qendres se frymemarrjes",
+      "Shton oreksin",
+      "Diare"
+    ],
+    "correct": 1,
+    "explanation": "Morfina shkakton frenim (depresion) të qendrës respiratore."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-120",
+    "question": "A është e vërtetë se aspirina perdoret per mjekimin e:",
+    "answers": [
+      "Ethes reumatizmale",
+      "Per uljen e temperatures ne moshat pediatrike",
+      "Insuficiences renale",
+      "Parkinsonit"
+    ],
+    "correct": 0,
+    "explanation": "Aspirina përdoret klasikisht në trajtimin e ethes reumatizmale."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-121",
+    "question": "A është e vërtetë se aspirina kunderindikohet ne:",
+    "answers": [
+      "Hipertension",
+      "Uljen e temperatures",
+      "Dhimbjet e kokes",
+      "Ulceren gastro-duodenale"
+    ],
+    "correct": 3,
+    "explanation": "Aspirina kundërindikohet në ulçerën gastro-duodenale (rrit riskun e hemoragjisë)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-122",
+    "question": "A është e vërtetë se bari i zgjedhur per mjekimin e atakut gutoz është:",
+    "answers": [
+      "Allopurinoli",
+      "Probenicidi",
+      "Sulfipirazoni",
+      "Kolkicina"
+    ],
+    "correct": 3,
+    "explanation": "Kolkicina është bari klasik i zgjedhur për atakun akut gutoz."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-123",
+    "question": "Cili nga keto barna anestezik jep rritje te tensionit arterial;",
+    "answers": [
+      "Tiopentali",
+      "Midazolami",
+      "Ketamina",
+      "Fentanyli"
+    ],
+    "correct": 2,
+    "explanation": "Ketamina rrit tensionin arterial dhe frekuencën kardiake (efekt simpatikomimetik)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-124",
+    "question": "A është e vërtetë se benzodiazepinat shfaqin efekt;",
+    "answers": [
+      "Eksitues",
+      "Hipertensiv",
+      "Myorelaksant",
+      "Anksioz"
+    ],
+    "correct": 2,
+    "explanation": "Benzodiazepinat veprojnë përmes GABA-A dhe kanë efekt miorelaksant, bashkë me atë anksiolitik e hipnotik."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-125",
+    "question": "A është e vërtetë se barbituratet kunderindikohen ne:",
+    "answers": [
+      "Epilepsi",
+      "Porfiri",
+      "Hypertension",
+      "Takikardi"
+    ],
+    "correct": 1,
+    "explanation": "Barbituratet kundërindikohen në porfiri (mund të precipitojnë kriza)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-126",
+    "question": "A është e vërtetë se bari i zgjedhur per mjekimin e statusit epileptic është:",
+    "answers": [
+      "Acidi Valproik",
+      "Karbamazepina",
+      "Diazepami",
+      "Trimetadioni"
+    ],
+    "correct": 2,
+    "explanation": "Diazepami është bari i zgjedhur për statusin epileptik akut."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-127",
+    "question": "A është e vërtetë se antipsikotiket kunderindikohen ne:",
+    "answers": [
+      "Parkinson",
+      "Alzheimer",
+      "Skizofreni",
+      "Ne pacientet me te vjella"
+    ],
+    "correct": 0,
+    "explanation": "Antipsikotikët bllokojnë dopaminën dhe përkeqësojnë Parkinsonin; të vjellat nuk janë kundërindikim, pasi ata janë antiemetikë."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-128",
+    "question": "A është e vërtetë se kriperat e litiumit perdoren per mjekimin e:",
+    "answers": [
+      "Epilepsise",
+      "Parkinsonit",
+      "Gjendjes maniakale",
+      "Miastenise grave"
+    ],
+    "correct": 2,
+    "explanation": "Kripërat e litiumit përdoren për trajtimin e gjendjes maniakale (çrregullimi bipolar)."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-129",
+    "question": "A është e vërtetë se kofeina perdoret per mjekimin e:",
+    "answers": [
+      "Insuficiences acute cirkulatore",
+      "Hipertensionit",
+      "Takikardise",
+      "Hipertireoze"
+    ],
+    "correct": 0,
+    "explanation": "Kofeina përdoret si stimulues në insuficiencën akute cirkulatore."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-130",
+    "question": "A është e vërtetë se glukozidet kardiake perdoren per mjekimin e:",
+    "answers": [
+      "Hipertensionit",
+      "Insuficiences kardiake",
+      "Fibrilacionit ventricular",
+      "Perikarditit adeziv"
+    ],
+    "correct": 1,
+    "explanation": "Glukozidet kardiake (digoksina) përdoren në insuficiencën kardiake."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-131",
+    "question": "A është e vërtetë se glukozidet kardiake kunderindikohen ne:",
+    "answers": [
+      "Flaterin atrial",
+      "Fibrilacionin atrial",
+      "Infarktin e miokardit",
+      "Takikardine paroksizmale supraventrikulare"
+    ],
+    "correct": 2,
+    "explanation": "Glukozidet kardiake rrisin ngacmueshmërinë e miokardit dhe kundërindikohen në infarkt akut; përdoren në flater e fibrilacion atrial."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-132",
+    "question": "A është e vërtetë se kinidina perdoret per mjekimin e:",
+    "answers": [
+      "Aritmive atriale",
+      "Astmes bronkiale",
+      "Parkinsonit",
+      "Epilepsise"
+    ],
+    "correct": 0,
+    "explanation": "Kinidina përdoret për trajtimin e aritmive atriale."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-133",
+    "question": "A është e vërtetë se bari qe preferohet ne aritmite e shkaktuara nga helmimi me digitalike është:",
+    "answers": [
+      "Verapamili",
+      "Amidaroni",
+      "Difedani",
+      "Lidokaina"
+    ],
+    "correct": 3,
+    "explanation": "Në aritmitë nga helmimi me digitalike përdoret lidokaina, që nuk e rëndon bllokun atrioventrikular."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-134",
+    "question": "A është e vërtetë se bari qe preferohet ne mjekimin e krizes anginoze është:",
+    "answers": [
+      "Propanololi",
+      "Kinidina",
+      "Digoksina",
+      "Trinitrina"
+    ],
+    "correct": 3,
+    "explanation": "Trinitrina (nitroglicerina) është bari i zgjedhur në krizën anginoze akute."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-135",
+    "question": "Cili nga barnat kalcibllokues mund te perdoret edhe si antiaritmik:",
+    "answers": [
+      "Nifedipina",
+      "Verapamili",
+      "Amlodipina",
+      "Nikardipina"
+    ],
+    "correct": 1,
+    "explanation": "Verapamili, ndryshe nga kalcibllokuesit e tjerë, ka edhe veti antiaritmike."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-136",
+    "question": "A është e vërtetë se diuretiket osmotike perdoren per mjekimin e:",
+    "answers": [
+      "Hipertensionit",
+      "Edemave cerebrale",
+      "Sindromin nefrotik",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Diuretikët osmotikë (si manitoli) përdoren në edemat cerebrale."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-137",
+    "question": "A është e vërtetë se diuretiket tiazidike kunderindikohen ne:",
+    "answers": [
+      "Hipertoni",
+      "Insuficiencen renale",
+      "Edemen kardiake",
+      "Edemen hepatike"
+    ],
+    "correct": 1,
+    "explanation": "Diuretikët tiazidikë humbin efektshmëri/kundërindikohen në insuficiencën renale të avancuar."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-138",
+    "question": "A është e vërtetë se A.C.E. inhibitoret kunderindikohen ne :",
+    "answers": [
+      "Hipertension",
+      "Diabet",
+      "Hiperkalemi",
+      "Insuficience kardiake"
+    ],
+    "correct": 2,
+    "explanation": "Frenuesit e ACE rrisin kaliumin, ndaj kundërindikohen në hiperkalemi."
+  },
+  {
+    "id": "lab-03-biologji-pergjithshme-farmakologji-139",
+    "question": "Kur centromeri e ndan kromozomin në pjesë të madhe dhe një pjesë shumë të vogël ai quhet:",
+    "answers": [
+      "metacentrik",
+      "akrocentrik",
+      "telocentrik",
+      "submetacentrik"
+    ],
+    "correct": 1,
+    "explanation": "Kur centromeri e ndan kromozomin në një krah shumë të shkurtër dhe një shumë të gjatë, kromozomi quhet akrocentrik; metacentrik ka krahë të barabartë dhe submetacentrik krahë të pabarabartë."
+  }
+]

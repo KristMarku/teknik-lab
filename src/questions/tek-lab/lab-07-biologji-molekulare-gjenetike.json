@@ -1,0 +1,674 @@
+[
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-001",
+    "question": "Lidhjet që formojnë skeletin e ADN-së janë:",
+    "answers": [
+      "Lidhje fosfodiesterike",
+      "Lidhje peptidike",
+      "Lidhje hidrogjenore",
+      "Lidhje polare"
+    ],
+    "correct": 0,
+    "explanation": "Skeleti (rruga sheqer-fosfat) i ADN-së formohet nga lidhjet fosfodiesterike."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-002",
+    "question": "ADN polimerazat punojnë:",
+    "answers": [
+      "Në drejtim 3'-5'",
+      "Në drejtim 5'-3'",
+      "Si ne drejtimin 3'-5' ashtu edhe ne drejtimin 5'-3'",
+      "Pa një startues fillestar"
+    ],
+    "correct": 1,
+    "explanation": "ADN polimerazat sintetizojnë vargun e ri vetëm në drejtimin 5'→3'."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-003",
+    "question": "Marn-të ekukariotike janë përgjithësisht:",
+    "answers": [
+      "Monocistronike",
+      "Policistronike",
+      "Dy fijore",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "ARNm-të eukariotike janë përgjithësisht monocistronike (kodojnë një proteinë)."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-004",
+    "question": "Një konfiguracion i ADN-së me përdredhje majtas quhet:",
+    "answers": [
+      "Forma A e ADN-së",
+      "Forma D e ADN-së",
+      "Forma B e ADN-së",
+      "Forma Z e ADN-së"
+    ],
+    "correct": 3,
+    "explanation": "ADN në formën Z ka përdredhje majtas."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-005",
+    "question": "Konfiguracioni i ADN-së me përdredhje djathtas me 11 cifte bazash për kthesë quhet:",
+    "answers": [
+      "Forma D e AND-së",
+      "Forma A e ADN-së",
+      "Forma B e ADN-së",
+      "Forma Z e ADN-së"
+    ],
+    "correct": 1,
+    "explanation": "Forma A është spirale djathtas me rreth 11 çifte bazash për kthesë."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-006",
+    "question": "Dyfishimi i ADN-së është:",
+    "answers": [
+      "Dispersiv",
+      "Konservativ",
+      "Gjysëm-konservativ",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Dyfishimi i ADN-së është gjysmë-konservativ (Meselson-Stahl)."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-007",
+    "question": "Enzima bazë në procesin e replikimit të E. Coli është:",
+    "answers": [
+      "ADN polimeraza II",
+      "ADN polimeraza I",
+      "ADN polimeraza III",
+      "ADN polimeraza IV"
+    ],
+    "correct": 2,
+    "explanation": "ADN polimeraza III është enzima kryesore e replikimit te E. coli."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-008",
+    "question": "Cilat nga këto polimeraza është enzima kryesore në sintezën e ADN-së eukariotike:",
+    "answers": [
+      "Polimeraza γ",
+      "Polimeraza δ",
+      "Polimeraza β",
+      "Polimeraza ε"
+    ],
+    "correct": 1,
+    "explanation": "Polimeraza δ është enzima kryesore e sintezës së ADN-së eukariotike (me ε)."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-009",
+    "question": "Sekuenca TATAAT e promotorit gjendet në zonën e ADN-së përpara gjenit:",
+    "answers": [
+      "-35",
+      "-10",
+      "-50",
+      "1"
+    ],
+    "correct": 1,
+    "explanation": "Sekuenca TATAAT (kutia Pribnow) ndodhet në zonën -10."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-010",
+    "question": "Cila nga ARN polimerazat e qelizës eukariotike përgjigjet për sintezën e proteinave:",
+    "answers": [
+      "ARN polimeraza I",
+      "ARN polimeraza II",
+      "ARN polimeraza III",
+      "ARN polimeraza IV"
+    ],
+    "correct": 1,
+    "explanation": "ARN polimeraza II sintetizon ARNm (proteinat)."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-011",
+    "question": "Cila nga ARN-polimerazat e qelizës eukariotike përgjigjet për sintezën e tarn-ve:",
+    "answers": [
+      "ARN polimeraza I",
+      "ARN polimeraza II",
+      "ARN polimeraza III",
+      "ARN polimeraza IV"
+    ],
+    "correct": 2,
+    "explanation": "ARN polimeraza III sintetizon ARNt."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-012",
+    "question": "Cila nga proteinat e mëposhtme fillon formimin e kompleksit nismëtar të transkriptimit:",
+    "answers": [
+      "TBP",
+      "TFII A",
+      "TFII B",
+      "TFII D"
+    ],
+    "correct": 0,
+    "explanation": "Formimi i kompleksit nismëtar fillon kur TBP (pjesë e TFIID) lidhet me kutinë TATA."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-013",
+    "question": "Inicimi i translatimit tek eukariotët fillon nga sekuenca:",
+    "answers": [
+      "5' CAP",
+      "Shine-Dalgarno",
+      "Pribnow box",
+      "Bishti poli-A"
+    ],
+    "correct": 0,
+    "explanation": "Inicimi i translatimit tek eukariotët bazohet te kapi 5' (5' CAP)."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-014",
+    "question": "Cila nga këto substanca shërben si induktor direkt në sistemin lac-operon:",
+    "answers": [
+      "Laktoza",
+      "Glukoza",
+      "B-galaktozidaza",
+      "Fruktoza"
+    ],
+    "correct": 0,
+    "explanation": "Laktoza (si alolaktozë) është induktori i lac-operonit."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-015",
+    "question": "Rritja e AMP-së ciklike në sistemin lac-operon shoqërohet me:",
+    "answers": [
+      "Ulje të nivelit të glukozës",
+      "Rritje të nivelit të glukozës",
+      "Mosprodhim të enzimës β-galaktozidazë",
+      "Asnjërën"
+    ],
+    "correct": 0,
+    "explanation": "cAMP rritet kur niveli i glukozës ulet."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-016",
+    "question": "Kompleksi camp-CRP në sistemin lac-operon shërben si:",
+    "answers": [
+      "Kontroll negativ",
+      "Kontroll pozitiv",
+      "Repressor",
+      "Një kompleks pengues për transkriptimin e këtij operoni"
+    ],
+    "correct": 1,
+    "explanation": "Kompleksi cAMP-CRP është kontroll pozitiv i lac-operonit."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-017",
+    "question": "Proteina që ka funksion represor tek lac-operoni kodifikohet nga:",
+    "answers": [
+      "Geni a",
+      "Geni z",
+      "Geni y",
+      "Geni rregullator"
+    ],
+    "correct": 3,
+    "explanation": "Represori kodohet nga gjeni rregullator (lacI)."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-018",
+    "question": "Cili nga ciftet e bazave të mëposhtme nuk është i saktë?",
+    "answers": [
+      "A-T",
+      "C-A",
+      "G-C",
+      "T-A"
+    ],
+    "correct": 1,
+    "explanation": "Çifti C-A nuk është çift komplementar; C çiftohet me G."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-019",
+    "question": "Aktiviteti peptidil transferazë gjatë translatimit tek eukariotet kryhet nga:",
+    "answers": [
+      "Proteina peptidil transferazë",
+      "Peptidil kinaza",
+      "Rarn 23S",
+      "Rarn 18S"
+    ],
+    "correct": 2,
+    "explanation": "Aktiviteti peptidil-transferazë kryhet nga ARN ribozomale (ribozim) e nënnjësisë së madhe."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-020",
+    "question": "Ribozomet eukariotike përbëhen nga keto dy nënnjësi:",
+    "answers": [
+      "30S dhe 50S",
+      "20S dhe 70S",
+      "50S dhe 100S",
+      "40S dhe 60S"
+    ],
+    "correct": 3,
+    "explanation": "Ribozomet eukariotike kanë nënnjësi 40S dhe 60S."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-021",
+    "question": "Vendi në ribozom që mban aminoacil-tarn-në që sapo futet quhet:",
+    "answers": [
+      "Vendi E",
+      "Vendi P",
+      "Vendi A",
+      "Vendi D"
+    ],
+    "correct": 2,
+    "explanation": "Vendi A pranon aminoacil-ARNt-në që hyn."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-022",
+    "question": "Sëmundja kromozomike që karakterizohet nga labiopalatoskiza, prapambetja mendore dhe fizike eshte:",
+    "answers": [
+      "Sindroma Down",
+      "Sindroma Turner",
+      "Sindroma Patau",
+      "Sindroma Klinefelter"
+    ],
+    "correct": 2,
+    "explanation": "Sindroma Patau karakterizohet nga labiopalatoskiza dhe prapambetje e rëndë mendore/fizike."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-023",
+    "question": "Në grupin e gjakut AB:",
+    "answers": [
+      "A është dominante ndaj B",
+      "B është reçesive ndaj A",
+      "B dhe A janë kodominante",
+      "Gjysma e qelizave shfaqin antigjenin A dhe gjysma tjetër antigjenin B"
+    ],
+    "correct": 2,
+    "explanation": "Alelet A dhe B janë kodominante në grupin AB."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-024",
+    "question": "Një gjenotip X0 shfaqet në:",
+    "answers": [
+      "Sindromën Patau",
+      "Trizominë 21",
+      "Sindromën Klinefelter",
+      "Sindromën Turner"
+    ],
+    "correct": 3,
+    "explanation": "Gjenotipi X0 karakterizon sindromën Turner."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-025",
+    "question": "Ato lindin si rrjedhojë e dy thyerjeve në krahët e kromozomit dhe kthimin e fragmentit 180 gradë në vetvete.",
+    "answers": [
+      "Izokromozomet",
+      "Translokacionet",
+      "Delecionet Intersticiale",
+      "Inversionet"
+    ],
+    "correct": 3,
+    "explanation": "Inversionet rrjedhin nga dy thyerje dhe kthim i fragmentit 180°."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-026",
+    "question": "Cilat nga Sindromat e mëposhtme është sindromë gjenetike që rrjedh nga delecionet:",
+    "answers": [
+      "S. Down",
+      "S. Chri-du-cat",
+      "S. Patau",
+      "S. Edwards"
+    ],
+    "correct": 1,
+    "explanation": "Sindroma Chri-du-Cat rrjedh nga delecioni i një pjese të kromozomit 5."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-027",
+    "question": "Individët me këtë sëmundje shfaqin anoreksi, infeksione pulmonare dhe nivel të lartë kripe në djersë:",
+    "answers": [
+      "Neurofibromatoza",
+      "Hiperkolesterolemia",
+      "Spina bifida",
+      "Fibroza Cistike"
+    ],
+    "correct": 3,
+    "explanation": "Fibroza cistike: infeksione pulmonare, keqqenie ushqyese dhe kripë e lartë në djersë."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-028",
+    "question": "Cila nga sëmundjet e mëposhtme tejçohet në mënyre reçesive e lidhur me X?",
+    "answers": [
+      "Akondroplazia",
+      "Albinizmi Okular",
+      "Hemofilia B",
+      "Raketizmi rezistent ndaj vitamines D"
+    ],
+    "correct": 2,
+    "explanation": "Hemofilia B trashëgohet në mënyrë recesive të lidhur me kromozomin X."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-029",
+    "question": "Një pacient/e paraqet pilozitet të pakësuar, hipoganadizm, inteligjencë normale, gjinekomasti (zmadhim gjiri). Dyshojmë per Sindromën:",
+    "answers": [
+      "Klinefelter",
+      "Edwards",
+      "Down",
+      "Turner"
+    ],
+    "correct": 0,
+    "explanation": "Ky kuadër klinik (hipogonadizëm, gjinekomasti) karakterizon sindromën Klinefelter."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-030",
+    "question": "Në një qelizë me një numer 2n+1 kromozomesh, kemi të bëjme me:",
+    "answers": [
+      "Aneuploidi",
+      "Monozomi",
+      "Triploidi",
+      "Trizomi"
+    ],
+    "correct": 3,
+    "explanation": "2n+1 kromozome përfaqëson trizominë (një kromozom ekstra)."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-031",
+    "question": "Cila prej zgjedhjeve të mëposhtme tregon që kemi të bëjmë me një trashëgimi autosomike recesive?",
+    "answers": [
+      "Sëmundja prek më shumë meshkujt sesa femrat",
+      "Tipari zakonisht shfaqet në pasardhësit e prindërve të prekur",
+      "Tejçimi horizontal i tipareve në gjeneratat familjare",
+      "Tejçimi vertikal i tipareve në gjeneratat familjare"
+    ],
+    "correct": 2,
+    "explanation": "Trashëgimia autosomike recesive ka transmetim horizontal: prekin vëllezërit/motrat në të njëjtën brez, prindërit janë bartës."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-032",
+    "question": "Sindroma Down ka:",
+    "answers": [
+      "Defiçiencë imunitare",
+      "Mekanizmi gjenetik ne mbi 90% të rasteve është mosshkëputja e kromozomeve në mejozë",
+      "Macies lunata",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Sindroma Down përfshin defiçiencë imunitare, mosshkëputje kromozomike gjatë mejozës dhe facies karakteristike."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-033",
+    "question": "Në qoftë se një çift ka një fëmije me sëmundjen e Fibrozës Sistike, shansi për të pasur një fëmijë tjetër të prekur nga kjo sëmundje është:",
+    "answers": [
+      "10%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "correct": 1,
+    "explanation": "Fibroza Cistike trashëgohet recesivisht; shansi për fëmijë tjetër të prekur është 25%."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-034",
+    "question": "Në mitozë, qelizat me 16 kromozome prodhojnë qeliza bija ku secila ka:",
+    "answers": [
+      "32 kromozome",
+      "8 kromozome",
+      "16 kromozome",
+      "16 çifte kz"
+    ],
+    "correct": 2,
+    "explanation": "Mitoza prodhon qeliza bija me të njëjtin numër kromozomesh (16)."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-035",
+    "question": "Në mejozë, qelizat me 32 kromozome prodhojnë qeliza bija ku secila ka:",
+    "answers": [
+      "32 kromozome",
+      "8 kromozome",
+      "16 kromozome",
+      "4 çifte kz"
+    ],
+    "correct": 2,
+    "explanation": "Mejoza përgjysmon numrin e kromozomeve; nga 32 rezultojnë qeliza me 16."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-036",
+    "question": "Në qoftë se një çift ka një femijë me semundjen e hiperkolesterolemise familjare e cila është autozomike dominante, shansi për të pasur një femije tjetër të prekur nga kjo sëmundje është:",
+    "answers": [
+      "10%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "correct": 2,
+    "explanation": "Në sëmundjen autosomike dominante prindi heterozigot ia kalon çdo fëmije me gjasë 50%."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-037",
+    "question": "Me çfarë mutacioni kemi të bejme më poshtë? ATGCATTCA----- Sekuenca e ADN-së normale.ATGCATCCA----- Sekuenca e ADN-së mutante.",
+    "answers": [
+      "Frameshift",
+      "Zëvendësim i guanines me citozinën",
+      "Transversion",
+      "Tranzicion"
+    ],
+    "correct": 3,
+    "explanation": "Zëvendësim T→C (pirimidinë me pirimidinë) = tranzicion."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-038",
+    "question": "Cila është e vërtetë në një individ heterozigot për antigjenin A dhe B?",
+    "answers": [
+      "Gjenotipi AO",
+      "A është recesive ndaj B",
+      "Prania e antitrupave A dhe B",
+      "Nuk ka asnjë nga antitrupat A dhe B"
+    ],
+    "correct": 3,
+    "explanation": "Individi AB nuk ka as anti-A as anti-B në plazmë."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-039",
+    "question": "Hiperkolesterolemia familjare është:",
+    "answers": [
+      "Sëmundje autozomale recesive",
+      "Shfaqet më shpesh nga lidhja martesore Aa x Aa",
+      "Eshtë e papajtueshme me jetën",
+      "Asnjëra"
+    ],
+    "correct": 3,
+    "explanation": "Hiperkolesterolemia familjare është autosomike dominante; asnjë nga pohimet nuk është e saktë."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-040",
+    "question": "Çfarë tipi mutacioni ka ndodhur në sekuencën e mëposhtme:ATAGCAATTCTAG---- Sekuenca e ADN-së normaleATAGCAAATTCTAG- Sekuenca e ADN-së mutante.",
+    "answers": [
+      "Pa sens",
+      "Zevendesim i bazes adenine ne pozicionin e 6-shte",
+      "Neutral",
+      "Frameshift"
+    ],
+    "correct": 3,
+    "explanation": "Futja e një baze (A) ndryshon kornizën e leximit: frameshift."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-041",
+    "question": "Është një çrregullim i rëndë i metabolizmit të purinave që shoqërohet me efektet klinike të prapambetjes mendore dhe tendencës për vetëshkaterrim:",
+    "answers": [
+      "Tay-sachs",
+      "Galaktozemia",
+      "Lesch-Nyhan",
+      "Alkaptonuria"
+    ],
+    "correct": 2,
+    "explanation": "Sindroma Lesch-Nyhan është defekt i HGPRT dhe jep prodhim të tepërt të purinave, prapambetje mendore e vetëshkatërrim."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-042",
+    "question": "Sëmundje autozomike recesive në të cilën enzima Fenilalaninë hidroksilaza është defektoze:",
+    "answers": [
+      "Alkaptonuria",
+      "Homosistinuria",
+      "Albinizmi",
+      "Fenilketonuria"
+    ],
+    "correct": 3,
+    "explanation": "Fenilketonuria vjen nga mungesa e fenilalaninë hidroksilazës, që e pengon shndërrimin e fenilalaninës në tirozinë."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-043",
+    "question": "Cila nga hipotezat e mëposhtme është më e sakta për sa i përket produktit të një gjeni:",
+    "answers": [
+      "Një gjen-një proteine",
+      "Një gjen-një sheqer",
+      "Një gjen-një ADN",
+      "Një gjen-një tipar"
+    ],
+    "correct": 0,
+    "explanation": "Hipoteza më e saktë është një gjen–një proteinë (polipeptid); 'një gjen–një tipar' është e thjeshtëzuar."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-044",
+    "question": "Sëmundje e shkaktuar nga mungesa e sintezës të enzimës Tirozinazë:",
+    "answers": [
+      "Fenilketonuria",
+      "Sistinuria",
+      "Alkaptonuria",
+      "Albinizmi"
+    ],
+    "correct": 3,
+    "explanation": "Albinizmi shkaktohet nga mungesa e tirozinazës."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-045",
+    "question": "Prania e një njolle me ngjyrë qershie në retinë, qorrimi dhe humbja në rritje e të dëgjuarit janë të gjithë tregues të sëmundjes:",
+    "answers": [
+      "Feminizmi testicular",
+      "Tay-sachs",
+      "Fenilketonuria",
+      "Lesch-Nyhan"
+    ],
+    "correct": 1,
+    "explanation": "Njolla 'kokërr qershie' në retinë dhe humbje progresive është sëmundja Tay-Sachs."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-046",
+    "question": "Cilat nga karakteristikat e mëposhtme i përket ADN-së por jo ARN-së?",
+    "answers": [
+      "Filamenti i saposintetizuar është antiparalel me filamentin shabllon",
+      "Filamentet e reja sintetizohen në drejtim 5'-3'",
+      "Sinteza është gjysëm-konservative",
+      "Formon struktura sekondare komplekse"
+    ],
+    "correct": 2,
+    "explanation": "Sinteza gjysmë-konservative i përket vetëm ADN-së."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-047",
+    "question": "Çfarë karakteristike kanë të përbashket ADN-ja me ARN-në?",
+    "answers": [
+      "Janë të lokalizuara në bërthamë",
+      "Përmbajnë dezoksiribozën si sheqerin e tyre",
+      "Janë molekula me strukturë dy-fijore",
+      "Përmbajnë lidhje fosfodiesterike"
+    ],
+    "correct": 3,
+    "explanation": "ADN dhe ARN kanë lidhje fosfodiesterike midis nukleotideve."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-048",
+    "question": "Mejoza:",
+    "answers": [
+      "Ndodh në të gjitha qelizat që përbejnë organizmin",
+      "Është e përberë nga një ndarje e vetme",
+      "Ndodh vetëm në qelizat e linjës seksuale",
+      "Prodhon 4 gametë haploide si tek meshkujt ashtu edhe tek femrat"
+    ],
+    "correct": 2,
+    "explanation": "Mejoza ndodh vetëm në qelizat e linjës seksuale (gametogjenezë)."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-049",
+    "question": "Nga sa kopje kromozomesh përbëhet kariotipi human normal?",
+    "answers": [
+      "23",
+      "24",
+      "22",
+      "20"
+    ],
+    "correct": 0,
+    "explanation": "Kariotipi human normal përbëhet nga 23 çifte (kopje) kromozomesh."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-050",
+    "question": "Një kromozom metacentrik është një kromozom:",
+    "answers": [
+      "Pa strukturë centromerike",
+      "Me dy centromere",
+      "Me një centromer të vendosur shumë afer pjesës fundore të kromozomit",
+      "Me një centromer të vendosur në qendër të kromozomit"
+    ],
+    "correct": 3,
+    "explanation": "Kromozomi metacentrik ka centromerin në qendër."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-051",
+    "question": "Molekula e ARN-së:",
+    "answers": [
+      "Nuk përmban molekula sheqeri",
+      "Përmban bazën pirimidine timine",
+      "Ndodhen vetëm në citoplazmën e qelizave",
+      "Ndodhet si në citoplazëm ashtu edhe në bërthamë"
+    ],
+    "correct": 3,
+    "explanation": "ARN gjendet si në citoplazmë ashtu edhe në bërthamë."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-052",
+    "question": "Një kampion ADN-je dy-fijore ka një përbërje prej 20% adenine. Sa është përmbajtja në përqindje e citozinës?",
+    "answers": [
+      "20%",
+      "30%",
+      "40%",
+      "60%"
+    ],
+    "correct": 1,
+    "explanation": "A=20% → T=20%; G+C=60% → C=30%."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-053",
+    "question": "ADN-ja nuk mund të analizohet nga:",
+    "answers": [
+      "Eritrocitet",
+      "Nga sistemi nervor",
+      "Spermatozoidet",
+      "Floket"
+    ],
+    "correct": 0,
+    "explanation": "Eritrocitet e pjekur nuk kanë bërthamë, ndaj nuk kanë ADN për t'u analizuar."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-054",
+    "question": "Çfarë lidhjesh kimike lidhin dy nukleotide të njëpasnjëshme përgjatë një filamenti të acidit nukleik?",
+    "answers": [
+      "Lidhjet fosfodiesterike",
+      "Lidhjet peptidike",
+      "Lidhjet polare",
+      "Lidhjet hidrogjenore"
+    ],
+    "correct": 0,
+    "explanation": "Nukleotidet lidhen në varg me lidhje fosfodiesterike."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-055",
+    "question": "Specificiteti i lidhjeve të kopjeve AT dhe GC është e përcaktuar nga:",
+    "answers": [
+      "Lidhjet kovalente",
+      "Lidhjet hidrogjenore",
+      "Lidhjet disulfurike",
+      "Lidhjet glikozilike"
+    ],
+    "correct": 1,
+    "explanation": "Specifiteti i çiftimit A-T dhe G-C përcaktohet nga lidhjet hidrogjenore."
+  },
+  {
+    "id": "lab-07-biologji-molekulare-gjenetike-056",
+    "question": "Një delecion i krahut të madh të kromozomit 15 i shoqëruar me efektet klinike të obezitetit dhe të prapambetjes mendore është karakteristike e sindromës:",
+    "answers": [
+      "Klinefelter",
+      "Turner",
+      "Monozomia 4p",
+      "Prader-Willi"
+    ],
+    "correct": 3,
+    "explanation": "Delecioni i 15q (paternal) shkakton sindromën Prader-Willi (obezitet, prapambetje mendore)."
+  }
+]

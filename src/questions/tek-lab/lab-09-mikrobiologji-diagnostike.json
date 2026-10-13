@@ -1,0 +1,746 @@
+[
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-001",
+    "question": "Cili është roli i kristal violet ne ngjyrimin e Gramit:",
+    "answers": [
+      "Kunderngjyrues",
+      "Mordant",
+      "Ngjyrues",
+      "Çngjyrues"
+    ],
+    "correct": 2,
+    "explanation": "Kristal violeti është ngjyruesi parësor në ngjyrimin Gram."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-002",
+    "question": "Ne ngjyrimin sipas Ziehl-Nielseen fuksina karbolike sherben si:",
+    "answers": [
+      "Ngjyrues",
+      "Mordant",
+      "Çngjyrues",
+      "Kunderngjyrues"
+    ],
+    "correct": 0,
+    "explanation": "Fuksina karbolike është ngjyruesi në Ziehl-Neelsen."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-003",
+    "question": "Ne terrenin agar-kripe e manit ndodh fermentimi i manitit nga:",
+    "answers": [
+      "Shtamet e E.Coli",
+      "Shtamet e streptokokeve te grupita",
+      "Shtamet e Stafilokukut te arte",
+      "Streptokoket e grupit B"
+    ],
+    "correct": 2,
+    "explanation": "Stafilokoku i artë fermenton manitin në agar-kripë mani."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-004",
+    "question": "Diagnoza ne laboratorin mikrobiologjik vihet ne baze te:",
+    "answers": [
+      "Karakteristikave morfologjike te kolonive",
+      "Vetive biokimike",
+      "Vetive imunologjike",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Diagnoza bazohet në vetitë morfologjike, biokimike dhe imunologjike."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-005",
+    "question": "Cili nga terrenet e meposhtme na lejon te nxjerrim ne pah karakteristikat morfologjike dhe vetite biokomike?",
+    "answers": [
+      "Diferencues",
+      "Pasurues",
+      "Selektive",
+      "Te gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Terrenet diferencuese nxjerrin në pah karakteristikat morfologjike dhe biokimike."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-006",
+    "question": "Lab mikrobiologjik ka per qellim te:",
+    "answers": [
+      "Izoloje mikroorganizmat",
+      "Te indentifikoje m.o",
+      "Te kryeje antibiogramen",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Laboratori mikrobiologjik izolon, identifikon mikroorganizmat dhe kryen antibiogramën."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-007",
+    "question": "Cila nga procedurat e meposhtme do te na vinte ne ndihme per te parandaluar m.o qe mund te kontaminojne mostren klinike?",
+    "answers": [
+      "Teknika e asepsise",
+      "Aspirimi me shiringe",
+      "Intubimi",
+      "Kateterizimi"
+    ],
+    "correct": 0,
+    "explanation": "Teknika e asepsisë parandalon kontaminimin e mostrës."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-008",
+    "question": "Materiali klinik qe deshmon per infeksion te rrugeve te poshtme te frymemarrjes do te merret nga:",
+    "answers": [
+      "Peshtyma",
+      "Frymemarrja",
+      "Gelbaza",
+      "Te gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Infeksioni i rrugëve të poshtme respiratore dëshmohet nga gëlbaza (sputumi)."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-009",
+    "question": "Ngjyrimi i Gramit dhe ai i Ziehl-Neelsen bazohen ne vetite kimike te:",
+    "answers": [
+      "Membranes citoplazmike",
+      "Mbluleses qelizore",
+      "Citoplazmes",
+      "Murit qelizor"
+    ],
+    "correct": 3,
+    "explanation": "Ngjyrimet Gram dhe Ziehl-Neelsen bazohen në vetitë kimike të murit qelizor."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-010",
+    "question": "Prova e katalazes sherben per diferencimin e:",
+    "answers": [
+      "Stafilokokeve te pidermis nga stafilokoket e arte",
+      "Streptokokeve nga stafilokoket",
+      "Streptokokeve nga pneumokoket",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Katalaza dallon stafilokoket (pozitive) nga streptokoket (negative)."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-011",
+    "question": "Per diferencimin e stafilokokeve te arte nga ata te epidermes na vjen ne ndihme prova e:",
+    "answers": [
+      "Katalazes",
+      "Koagulazes",
+      "EDNA-zes",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Koagulaza dallon S. aureus nga stafilokoket e epidermës."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-012",
+    "question": "Prova e bacitracines sherben per diferencimin e:",
+    "answers": [
+      "Streptokokeve nga stafilokoket patogjene",
+      "Streptokokeve beta hemolitik te grupit A nga grupet e tjere",
+      "Streptokokeve beta hemolitik te grupit B nga grupet e tjere",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Bacitracina dallon streptokokët beta-hemolitikë grupi A (të ndjeshëm)."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-013",
+    "question": "Prova e CAMP perdoret per :",
+    "answers": [
+      "Identifikimin e streptokokeve te grupit B",
+      "Identifikimin e streptokokeve te grupit D",
+      "Identifikimin e stafilokokeve",
+      "Asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Prova CAMP identifikon streptokokët e grupit B."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-014",
+    "question": "Prova e bileskulines na vjen ne ndihme per identifikimin e:",
+    "answers": [
+      "Streptokokeve te grupit D",
+      "Streptokokeve te grupit A",
+      "Pneumokokeve",
+      "Te gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Prova e bile-eskulinës identifikon streptokokët e grupit D."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-015",
+    "question": "Teknika e kultivimit prane vijes se mbjelljes se stafilokokut te arte është karakteristike per kultivimin e:",
+    "answers": [
+      "Haemophilus",
+      "Neisserie",
+      "C.Diphtherae",
+      "Te gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Satelitizmi rreth S. aureus është karakteristikë e kultivimit të Haemophilus."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-016",
+    "question": "Cili nga keto terrene frenon rritjen e baktereve Gram negative:",
+    "answers": [
+      "Eosin metilen blu",
+      "Hektoen enterik agar",
+      "Mac Conkey",
+      "Asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Mac Conkey, EMB dhe Hektoen frenojnë gram-pozitivët, jo gram-negativët; asnjëri nga të tre nuk frenon gram-negativët."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-017",
+    "question": "Ne terrenin Mac Conkey ndodh fementimi i:",
+    "answers": [
+      "Glukozes",
+      "Saharozes",
+      "Laktozes",
+      "Asnjera"
+    ],
+    "correct": 2,
+    "explanation": "Mac Conkey tregon fermentimin e laktozës."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-018",
+    "question": "Forma dhe rigiditeti i qelizës bakteriale janë si pasojë e :",
+    "answers": [
+      "Membranes celulare",
+      "Shtreses se peptidoglikanit",
+      "Lipopolisaharideve",
+      "Acideve teikoike"
+    ],
+    "correct": 1,
+    "explanation": "Forma dhe rigiditeti i qelizës bakteriale i detyrohen shtresës së peptidoglikanit."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-019",
+    "question": "Ne qelizat eukariote nuk hyjne:",
+    "answers": [
+      "Bakteret",
+      "Bimet",
+      "Protozoaret",
+      "Kerpudhat"
+    ],
+    "correct": 0,
+    "explanation": "Bakteret janë qeliza prokariote, jo eukariote."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-020",
+    "question": "Cila nga keto substanca është prezente ne spor por jo ne qelizen bakteriale vegjetative:",
+    "answers": [
+      "Peptidoglikani",
+      "Fosfolipidet",
+      "Acidi ribonukleik",
+      "Acidi dipicolinik"
+    ],
+    "correct": 3,
+    "explanation": "Acidi dipikolinik gjendet vetëm në sporet bakteriale, jo në qelizën vegjetative."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-021",
+    "question": "Cila nga cilesite e meposhtme është tipike per sporin bakterial:",
+    "answers": [
+      "Fagocitoza",
+      "Levizshmeria",
+      "Termorezistenca",
+      "Prodhimi i antibiotikeve"
+    ],
+    "correct": 2,
+    "explanation": "Sporet bakteriale karakterizohen nga termorezistenca e lartë."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-022",
+    "question": "Fimbriet ose Pilet:",
+    "answers": [
+      "Janë gjithmone me natyre proteinike",
+      "Disa janë faktore virulence",
+      "Disa bejne te mundur levizjen",
+      "Te gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Disa lloje fimbriesh/pilesh (si pili tip IV) mundësojnë lëvizshmërinë bakteriale përmes tërheqjes-lëshimit."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-023",
+    "question": "Cili nga proceset metabolike furnizon qelizen bakteriale me sasine me te madhe te energjise ne forme ATP:",
+    "answers": [
+      "Glikoliza",
+      "Fermentimi",
+      "Frymarrja aerobe",
+      "Frymarrja anaerobe"
+    ],
+    "correct": 2,
+    "explanation": "Frymëmarrja aerobe jep sasinë më të madhe të ATP."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-024",
+    "question": "Humbja e kapsules i ben bakteret :",
+    "answers": [
+      "Te paafte per t'u rritur",
+      "Te paafte per t'i rezistuar fagocitozes",
+      "Me te ndjeshem ndaj antibiotikeve",
+      "Me te lehte per tu kultivuar"
+    ],
+    "correct": 1,
+    "explanation": "Kapsula mbron bakterin nga fagocitoza; pa të, bakteri përfagocitohet lehtë."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-025",
+    "question": "Cila nga strukturat bakteriale është pergjegjese per ngjitjen pas nje qelize bujtese:",
+    "answers": [
+      "Proteinat e membranes se jashtme",
+      "Flagjeli",
+      "Ciljet",
+      "Mesosomi"
+    ],
+    "correct": 2,
+    "explanation": "Ciljet (pilët/fimbriet) mundësojnë ngjitjen te qeliza bujtëse."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-026",
+    "question": "Muri i gram pozitiveve është i perbere nga:",
+    "answers": [
+      "Nje shtrese e vetme peptidoglikani",
+      "Nje shtrese e peptidoglikanit dhe membrana e jashtme",
+      "Peptidoglikani, acidi teicoic dhe acidi lipoteikoik",
+      "Membrana fosfolipidike e acidi teikoik"
+    ],
+    "correct": 2,
+    "explanation": "Muri i gram-pozitiveve ka shtresë të trashë peptidoglikani me acid teikoik e lipoteikoik."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-027",
+    "question": "Ne cfare temperature vriten sporet bakteriale:",
+    "answers": [
+      "121 °C",
+      "30 °C",
+      "37 °C",
+      "80 °C"
+    ],
+    "correct": 0,
+    "explanation": "Sporet vriten vetëm në 121 °C me avull nën presion (autoklav); 80 °C nuk i shkatërron."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-028",
+    "question": "Viruset janë :",
+    "answers": [
+      "Komplekse te perbera nga lipide dhe nje gjenom ADN",
+      "Komplekse te perbere nga proteine dhe nje gjenome e vetme ADN ose ARN",
+      "Komplekse te perbere nga nje proteine dhe nje gjenome e vetme ADN dhe ARN",
+      "Komplekse te perbera nga glukoze dhe nje gjenom i Vetëm ADN ose ARN"
+    ],
+    "correct": 1,
+    "explanation": "Viruset përbëhen nga proteina dhe një gjenom ADN ose ARN."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-029",
+    "question": "Ne ngjyrimin me Gram rezultojne me ngjyre te kuqe:",
+    "answers": [
+      "Bakteret Gram-pozitiv",
+      "Bakteret Gram-negativ",
+      "Bakteret sporogjene",
+      "Bakteret anaerobe"
+    ],
+    "correct": 1,
+    "explanation": "Bakteret Gram-negative shfaqen me ngjyrë të kuqe në ngjyrimin Gram."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-030",
+    "question": "Ne Kurben e rritjes dallojme 4 faza te ndara sipas rradhes:",
+    "answers": [
+      "Faza lag, stacionare, log, e ngordhjes",
+      "Faza log, lag, stacionare, e ngordhjes",
+      "Faza lag, log, stacionare, e ngordhjes",
+      "Faza stacionare, lag, log, e ngordhjes"
+    ],
+    "correct": 2,
+    "explanation": "Faza e rritjes: lag, log, stacionare, ngordhjes."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-031",
+    "question": "Cili nga te meposhtmit nuk ka flore bakteriale normale:",
+    "answers": [
+      "Trakti respirator i siperm",
+      "Trakti genital femeror",
+      "Vezika urinare",
+      "Trakti digjestiv"
+    ],
+    "correct": 2,
+    "explanation": "Vezika urinare normalisht është sterile."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-032",
+    "question": "Me termin disifektim kuptojme:",
+    "answers": [
+      "Shkaterrimin e mikroorganizmave patogen te pranishem ne nje material ose ambient",
+      "Shkaterrimin e plote te gjithe mikroorganizmave patogjen te mundshem, te pranishem ne nje ambient",
+      "Shkaterrimi i vektoreve",
+      "Shkaterrimi i paraziteve"
+    ],
+    "correct": 0,
+    "explanation": "Dezinfektimi shkatërron mikroorganizmat patogjenë në një material ose ambient."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-033",
+    "question": "Qe nje substance antimikrobike te mund te perdoret si antibiotik duhet:",
+    "answers": [
+      "Te kete toksicitet selektiv",
+      "Te kete nje spekter te ngusht veprimi",
+      "Te japi tek bujtesi reaksion alergjik",
+      "Te mund te merret vetëm me rruge parenterale"
+    ],
+    "correct": 0,
+    "explanation": "Antibiotiku duhet të ketë toksicitet selektiv ndaj mikrobit."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-034",
+    "question": "Cili nga mikroorganizmat e meposhtem perfshihet ne patogjenezen e kariesit dentar:",
+    "answers": [
+      "Streptococcus pneumoniae",
+      "Streptococcus mutans",
+      "Treponema pallidum",
+      "Echerichia coli"
+    ],
+    "correct": 1,
+    "explanation": "Streptococcus mutans është agjenti kryesor i kariesit dentar."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-035",
+    "question": "Cili është bakteri kryesor me i shpeshtë ne infeksionet urinare:",
+    "answers": [
+      "Salmonela typhi",
+      "Escheriachia coli",
+      "Pseudomonas aeruginosa",
+      "Chlamydia trachomatis"
+    ],
+    "correct": 1,
+    "explanation": "E. Coli është bakteri më i shpeshtë shkaktar i infeksioneve urinare."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-036",
+    "question": "Peshtyma është e pasur me:",
+    "answers": [
+      "Igg",
+      "Igm",
+      "Iga",
+      "Igd"
+    ],
+    "correct": 2,
+    "explanation": "Pështyma është e pasur me IgA sekretore."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-037",
+    "question": "Shfaqet ne vazhdimesi ne nje komunitet duke perfshire zakonisht vetëm nje popullate te paket:",
+    "answers": [
+      "Epidemia",
+      "Pandemia",
+      "Endemia",
+      "Semundja sporadike"
+    ],
+    "correct": 2,
+    "explanation": "Endemia është prania e vazhdueshme e një sëmundjeje në një popullatë të kufizuar."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-038",
+    "question": "Eshtë e vertete se gripi:",
+    "answers": [
+      "Shfaqet me te dridhura (frissone)",
+      "Është infeksion viral",
+      "Shoqerohet edhe me vdekje",
+      "Mjekohet me tetracikline"
+    ],
+    "correct": 1,
+    "explanation": "Gripi është infeksion viral."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-039",
+    "question": "Cili nga pohimet nuk është i vertete per Giardian:",
+    "answers": [
+      "Është bakter gram negative",
+      "Infeksion i zorres holle",
+      "Transmetohet me rruge fekal -orale",
+      "Trajtohet me flagyl"
+    ],
+    "correct": 0,
+    "explanation": "Giardia është protozoar, jo bakter."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-040",
+    "question": "Bakteret permbajne :",
+    "answers": [
+      "Retikul endoplazmatik",
+      "1 kromozom te vetëm",
+      "Membrane berthamore",
+      "Aparat golxhi"
+    ],
+    "correct": 1,
+    "explanation": "Bakteret kanë një kromozom të vetëm rrethor."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-041",
+    "question": "Mezozomet janë invaginime te:",
+    "answers": [
+      "Murit qelizor",
+      "Membranes qelizore",
+      "Membranes berthamore",
+      "Membranes vaginale"
+    ],
+    "correct": 1,
+    "explanation": "Mezozomet janë invaginime të membranës citoplazmike."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-042",
+    "question": "Cilat nga format nuk i perkojne klasifikimit te baktereve:",
+    "answers": [
+      "Sferike ose koke",
+      "Cilindrike",
+      "Spirale",
+      "Hekzagonale"
+    ],
+    "correct": 3,
+    "explanation": "Forma hekzagonale nuk bën pjesë në klasifikimin standard morfologjik të baktereve."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-043",
+    "question": "Cila nga strukturat e meposhtme nuk është kurre ne nje qelize prokariote:",
+    "answers": [
+      "Membrana qelizore",
+      "Ribozomet",
+      "Berthama",
+      "Flagjelet"
+    ],
+    "correct": 2,
+    "explanation": "Qelizat prokariote nuk kanë bërthamë të vërtetë (të kufizuar nga membranë)."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-044",
+    "question": "Prokariotet, eukariotet dhe viruset kane te perbashket karakteristiken:",
+    "answers": [
+      "Permbajne material gjenetik te perbere nga acid nukleik",
+      "Permbajne gjenome te perbere nga adn",
+      "Permbajne membrane plazmatike",
+      "Permbajne berthame"
+    ],
+    "correct": 0,
+    "explanation": "Të gjithë përmbajnë material gjenetik të përbërë nga acide nukleike."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-045",
+    "question": "Ne baktere levizshmeria i dedikohet:",
+    "answers": [
+      "Ciljeve (pili)",
+      "Glikokaliksit",
+      "Pseudopodeve",
+      "Flagjelit"
+    ],
+    "correct": 3,
+    "explanation": "Lëvizshmëria bakteriale i dedikohet flagjelit."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-046",
+    "question": "Cila nga shprehjet është e sakte per transduksionin:",
+    "answers": [
+      "Është proces i transferimit gjenetik i mundesuar nga bakterofagu",
+      "Është nje mekanizem nepermjet te cilit qelizat transferojne meterialin gjenetik me kontakt fizik",
+      "Është nje mekanizem ku qeliza perfiton nje adn prezente ne ambjent",
+      "Është i mundesuar nga plamidi i pranishem ne qelizen dhuruese"
+    ],
+    "correct": 0,
+    "explanation": "Transduksioni është transferim gjenetik mes baktereve i ndërmjetësuar nga bakteriofagu."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-047",
+    "question": "Cila nga strukturat shmang bakteret nga fagocitoza:",
+    "answers": [
+      "Ciljet",
+      "Kapsula",
+      "Sporet",
+      "Mezozomi"
+    ],
+    "correct": 1,
+    "explanation": "Kapsula mbron bakteret nga fagocitoza."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-048",
+    "question": "Mikroorganizmat oportuniste :",
+    "answers": [
+      "Janë agjent te toksikoinfeksioneve alimentare",
+      "Janë pergjegjes per infeksionet ne personat me imunitet te rene",
+      "Janë gjithnje sensibel ndaj antibiotikeve",
+      "Janë te pranishem ne indet njerzore te infektuara"
+    ],
+    "correct": 1,
+    "explanation": "Mikroorganizmat oportunistë shkaktojnë infeksione kryesisht te personat me imunitet të ulur."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-049",
+    "question": "Ne ngjyrimin e Gramit rezultojne me ngjyre violet:",
+    "answers": [
+      "Bakteret Gram - negativ",
+      "Bakteret anarobe",
+      "Vetëm bakteret G + aerob",
+      "Bakteret Gram +"
+    ],
+    "correct": 3,
+    "explanation": "Bakteret Gram-pozitive shfaqen me ngjyrë violet në ngjyrimin Gram."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-050",
+    "question": "I pari qe pa me mikroskop bakteret ishte:",
+    "answers": [
+      "Van Haleen",
+      "Koch",
+      "Van Leeuwenhoek",
+      "Van Basten"
+    ],
+    "correct": 2,
+    "explanation": "Van Leeuwenhoek ishte i pari që vëzhgoi bakteret me mikroskop."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-051",
+    "question": "Nese nje qelize ndahet ne 30 minuta, sa qeliza do formohen pas 3 oreve:",
+    "answers": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "correct": 2,
+    "explanation": "3 orë = 6 breza (30 min) → 2^6 = 64 qeliza."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-052",
+    "question": "Flora bakteriale e traktit gastrointestinal perbehet nga:",
+    "answers": [
+      "Baktere anaerob",
+      "Baktere aerob",
+      "Ne mase te barabarte nga baktere dhe viruse",
+      "Pergjthesisht baktere anaerob por edhe aerob"
+    ],
+    "correct": 3,
+    "explanation": "Flora e traktit gastrointestinal përbëhet kryesisht nga bakterie anaerobe, por edhe aerobe."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-053",
+    "question": "Ne Mutualizem:",
+    "answers": [
+      "Perfitojne te dy organizmat",
+      "Perfiton njeri prej tyre por tjetri nuk demtohet",
+      "Perfiton njeri ne kuriz te tjetrit",
+      "Disa prodhime te njerit shkaterojne te tjeret"
+    ],
+    "correct": 0,
+    "explanation": "Në mutualizëm përfitojnë të dy organizmat."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-054",
+    "question": "Cili pohim nuk është i vertete per Floren Bakteriale:",
+    "answers": [
+      "Pengon kolonizimin e e organizmit nga bakteret patogjene",
+      "Nxit sistemin imunitar",
+      "Luan rol ne luften ndaj viruseve",
+      "Sherben si burim i zakonshem infeksioni"
+    ],
+    "correct": 2,
+    "explanation": "Flora normale pengon kolonizimin e patogjenëve dhe nxit imunitetin, por nuk ka rol të drejtpërdrejtë ndaj viruseve."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-055",
+    "question": "Antibiotiket veprojne ne menyre specifike me keto menyra: .... Cila nuk është e sakte?",
+    "answers": [
+      "Frenojne sintezen e murit qelizor",
+      "Frenojne sintezen e ac nukleike",
+      "Frenojne sintezen e proteinave",
+      "Frenojne sintezen e triglicerideve"
+    ],
+    "correct": 3,
+    "explanation": "Antibiotikët nuk frenojnë sintezën e triglicerideve."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-056",
+    "question": "Forma polihedrike e virusit percaktohet nga:",
+    "answers": [
+      "Materiali gjenetik",
+      "Kapsida",
+      "Envelopi",
+      "Mbeshtjellja citoplazmatike bishti"
+    ],
+    "correct": 1,
+    "explanation": "Forma polihedrike e virusit përcaktohet nga kapsida."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-057",
+    "question": "Cila është simptoma me karakteristike ne Bakteremi:",
+    "answers": [
+      "Kolle e forte",
+      "Temperature",
+      "Diarreja",
+      "Te vjella"
+    ],
+    "correct": 1,
+    "explanation": "Temperatura (ethja) është simptoma më karakteristike e bakteremisë."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-058",
+    "question": "Cila pjese e njohur e trupit ka masen me te bollshme e me variabel te mikrorganizmave:",
+    "answers": [
+      "Goja",
+      "Veshi dhe syri",
+      "Trakti respirator",
+      "Zona urogenitale"
+    ],
+    "correct": 0,
+    "explanation": "Goja ka masën më të bollshme dhe variabile të mikroorganizmave."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-059",
+    "question": "Maredhenia ne te cilen nje organizem perfiton ne kurriz te organizmit strehues quhet:",
+    "answers": [
+      "Neutralizem",
+      "Sinergjizem",
+      "Antagonizem",
+      "Parazitizem"
+    ],
+    "correct": 3,
+    "explanation": "Marrëdhënia ku njëri përfiton në kurriz të strehuesit quhet parazitizëm."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-060",
+    "question": "Eshtë e vertete qe Interferonet INF:",
+    "answers": [
+      "Bejne pjese ne linjen e pare te mbrojtjes",
+      "Bejne pjese ne vijen e dyte te mbrojtjes",
+      "Janë grup proteinash",
+      "Frenojne sintezen e viruseve"
+    ],
+    "correct": 0,
+    "explanation": "Interferonet janë proteina antivirale të çliruara herët, pjesë e mbrojtjes së natyrshme (linja e parë)."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-061",
+    "question": "Cili prej tyre është infeksion respirator:",
+    "answers": [
+      "Terbimi",
+      "Ethja tifoide",
+      "Trikomoniaza",
+      "Pertusi"
+    ],
+    "correct": 3,
+    "explanation": "Pertusi (kolla e mirë) është infeksion respirator."
+  },
+  {
+    "id": "lab-09-mikrobiologji-diagnostike-062",
+    "question": "Cila nga alternativat e meposhtme nuk është e sakte: Toksoplazma Gondi:",
+    "answers": [
+      "Është protozoar i detyruar brendaqelizor",
+      "Është infeksion transplacentar",
+      "Transmetohet nga qente",
+      "Prek gjendrat linfatike"
+    ],
+    "correct": 2,
+    "explanation": "Toksoplazma transmetohet kryesisht nga macet, jo nga qentë."
+  }
+]

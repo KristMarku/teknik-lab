@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-001",
+    "question": "Cili nga pohimet e mëposhtme nuk është i vërtetë:",
+    "answers": [
+      "Transudati formohet kur ka rritje të presionit osmotic të kapilareve të gjakut",
+      "Exudati formohet kur ka rritje të presionit hidrostatik",
+      "TG në efuzionet kyloze janë 2-8x më shumë sesa në ato pseudolyloze",
+      "Rivalta pozitiv flet për exudat."
+    ],
+    "correct": 1,
+    "explanation": "Eksudati formohet nga rritja e përshkueshmërisë vaskulare në inflamacion; presioni hidrostatik është mekanizmi i transudatit."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-002",
+    "question": "Gjej cili nga pohimet ështe i vertetë për efuzionet hemoragjike:",
+    "answers": [
+      "Koaguli nuk formohet në tub të rrafshët",
+      "Ph është me i ulët se në gjakun venoz/arterial",
+      "Po2 më i ulët se në gjakun venoz/arterial",
+      "Të gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Në efuzionet hemoragjike gjaku është defibrinuar dhe nuk formon koagul në tub të rrafshët."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-003",
+    "question": "Numërimi i leukociteve në LCS e turbullt, me kamerën Byrker, bëhet në :",
+    "answers": [
+      "100 kuadrate mesatare, qelizat që dalin i pjestojmë me 2",
+      "80- kuadrate të vegjël",
+      "9 kuadratet e mëdhenj sipër",
+      "16 kuadrate mesatare"
+    ],
+    "correct": 0,
+    "explanation": "LCS e turbullt numërohet në 100 kuadrate mesatare."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-004",
+    "question": "Numërimi i qelizave kur LCS është i qartë (kameren Byrker), bëhet në:",
+    "answers": [
+      "9 kuadrate të mëdhenj",
+      "100 kuadrate mesatarë",
+      "80 kuadrate të vegjël",
+      "3 kuadrate te mëdhenj sipër, 3 poshtë dhe dy kuadrate mesatare në mes të kamerës"
+    ],
+    "correct": 0,
+    "explanation": "LCS e qartë numërohet në 9 kuadrate të mëdhenj të kamerës Bürker."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-005",
+    "question": "Cili nga pohimet e mëposhtme është i vërtetë:",
+    "answers": [
+      "Pleocitoza polimorfonukleare gjendet në menigjitn bacterial akut",
+      "Pleocitoza monocitare takohet në LCS pot-hemoragjik cerebral",
+      "Qelizat plazmatike dhe limfocitet takohen në sklerozën multiple",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Pleocitoza polimorfonukleare në meningitin bakterial, monocitare në LCS post-hemoragjik dhe plazmocite/limfocite në sklerozën multiple janë të vërteta."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-006",
+    "question": "Për përgatitjen e lamave LCS duhet të centrifugohet me :",
+    "answers": [
+      "200 xhiro/minutë",
+      "300 xhiro/minutë",
+      "400 xhiro/minutë",
+      "500 xhiro/minute"
+    ],
+    "correct": 0,
+    "explanation": "Lamat e likidit cerebrospinal përgatiten me centrifugim të butë, 200 xhiro/min, që qelizat të mos dëmtohen."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-007",
+    "question": "Reaksioni i Rivaltës shërben për të bërë dallimin midis:",
+    "answers": [
+      "Transudatit dhe exudatit",
+      "Efuzioneve kylozë nga ato pseudokylozë",
+      "Efuzione ve hemoragjike nga gjaku i aspiruar",
+      "Efuzioneve purulente nga ato kylozë"
+    ],
+    "correct": 0,
+    "explanation": "Reaksioni Rivalta dallon transudatin nga eksudati."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-008",
+    "question": "Kur reaksioni i Rivaltës ështës pozitiv, do të thotë që likidi është:",
+    "answers": [
+      "Transudat",
+      "Exuda",
+      "Efuzion hemoragjike",
+      "Efuzion pseudokyloz"
+    ],
+    "correct": 1,
+    "explanation": "Rivalta pozitiv tregon eksudat."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-009",
+    "question": "Testi i Mucinës (Acidi hiauronik):",
+    "answers": [
+      "Në likidet inflamatore- është koagul në bllok",
+      "Në artritin rheumatoid është i mjaftueshëm ose flashkët",
+      "Në artritet inflamatore është i varfër",
+      "Të gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Në artritet inflamatore testi i mucinës është i varfër (koagul i dobët)."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-010",
+    "question": "Cili nga pohimet e mëposhtme ështe i vërtetë:",
+    "answers": [
+      "Me hematokrit kuptojmë raportin e kolonës eritrocitare me plazmën në gjakun total",
+      "Hct shprehet në gr/dl",
+      "Hct shprehet në mmol/l",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Hematokriti është raporti i kolonës eritrocitare me gjakun total, shprehur në %."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-011",
+    "question": "Në Konstantet eritrocitare futen:",
+    "answers": [
+      "Trombocitet",
+      "RDE",
+      "Eozinofilet",
+      "-VEM"
+    ],
+    "correct": 3,
+    "explanation": "VEM (MCV) bën pjesë në konstantet eritrocitare."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-012",
+    "question": "Përcaktimi i konstanteve eritrocitare vlen për:",
+    "answers": [
+      "Klasifikimin e anemive",
+      "Klasifikimin e leukopenive",
+      "Klasifikimin e anemive dhe klasifikimin e leukopenive",
+      "Klasifikimin e hepatiteve"
+    ],
+    "correct": 0,
+    "explanation": "Konstantet eritrocitare shërbejnë për klasifikimin e anemive."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-013",
+    "question": "Eritrosedimentacioni ulet në këto situata klinike:",
+    "answers": [
+      "Pas interventeve kirurgjikale",
+      "Hiperlipemi",
+      "Fëmijet e porsalindur",
+      "Artritet"
+    ],
+    "correct": 2,
+    "explanation": "Te të porsalindurit sedimentimi (ESR) është i ulët."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-014",
+    "question": "Sedimenti rritet në të gjitha situatat e mëposhtme, me përjashtim të :",
+    "answers": [
+      "Artriteve",
+      "Pas interventeve kirirugjikale",
+      "Diabet mellitus",
+      "Hiperkolesterolemine"
+    ],
+    "correct": 2,
+    "explanation": "Sedimenti rritet në artritet, pas operacioneve dhe hiperkolesterolemi; diabeti nuk është shkak klasik."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-015",
+    "question": "Në sistemet buferike te organizmit bëjnë pjesë:",
+    "answers": [
+      "Eritrocitet",
+      "Hb-ja",
+      "Hct",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Hemoglobina është pjesë e sistemeve buferike të organizmit."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-016",
+    "question": "Hb-ja përcaktohet me këto metoda:",
+    "answers": [
+      "Kolorimetrike",
+      "Hb-metrike",
+      "End-point",
+      "Si kolorimetrike dhe Hb- metrike"
+    ],
+    "correct": 3,
+    "explanation": "Hb përcaktohet me metoda kolorimetrike dhe hemoglobinometrike."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-017",
+    "question": "Cili nga pohimet e meposhtme është i vertete:",
+    "answers": [
+      "Kuadrati mesatar kufizohet nga të gjitha anët me linjë 2-fishe",
+      "Kuadratet mesatare janë kuadratet ku numërohen leukocitet",
+      "Kuadratet mesatare janë kuadratet ku numërohen leukocitet dhe kufizohen nga të gjitha anët me linjë 2-fishe",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Kuadratet mesatare numërojnë leukocitet dhe kufizohen nga linjë e dyfishtë."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-018",
+    "question": "Cili nga pohimet e mësipërme është i vërtete?",
+    "answers": [
+      "Trombocitopenia është rrezik për fenomene të hiperkoagulimit",
+      "Trombocitoza është rrezik për fenomenet hemoragjike",
+      "Trombocitet marrin pjesë në proceset e koagulimit",
+      "Trombociti ka formën e diskut bikonkav"
+    ],
+    "correct": 2,
+    "explanation": "Trombocitet marrin pjesë në koagulim."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-019",
+    "question": "Është e vërtetë që :",
+    "answers": [
+      "Leukocitet numërohen në 100 kuadrate mesatar",
+      "Leukocitet numërohen në 80 kuadrate mesatare",
+      "Leukocitet numërohen në 160 kuadrate të vegjël",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Leukocitet numërohen në 100 kuadrate mesatare."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-020",
+    "question": "Cili nga pohimet e mëposhtme nuk është i vërtetë:",
+    "answers": [
+      "Leukokoncentrimi përdoret për dg e leukopenive",
+      "Leukopeni kuptojmë uljen e nr.leukociteve",
+      "Granulacionet bazofile takohen në anemitë e rënda",
+      "Pararendës I leukociteve është retikulociti"
+    ],
+    "correct": 3,
+    "explanation": "Pararendësi i leukociteve nuk është retikulociti (ai është pararendës i eritrocitit)."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-021",
+    "question": "Nuk është e vërtetë që :",
+    "answers": [
+      "Eritrocitet numërohen në 80 kuadrate të vegjël",
+      "Leukocitet numërohen në 100 kuadrate mesatare",
+      "Hb-ja shprehet në mmol/l",
+      "Hct shprehet në%"
+    ],
+    "correct": 2,
+    "explanation": "Hb shprehet në g/dl (ose mmol/l në sistemin SI), por pohimi i çelësit konsiderohet i gabuar."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-022",
+    "question": "Ndryshimi i madhësisë së eritrocitit quhet:",
+    "answers": [
+      "Anizocitozë",
+      "Poikilocitozë",
+      "Normokromi",
+      "Normocitozë"
+    ],
+    "correct": 0,
+    "explanation": "Ndryshimi i madhësisë së eritrociteve quhet anizocitozë."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-023",
+    "question": "Limfocitozë kuptojmë:",
+    "answers": [
+      "Shtim të nr. te leukociteve",
+      "Uljen e nr. te limfociteve",
+      "Shtim të nr. te limfociteve",
+      "Shtim të nr. të monociteve"
+    ],
+    "correct": 2,
+    "explanation": "Limfocitoza është shtim i numrit të limfociteve."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-024",
+    "question": "Cili nga pohimet e mëposhtme ështe i vërtetë:",
+    "answers": [
+      "Hb-patite janë patologji hemolitike hereditare",
+      "Janë patologji hemolitike të fituara",
+      "Testi i drapëzimit bëhet për të vënë në dukje praninë e Hb-F",
+      "Testi denatyrimit alkalin të Hb-se bëhet për të evidentuar Hb-S"
+    ],
+    "correct": 0,
+    "explanation": "Hemoglobinopatitë janë patologji hemolitike hereditare."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-025",
+    "question": "Anomalitë kongenitale të Hemoglobinopative janë:",
+    "answers": [
+      "Kuantitative",
+      "Kualitative",
+      "Kuantitative dhe kualitative",
+      "Sindromat Mononukleozike"
+    ],
+    "correct": 2,
+    "explanation": "Hemoglobinopatitë e lindura mund të jenë kuantitative (talasemi) dhe kualitative (drepanocitozë)."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-026",
+    "question": "Në Konstantet Eritrocitare bëjnë pjesë:",
+    "answers": [
+      "VEM",
+      "MCV",
+      "MCHC",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "MCV, MCH, MCHC (VEM, HEM, CHEM) janë konstante eritrocitare."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-027",
+    "question": "Cili është pararendës i limfocitit:",
+    "answers": [
+      "Mieloblasti",
+      "Megakarioblasti",
+      "Monoblasti",
+      "Limfoblasti"
+    ],
+    "correct": 3,
+    "explanation": "Limfoblasti është pararendës i limfocitit."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-028",
+    "question": "Cili është pararendës i eritrocitit:",
+    "answers": [
+      "Mieloblasti",
+      "Megakarioblasti",
+      "Monoblasti",
+      "Retikulociti"
+    ],
+    "correct": 3,
+    "explanation": "Retikulociti është pararendës i eritrocitit."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-029",
+    "question": "Elementët e figuruar të gjakut prodhohen në:",
+    "answers": [
+      "Palcën e kockave",
+      "Lien",
+      "Hepar",
+      "Nyjet limfatike"
+    ],
+    "correct": 0,
+    "explanation": "Elementët e figuruar të gjakut prodhohen në palcën e kockave."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-030",
+    "question": "Cila është teoria me e mbështetur për prodhimin e elementeve te figuruar të gjakut?",
+    "answers": [
+      "Teoria unitare",
+      "Teoria dualiste",
+      "Teoria trialiste",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Teoria unitare (qeliza burimore pluripotente) është më e mbështetura."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-031",
+    "question": "Anemia quhet e shkalles së lehtë kur vlerat e Hb janë :",
+    "answers": [
+      "9-11 gr/dl",
+      "7-9 gr/dl",
+      "11-16 gr/dl",
+      "<7 gr/dl"
+    ],
+    "correct": 0,
+    "explanation": "Anemia e lehtë: Hb rreth 9-11 g/dl."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-032",
+    "question": "MCV quhet:",
+    "answers": [
+      "Përqindja mesatare e Hb në eritrocit",
+      "Pesha mesatare e Hb në eritocit",
+      "Volumi mesatar eritrocitar",
+      "Ndryshueshmëria e eritocitit"
+    ],
+    "correct": 2,
+    "explanation": "MCV është vëllimi mesatar eritrocitar."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-033",
+    "question": "MCH quhet:",
+    "answers": [
+      "Përqindja mesatare e Hb në eritrocit",
+      "Pesha mesatare e Hb në eritocit",
+      "Volumi mesatar eritrocitar",
+      "Ndryshueshmëria e eritocitit"
+    ],
+    "correct": 1,
+    "explanation": "MCH është pesha mesatare e hemoglobinës në eritrocit."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-034",
+    "question": "Në anemitë e lindura futen:",
+    "answers": [
+      "Anemia ferriprive",
+      "Anemia aplastike",
+      "Anemia megaloblastike",
+      "Anemia drepanocitare"
+    ],
+    "correct": 3,
+    "explanation": "Anemia drepanocitare është anemi e lindur."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-035",
+    "question": "Cili është pararendës i monocitit?",
+    "answers": [
+      "Mieloblasti",
+      "Megakarioblasti",
+      "Monoblasti",
+      "Limfoblasti"
+    ],
+    "correct": 2,
+    "explanation": "Monoblasti është pararendës i monocitit."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-036",
+    "question": "Cili është pararendës i trombocitit?",
+    "answers": [
+      "Megakarioblasti",
+      "Monoblasti",
+      "Metikulociti",
+      "Mieloblasti"
+    ],
+    "correct": 0,
+    "explanation": "Megakarioblasti është pararendës i trombocitit."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-037",
+    "question": "Në gjakun periferik gjenden elementete me përjashtim të :",
+    "answers": [
+      "Retikulocitit",
+      "Neutrofilit",
+      "Eozinofilit",
+      "Prolimfocitit"
+    ],
+    "correct": 3,
+    "explanation": "Prolimfociti nuk gjendet normalisht në gjakun periferik."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-038",
+    "question": "Formula leukocitare përmban elementet përvec :",
+    "answers": [
+      "Limfocitit",
+      "Neutrofilit",
+      "Monocitit",
+      "Trombocitit"
+    ],
+    "correct": 3,
+    "explanation": "Trombociti nuk bën pjesë në formulën leukocitare."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-039",
+    "question": "MHCH quhet:",
+    "answers": [
+      "Përqindja mesatare e Hb në eritrocit",
+      "Pesha mesatare e Hb në eritocit",
+      "Volumi mesatar eritrocitar",
+      "Ndryshueshmëria e eritocitit"
+    ],
+    "correct": 1,
+    "explanation": "MCH (MHCH) është pesha mesatare e hemoglobinës në një eritrocit, në pikogramë."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-040",
+    "question": "RDW quhet:",
+    "answers": [
+      "Përqindja mesatare e Hb në eritrocit",
+      "Pesha mesatare e Hb në eritocit",
+      "Volumi mesatar eritrocitar",
+      "Ndryshueshmëria e eritocitit"
+    ],
+    "correct": 3,
+    "explanation": "RDW tregon ndryshueshmërinë (anizocitozën) e eritrociteve."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-041",
+    "question": "Në anemitë regjenerative futen anemitë nga :",
+    "answers": [
+      "Humbja e gjakut",
+      "Anemitë hemolitike",
+      "Humbja e gjakut dhe anemitë hemolitike",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Anemitë regjenerative përfshijnë ato nga humbja e gjakut dhe hemolitike."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-042",
+    "question": "Anemia feriprive si shkak të saj ka:",
+    "answers": [
+      "Mungesën e Fe ekzogjen",
+      "Mospërthithjen e Fe",
+      "Keqpërdorimi i Fe në organizëm",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Anemia ferriprive mund të vijë nga mungesa e Fe, mospërthithja ose keqpërdorimi."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-043",
+    "question": "Në një anemi hypokrome mikrocitare kemi:",
+    "answers": [
+      "MCV e rritur dhe MCH e ulur",
+      "MCV e ulur e MCH e ulur",
+      "MCV e ulur e MCH normale",
+      "MCV e rritur e MCH normale"
+    ],
+    "correct": 1,
+    "explanation": "Anemia hipokrome mikrocitare: MCV dhe MCH të ulura."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-044",
+    "question": "Anemia aplastike karakterizohet nga :",
+    "answers": [
+      "Prodhim i shtuar i një linjë qelizore",
+      "Ulje e prodhimit të një linje qelizore",
+      "Ulje e prodhimit të të gjitha linjave qelizore",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Anemia aplastike: ulje e prodhimit të të gjitha linjave qelizore."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-045",
+    "question": "Drepanocitoza është një anemi e lindur që karakterizohet nga:",
+    "answers": [
+      "Difekt sasior i vargjeve α të hemoglobinës",
+      "Difekt sasior i vargjeve β të hemoglobinës",
+      "Difekt cilësor i vargjeve β të hemoglobinës",
+      "Difekt cilësor i vargjeve α të hemoglobinës"
+    ],
+    "correct": 2,
+    "explanation": "Drepanocitoza është difekt cilësor i vargjeve β të hemoglobinës."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-046",
+    "question": "Elektroforeza normale në fëmijë më pak se 1 vjeç përbëhet nga:",
+    "answers": [
+      "Hb A + Hb A2 + Hb F",
+      "Hb A + Hb A2",
+      "Hb A + Hb A2 + Hb S",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Te fëmijët <1 vjeç elektroforeza përmban HbA, HbA2 dhe HbF."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-047",
+    "question": "Retikulocitet janë te ulura në aneminë:",
+    "answers": [
+      "Ferriprive",
+      "Hemolitike",
+      "Aplastike",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Retikulocitet ulen në anemitë aregjenerative (aplastike)."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-048",
+    "question": "Ferritinemia është e rritur në :",
+    "answers": [
+      "Talasemi",
+      "Aneminë ferriprive",
+      "Aneminë aplastike",
+      "Të gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Ferritina rritet në talasemi (mbingarkesë hekuri)."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-049",
+    "question": "Diagnoza përfundimtare e talasemise vendoset nëpërmjet:",
+    "answers": [
+      "E kzaminimit te gjakut komplet periferik",
+      "Biopsisë së kockave",
+      "Elektroforezës së proteinave",
+      "Elektroforezës së hemoglobinës"
+    ],
+    "correct": 3,
+    "explanation": "Diagnoza përfundimtare e talasemisë bëhet me elektroforezë të hemoglobinës."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-050",
+    "question": "Talasemia është :",
+    "answers": [
+      "Anemi e fituar me difekt sasior i vargjeve α të hemoglobinës",
+      "Anemi e lindur me difekt sasior i vargjeve β të hemoglobinës",
+      "Anemi e lindur me difekt cilësor i vargjeve të hemoglobinës",
+      "Anemi e lindur me difekt sasior i vargjeve të hemoglobinës"
+    ],
+    "correct": 3,
+    "explanation": "Talasemia është anemi e lindur me defekt sasior të sintezës së vargjeve të globinës (α ose β)."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-051",
+    "question": "Diagnoza diferenciale mes talasemisë dhe drepanocitozës bëhet nga:",
+    "answers": [
+      "Niveli i anemisë",
+      "Mielograma",
+      "Elektroforeza e Hb",
+      "Elektroforeza e proteinës"
+    ],
+    "correct": 2,
+    "explanation": "Elektroforeza e Hb dallon talasemitë nga drepanocitoza."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-052",
+    "question": "Drepanocitoza karakterizohet nga prania e:",
+    "answers": [
+      "Hb F",
+      "Hb S",
+      "Hb H",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Drepanocitoza karakterizohet nga HbS."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-053",
+    "question": "Në talasemi minor në elektroforezën e Hb kemi:",
+    "answers": [
+      "Hb A + Hb A2 + Hb F",
+      "Hb A + Hb A2",
+      "Hb A + Hb A2 + Hb S",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Në talasemi minor: HbA, HbA2 të rritur dhe HbF."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-054",
+    "question": "Në cilën leuçemi kemi praninë e kromozomit Filadelfia:",
+    "answers": [
+      "LLC",
+      "LMA",
+      "LMC",
+      "LLA"
+    ],
+    "correct": 2,
+    "explanation": "Kromozomi Filadelfia gjendet në leuçeminë mieloide kronike (LMC)."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-055",
+    "question": "Në aneminë aplastike kemi anemi:",
+    "answers": [
+      "Normokrome normocitare",
+      "Hypokrome normocitare",
+      "Normokrome makrocitare",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Anemia aplastike është normokrome normocitare."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-056",
+    "question": "Mieloma multiple është proliferimi malinj i një kloni të:",
+    "answers": [
+      "Limfociteve B",
+      "Limfociteve T",
+      "Neutrofileve",
+      "Eozinofileve"
+    ],
+    "correct": 0,
+    "explanation": "Mielomë multiple është proliferim malinj i një kloni limfocitesh B (plazmocite)."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-057",
+    "question": "Në elektroforezën e proteinave, në mielomën multiple vihet re:",
+    "answers": [
+      "Një γ globulinë e rritur por e shtrirë",
+      "Një γ globulinë e rritur me pikë klonal në të",
+      "Një 1 globulinë e rritur me pikë klonal në të",
+      "Një 2 globulinë e rritur me pikë klonal në të"
+    ],
+    "correct": 1,
+    "explanation": "Në mielomë shfaqet pikë klonale (komponent M) në zonën γ."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-058",
+    "question": "Në patologjitë e gjakut hyjnë:",
+    "answers": [
+      "Patologjitë e linjës eritrocitare",
+      "Patologjitë e çrregullimit të prodhimit",
+      "Patologjitë e çrregullimit të koagulimit",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Patologjitë e gjakut përfshijnë linjën eritrocitare, çrregullimet e prodhimit dhe koagulimit."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-059",
+    "question": "Në anemitë e lindura futen:",
+    "answers": [
+      "Anemia ferriprive",
+      "Anemia aplastike",
+      "Anemia Megaloblastike",
+      "Anemia Drepanocitare"
+    ],
+    "correct": 3,
+    "explanation": "Anemia drepanocitare është e lindur."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-060",
+    "question": "Në anemitë aregjenerative futen anemitë nga :",
+    "answers": [
+      "Sëmundjet renale",
+      "Sëmundjet kronike inflamatore",
+      "Eritopoezë jo efektive",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Anemitë aregjenerative: nga sëmundje renale, inflamatore kronike dhe eritropoezë jo efektive."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-061",
+    "question": "Cili është pararendës i limfocitit?",
+    "answers": [
+      "Megakarioblasti",
+      "Monoblasti",
+      "Retikulociti",
+      "Limfoblasti"
+    ],
+    "correct": 3,
+    "explanation": "Limfoblasti është pararendës i limfocitit."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-062",
+    "question": "Në gjakun periferik gjenden elementët me përjashtim të :",
+    "answers": [
+      "Retikulocitit",
+      "Neutrofilit",
+      "Eozinofilit",
+      "Prolimfocitit"
+    ],
+    "correct": 3,
+    "explanation": "Prolimfociti nuk gjendet në gjakun periferik normal."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-063",
+    "question": "Formula leukocitare përmban elementët përveç :",
+    "answers": [
+      "Limfocitit",
+      "Neutrofilit",
+      "Monocitit",
+      "Trombocitit"
+    ],
+    "correct": 3,
+    "explanation": "Trombociti nuk është pjesë e formulës leukocitare."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-064",
+    "question": "Koha e hemoragjisë eksploron :",
+    "answers": [
+      "Hemostazën primare",
+      "Hemostazën sekondare",
+      "Si hemostazën primare edhe atë sekondare",
+      "Asnjërën"
+    ],
+    "correct": 0,
+    "explanation": "Koha e hemoragjisë eksploron hemostazën primare."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-065",
+    "question": "Ulja e numrit të trombociteve con në:",
+    "answers": [
+      "Rritjen e kohës së hemoragjisë",
+      "Rritjen e kohës së koagulimit",
+      "Uljen e kohës së hemoragjisë",
+      "Uljen e kohës së koagulimit"
+    ],
+    "correct": 0,
+    "explanation": "Trombocitopenia zgjat kohën e hemoragjisë."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-066",
+    "question": "Niveli i ulet i PT vihet re në:",
+    "answers": [
+      "Dëmtime të heparit",
+      "Mjekim me antikoagulues",
+      "KID(koagulim intravaskular i diseminuar)",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "PT i ulët (shtuar kohë) në dëmtim hepatik, antikoagulantë dhe KID."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-067",
+    "question": "Në hemofili kemi ndryshim të:",
+    "answers": [
+      "PT",
+      "APTT",
+      "Si të PT dhe të APTT",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Në hemofili ndryshon APTT."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-068",
+    "question": "Një pacient me PT të rritur, PTT të rritur, D-dimer i rritur, fibrinogjen i ulët vuan nga:",
+    "answers": [
+      "Sindromi uremik hemolitik",
+      "Purpura trombocitopenike trombotike",
+      "KID(koagulim intravaskular i diseminuar)",
+      "Sëmundje hepatike"
+    ],
+    "correct": 2,
+    "explanation": "PT/PTT të zgjatura, D-dimer i lartë, fibrinogjen i ulët = KID."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-069",
+    "question": "Cili medikament ndikon në rritjen e PTT?",
+    "answers": [
+      "Sintromi",
+      "Heparina",
+      "Kumadina",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Heparina rrit PTT."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-070",
+    "question": "D-dimeri është i rritur në:",
+    "answers": [
+      "Infarktin akut të miokardit",
+      "KID(koagulim intravaskular i diseminuar)",
+      "Në terapinë me fibrimolitikë",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "D-dimeri rritet në IAM, KID dhe terapi fibrinolitike."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-071",
+    "question": "Klinika e KID(koagulim intravaskular i diseminuar) do të jetë rezultat i:",
+    "answers": [
+      "Prodhimit të pakët të faktorëve të koagulimit",
+      "Përdorimit të shtuar të faktorëve të koagulimit",
+      "Dëmtime cilësore të faktorëve të koagulimit",
+      "Të gjitha"
+    ],
+    "correct": 1,
+    "explanation": "Klinika e KID rezulton nga përdorimi i shtuar i faktorëve të koagulimit."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-072",
+    "question": "Hemofilia është një sëmundje:",
+    "answers": [
+      "Recensive e tranmetuar me kromozomin X",
+      "Recensive e tranmetuar me kromozomin Y",
+      "Dominante e tranmetuar me kromozomin X",
+      "Dominante e tranmetuar me kromozomin Y"
+    ],
+    "correct": 0,
+    "explanation": "Hemofilia është sëmundje recesive e lidhur me kromozomin X."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-073",
+    "question": "Vlerat e PT nuk janë te sakta nëse:",
+    "answers": [
+      "Gjaku është i hemolizuar",
+      "Gjaku është i koaguluar",
+      "Nuk është zbatuar raporti gjak antikoagulant",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "PT është i pasaktë nëse gjaku është hemolizuar, koaguluar ose raporti gjak/antikoagulant është i gabuar."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-074",
+    "question": "Fibrinogjeni gjendet i rritur në:",
+    "answers": [
+      "Shtatzani",
+      "IAM(infarkt akut i miokardit)",
+      "Diabet",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Fibrinogjeni rritet në shtatzani, IAM dhe diabet."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-075",
+    "question": "Purputra trombocitopenike imune vjen si rezultat i:",
+    "answers": [
+      "Pamjaftushmëri e prodhimit të trombociteve",
+      "Prodhim i trombociteve jo normale",
+      "Prania e antitrupave antitrombocitare",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "PTI shkaktohet nga antitrupa antitrombocitarë."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-076",
+    "question": "Ne hemofilinë B kemi:",
+    "answers": [
+      "Deficit të faktorit VIII të koagulimit",
+      "Deficit të faktorit IX të koagulimit",
+      "Deficit të faktorit VII të koagulimit",
+      "Deficit të faktorit XI të koagulimit"
+    ],
+    "correct": 1,
+    "explanation": "Hemofilia B është deficit i faktorit IX."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-077",
+    "question": "Ne elektroforezën normale të Hb kemi fraksionet:",
+    "answers": [
+      "Hb A dhe hba2",
+      "Hb A dhe Hb F",
+      "Hb A dhe hbs",
+      "Hb F dhe Hb S"
+    ],
+    "correct": 0,
+    "explanation": "Elektroforeza normale e të rriturve përmban HbA dhe HbA2."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-078",
+    "question": "Anemitë e lindura kanë:",
+    "answers": [
+      "Dëmtime cilësore të Hb",
+      "Dëmtime sasiore të Hb",
+      "Dëmtime cilësore dhe sasiore të Hb",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Anemitë e lindura kanë dëmtime cilësore dhe sasiore të Hb."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-079",
+    "question": "Një anemi mikrocitare normokrome ka:",
+    "answers": [
+      "MCV e ulët e MCH normale",
+      "MCV e rritur e MCH normale",
+      "MCV e ulët e MCH e rritur",
+      "MCV normale e MCH normale"
+    ],
+    "correct": 0,
+    "explanation": "Anemi mikrocitare normokrome: MCV e ulët, MCH normale."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-080",
+    "question": "Një analize gjaku me numrin e eritrociteve normal, Hb te ulët, MCV e ulët, sideremi e ulët, ferritinemi e ulët, tregon për:",
+    "answers": [
+      "Anemi ferriprive",
+      "Talasemi",
+      "Drepanocitozë",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Hb e ulët, MCV e ulët, sideremi dhe ferritinë të ulëta = anemi ferriprive."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-081",
+    "question": "Në një fëmijë më të vogël se 1 vjeç nuk bëhet:",
+    "answers": [
+      "Elektroforeza e Hb",
+      "Elektroforeza e proteinave",
+      "Elektroforeza e Hb dhe ajo e proteinave",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Elektroforeza e Hb nuk bëhet te fëmijët nën 1 vjeç (HbF mbizotëron)."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-082",
+    "question": "Në humbjet profuze të gjakut kemi:",
+    "answers": [
+      "MCV normale",
+      "MCV e ulët",
+      "MCV e rritur",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Në humbje akute profuze MCV është normale (anemi normocitare)."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-083",
+    "question": "Ne talasemi major kemi faksionin :",
+    "answers": [
+      "Hb S",
+      "Hb F",
+      "Hb S dhe Hb F",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Në talasemi major mbizotëron HbF."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-084",
+    "question": "Hemostaza parësore kontrollohet:",
+    "answers": [
+      "Koha e hemoragjisë",
+      "Koha e koagulimit",
+      "Niveli i protrombinës",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Hemostazën parësore e kontrollon koha e hemoragjisë."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-085",
+    "question": "65 % e ulet e nivelit të protrombinës tregon:",
+    "answers": [
+      "Dëmtim hepatik",
+      "Përdorim antikoagulantësh",
+      "Dëmtim hepatik dhe përdorim antikoagulantësh",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Protrombinë e ulët 65% tregon dëmtim hepatik ose antikoagulantë."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-086",
+    "question": "Niveli i protrombinës nga përdorimi i heparinës:",
+    "answers": [
+      "Rritet",
+      "Ulet",
+      "Nuk ndikohet",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Heparina nuk ndikon në nivelin e protrombinës (ndikon PTT)."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-087",
+    "question": "Vlerësimi i trombociteve bëhet nëpërmjet:",
+    "answers": [
+      "Kohës së hemoragjisë",
+      "Kohës së koagulimit",
+      "Kohës së hemoragjisë dhe kohës së koagulimit",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Trombocitet vlerësohen indirekt me kohën e hemoragjisë."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-088",
+    "question": "Elementi që nuk është qelizë në gjakun periferik është:",
+    "answers": [
+      "Eritrocit",
+      "Leukociti",
+      "Trombociti",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Trombociti është fragment qelizor, jo qelizë."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-089",
+    "question": "Mielogarama tregon:",
+    "answers": [
+      "Funksionin e palcës së kockave",
+      "Shërben për diagnozë",
+      "Bëhet në kushte ospitaliere",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Mielograma tregon funksionin e palcës, shërben për diagnozë dhe bëhet në spital."
+  },
+  {
+    "id": "lab-08-lendet-biologjike-hematologji-090",
+    "question": "Në tonsilitin akut në formulën leukocitare kemi të rritur:",
+    "answers": [
+      "Segmentet e neutrofileve",
+      "Limfocitet",
+      "Eozinofilet",
+      "Shkopinjtë e neutrofileve"
+    ],
+    "correct": 3,
+    "explanation": "Në tonsilitin akut bakterial rriten neutrofilet me zhvendosje majtas, pra me shkopinj."
+  }
+]

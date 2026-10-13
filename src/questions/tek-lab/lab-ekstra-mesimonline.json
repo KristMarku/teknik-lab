@@ -1,0 +1,410 @@
+[
+  {
+    "id": "lab-ekstra-mesimonline-001",
+    "question": "Artikulacioni coxo-fmoralis është;",
+    "answers": [
+      "Inkogurent",
+      "Kongurent",
+      "Pjesërisht inkogurent",
+      "Asnjëri prej tyre"
+    ],
+    "correct": 1,
+    "explanation": "Kokat femorale sferike përshtaten me acetabulumin, ndaj nyja coxofemorale është kongruente."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-002",
+    "question": "Shtylla kurrizore ka funksionet e mëposhtme :",
+    "answers": [
+      "Mbrojtës",
+      "Mbështetës",
+      "Lëvizor",
+      "Të treja pohimet janë të sakta"
+    ],
+    "correct": 3,
+    "explanation": "Shtylla kurrizore ka funksion mbrojtës (palcën), mbështetës dhe lëvizor."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-003",
+    "question": "Cila nga qelizat e neuroglisë që veshin plekosin korioid dhe ventrikujt e trurit:",
+    "answers": [
+      "astrocitet",
+      "oligodentrocitet",
+      "mikroglia",
+      "q. ependimare"
+    ],
+    "correct": 3,
+    "explanation": "Qelizat ependimare veshin ventrikujt e trurit dhe pleksusin korioid."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-004",
+    "question": "Një nga molekulat e mëposhtme bën të mundur që muskuli të sigurojë energjinë e nevojshme për kontraksion eduke gjeneruar ATP prej ADP. Cila është ajo:",
+    "answers": [
+      "creatinë fosfati",
+      "fosfokinaza",
+      "acetilkolinesteraza",
+      "katalaza"
+    ],
+    "correct": 0,
+    "explanation": "Kreatinë fosfati dhe ADP japin ATP për kontraksionin e muskujve."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-005",
+    "question": "Mjekimi paliativ:",
+    "answers": [
+      "përdoret te një sëmundje e pakurueshme pavnarësisht stadit të sëmundjes",
+      "përfshin vetëm mjekimin me barna të pacientit",
+      "ruan dinjitetin dhe pavarësinë ie pacientit",
+      "përdoret tek pacientët që vuajnë nga sëmundje kronike"
+    ],
+    "correct": 2,
+    "explanation": "Mjekimi paliativ synon ruajtjen e dinjitetit dhe pavarësisë së pacientit dhe lehtësimin e simptomave."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-006",
+    "question": "Sinteza e ribozomeve zhvilohet në :",
+    "answers": [
+      "REP",
+      "bërthamë",
+      "bërthamëza",
+      "Ap.Golxhit"
+    ],
+    "correct": 2,
+    "explanation": "Ribozomet sintetizohen në bërthamëz (nukleol), ku gjenet e ARNr transkriptohen."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-007",
+    "question": "Futja ditore e pranueshme:",
+    "answers": [
+      "Nuk shkakton asnje efekt gjate jetes",
+      "Nuk shkakton asnje efekt gjate dites",
+      "Nuk duhet tejkaluar per asnje moment",
+      "Asnje nga pergjigjet"
+    ],
+    "correct": 0,
+    "explanation": "Futja ditore e pranueshme është doza që, e marrë çdo ditë gjatë gjithë jetës, nuk shkakton efekte."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-008",
+    "question": "Semundjet qe perhapen me ane te ajrit:",
+    "answers": [
+      "Malarja",
+      "Ethet Dengue",
+      "Schistosomiaza",
+      "Tifoja"
+    ],
+    "correct": 2,
+    "explanation": "Asnjë opsion nuk përhapet me ajër (malaria nga mushkonja, tifoja nga uji); pyetja është e paqartë dhe skistosomiaza (ujë i ëmbël) pranohet si përgjigjja e dhënë."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-009",
+    "question": "Energjia & efektet direkte mbi shendetin:",
+    "answers": [
+      "Jo rrezik te rendesishem profesional",
+      "Jo stres psikologjik",
+      "Ndryshime ekologjike",
+      "Jo permiresim te vaditjes"
+    ],
+    "correct": 2,
+    "explanation": "Prodhimi i energjisë sjell ndryshime ekologjike, rrezik profesional e stres, jo mungesë ndikimesh."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-010",
+    "question": "Faktoret demografike kane te bejne me:",
+    "answers": [
+      "Nivelin e enzimave",
+      "Aktivitetin fizik",
+      "Grupet etnike",
+      "Grupin e gjakut"
+    ],
+    "correct": 2,
+    "explanation": "Faktorët demografikë përfshijnë moshën, gjininë dhe grupet etnike."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-011",
+    "question": "Imuniteti aktiv i fituar natyralisht është:",
+    "answers": [
+      "Nje rezistencë individuale ndaj disa sëmundjeve e paracaktuar gjenetikisht,",
+      "Aftësia e trupit për t`iu kundervene specifikisht organizmave apo substancave te huaja,",
+      "Imunitet si pasoje e infeksionit ,",
+      "Imunitet si pasoje e vaksinimit,"
+    ],
+    "correct": 2,
+    "explanation": "Imuniteti aktiv i fituar natyrshëm vjen pas kontaktit me infeksionin, kur organizmi prodhon vetë antitrupa; ai nga vaksina është aktiv i fituar artificialisht."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-012",
+    "question": "Shartimi i palces kockore eshte nje tip unik i transplantit te organeve sepse:",
+    "answers": [
+      "Ndryshimet e KMPI nuk identifikohen",
+      "Ndryshimet ne pajtueshmerine e vogel indore jane ndryshime te vetme antigenike qe mundte çojne ne flakje",
+      "Mund te ndodhe semundja e sulmit te transplantit ndaj mbartesit",
+      "Imunofrenimi nuk eshte i nevojshem"
+    ],
+    "correct": 2,
+    "explanation": "Palca kockore përmban qeliza imunokompetente të donatorit që mund të sulmojnë organizmin pritës: sëmundja e sulmit të transplantit ndaj pritësit (GVHD)."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-013",
+    "question": "Njihen 5 klasa imunoglobulinash.Cila eshote teper:",
+    "answers": [
+      "IgG",
+      "IgM",
+      "IgN",
+      "IgD"
+    ],
+    "correct": 2,
+    "explanation": "Njihen 5 klasa imunoglobulinash: IgG, IgM, IgA, IgD, IgE; IgN nuk ekziston."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-014",
+    "question": "Cilat trupa janë të pranishme në pamjet histologjike të miokarditit:",
+    "answers": [
+      "Ascoff",
+      "Reed-Sternberg",
+      "Hageman",
+      "Të gjithë"
+    ],
+    "correct": 0,
+    "explanation": "Në miokarditin reumatizmal shihen trupat e Aschoff-it (granulomë me qeliza Anitschkow); Reed-Sternberg është e limfomës Hodgkin."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-015",
+    "question": "Si manifestohet nekroza:",
+    "answers": [
+      "Me rritje të eozinofileve",
+      "Me rritje të bazofileve",
+      "Me rritje të neutrofileve",
+      "Me rritje të makrofageve"
+    ],
+    "correct": 2,
+    "explanation": "Nekroza shkakton inflamacion akut me rritje të neutrofileve."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-016",
+    "question": "Të gjitha më poshtë janë shenja të inflamaocionit përveç:",
+    "answers": [
+      "Dhimbje",
+      "Skuqje",
+      "Temperature",
+      "hypertension arterial"
+    ],
+    "correct": 3,
+    "explanation": "Shenjat e inflamacionit janë dhimbja, skuqja, ngrohtësia, ënjtja; hipertensioni nuk është shenjë inflamacioni."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-017",
+    "question": "Cili nga variantet e transfuzionit eshte i gabuar?",
+    "answers": [
+      "OnA",
+      "OnAB",
+      "AnB",
+      "RhD- nRhD+"
+    ],
+    "correct": 2,
+    "explanation": "Transfuzioni A→B është i gabuar: pritësi B ka anti-A antitrupa dhe do të bëjë reaksion hemolitik; O është dhurues universal."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-018",
+    "question": "Për matjen e faktorëve të koagulimit gjaku merret me:",
+    "answers": [
+      "Litium heparine",
+      "K3EDTA",
+      "Citrat natriumi",
+      "Florur natriumi"
+    ],
+    "correct": 2,
+    "explanation": "Për faktorët e koagulimit gjaku merret me citrat natriumi, që lidh kalciumin dhe ruan koagulimin e testuar."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-019",
+    "question": "Norma e leukociteve në gjakun periferik është:",
+    "answers": [
+      "3.5--5.5x 106/mm3",
+      "4—10 x 103/mm3.",
+      "150—350 x103/mm3",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Leukocitet normale në gjakun periferik janë 4–10 × 10³/mm³."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-020",
+    "question": "Zgjidhni alternativën e cila përshkruan në mënyrë të saktë fazat e hemostazës:",
+    "answers": [
+      "kogulim i gjakut, formim i trombit, spazme e enës së gjakut",
+      "formim i trombit, koagulim i gjakut, spazmë e enës së gjakut",
+      "spazmë e enës së gjakut, formim i tapës trombocitare, formim i koagulit",
+      "spazmë e enës së gjakut, koagulim i enës së gjakut, formim i trombit"
+    ],
+    "correct": 2,
+    "explanation": "Hemostaza ka tri faza: spazma e enës, formimi i tapës trombocitare dhe koagulimi."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-021",
+    "question": "Personat me hemofili do të shfaqin shenja klinike kur niveli i faktorëve VIII ose IX është:",
+    "answers": [
+      "<5%",
+      "5-10%",
+      "10-25%",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Hemofilia jep shenja klinike kur niveli i faktorit VIII ose IX është nën 5%."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-022",
+    "question": "Hematokriti eshte:",
+    "answers": [
+      "vell.eritrocitar / vell.leukocitar,i shprehur ne perqindje",
+      "numri absolut i eritrociteve ne gjak",
+      "vell eritrocitar / vell.e pergjith",
+      "Te gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Hematokriti është raporti i vëllimit të eritrociteve me vëllimin e përgjithshëm të gjakut."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-023",
+    "question": "Cili eshte veprimi me komun per berjen e urokultures:",
+    "answers": [
+      "Punksioni suprapubik i vesikes",
+      "Porcioni i pare i aktit urinar",
+      "Porcioni i mesem i aktit urinari",
+      "Porcioni i fundit i aktit urinar"
+    ],
+    "correct": 2,
+    "explanation": "Për urokulturë merret porcioni i mesëm i urinës, që shmang kontaminimin nga uretra dhe lëkura."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-024",
+    "question": "Salmonelat vecohen nga:",
+    "answers": [
+      "Gjaku(hemokumltura)",
+      "Fekalet(coprokutura)",
+      "Urina (urokultura)",
+      "Te gjtha me lart"
+    ],
+    "correct": 3,
+    "explanation": "Salmonelat izolohen nga gjaku (hemokultura), feçet dhe urina, sipas fazës së sëmundjes; ndaj vlejnë të gjitha."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-025",
+    "question": "Ne terrenin Hajna dhe Kristenzen vecojme kolonite e dyshimta te enterobaktereve qe:",
+    "answers": [
+      "e kane fermentuar laktozen",
+      "Nuk e kane fermentuar laktozen",
+      "Te dyja me siper",
+      "Asnjera nga me siper"
+    ],
+    "correct": 1,
+    "explanation": "Në terrenin Hajna–Kristensen kolonitë e dyshimta të enterobaktereve (Salmonella, Shigella) nuk e fermentojnë laktozën."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-026",
+    "question": "Ttricomonas vaginalis mund të gjendet në:",
+    "answers": [
+      "Sekrecion vaginal",
+      "Urinë",
+      "Të dyja",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Trichomonas vaginalis gjendet në sekrecionin vaginal dhe në urinë (te meshkujt edhe në sekrecionin uretral)."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-027",
+    "question": "Cila eshte rradha e punes ne ngjyrimin e Gramit:",
+    "answers": [
+      "Fuksine, alkool ose aceton kristal violet + jodine,",
+      "Alkool ose aceton, kristal violet+ jodine,- fuksine",
+      "Kristal violet+jodine,-alkool ose aceton, fuksine,",
+      "Alkool, fuksine ose aceton, jodine +kristal violet ."
+    ],
+    "correct": 2,
+    "explanation": "Radha e ngjyrosjes Gram: kristal violet, jod, shpëlarje me alkool/aceton, pastaj fuksinë."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-028",
+    "question": "tricomonas vaginalis mund te gjendet në:",
+    "answers": [
+      "Sekrecion vaginal",
+      "Urine",
+      "Te dyja",
+      "Asnjera"
+    ],
+    "correct": 2,
+    "explanation": "Trichomonas vaginalis gjendet në sekrecionin vaginal dhe në urinë."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-029",
+    "question": "Cili eshte momenti me oportun per marrjen e hemokultures.",
+    "answers": [
+      "Kur temperatura ka rene",
+      "Kur kane filluar ethet",
+      "Ne cdo moment te fazes se febirile",
+      "Mbas etheve kur temp po ritet"
+    ],
+    "correct": 3,
+    "explanation": "Hemokultura merret kur temperatura po ngrihet, pasi bakteret janë më të shumta në gjak."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-030",
+    "question": "Efuzionet hemoragjike:",
+    "answers": [
+      "Koaguli nuk formohet në tub të rrafshët;",
+      "Ph është me i ulët se në gjakun venoz/arterial;",
+      "pO2 më i ulët se në gjakun venoz/arterial;",
+      "A+B+C"
+    ],
+    "correct": 3,
+    "explanation": "Efuzionet hemoragjike: nuk koagulojnë në tub, kanë pH e pO2 më të ulët se gjaku, pra A+B+C."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-031",
+    "question": "Insulina nuk vepron mbi glukozën me cilin mekanizëm:",
+    "answers": [
+      "Futjes së glukozës në qelizë",
+      "›glikogjenosintezën",
+      "frenon glikogjenosintezën",
+      "nxit përdorimin e Glukozës nga indet"
+    ],
+    "correct": 2,
+    "explanation": "Insulina nxit glikogjenosintezën dhe hyrjen e glukozës; frenimi i glikogjenosintezës nuk është veprim i saj."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-032",
+    "question": "Për përcaktimin e Reaxionit të Rivaltës nevojitet:",
+    "answers": [
+      "Një cilindër i mmbushur me ujë;",
+      "2-3 pika acid acetic të koncentruar",
+      "1-2 pika likid",
+      "A+B+C"
+    ],
+    "correct": 3,
+    "explanation": "Reaksioni i Rivaltës kërkon cilindër me ujë, 2–3 pika acid acetik dhe 1–2 pika likid: A+B+C."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-033",
+    "question": "Diagnoza e përbashkeët për hepatit A dhe B akut në gjak jep kuadrin",
+    "answers": [
+      "Anti HAV + anti HBs",
+      "HAV +HBV",
+      "Anti HbA + anti HBc",
+      "Te gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Në hepatitin akut A dhe B zbulohen antitrupat IgM anti-HAV dhe anti-HBc IgM; HAV dhe HBV si antigjene nuk janë kuadri serologjik i përbashkët."
+  },
+  {
+    "id": "lab-ekstra-mesimonline-034",
+    "question": "Vaksinimi ndaj hnepatitit B jep në gjak",
+    "answers": [
+      "HBs Ag + anti HBs+anti HBc",
+      "HBs Ag + anti HBc",
+      "anti HBs+ antiHBc",
+      "asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Vaksina kundër hepatitit B jep vetëm anti-HBs (jo anti-HBc dhe HBsAg), prandaj përgjigjja është 'asnjëra'."
+  }
+]

@@ -1,0 +1,1369 @@
+[
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-001",
+    "question": "Shendeti sipas teorise Bio-Mjekesore eshte:",
+    "answers": [
+      "Mireqenie Shpirterore",
+      "Mireqenie Fizike",
+      "Mungese e semundjes",
+      "Mireqenie mendore"
+    ],
+    "correct": 2,
+    "explanation": "Sipas modelit bio-mjekësor, shëndeti përkufizohet thjesht si mungesë e sëmundjes."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-002",
+    "question": "Shendeti sipas OBSH eshte:",
+    "answers": [
+      "Gjendja e mireqenies se plote",
+      "Mireqenie fizike dhe shpirterore",
+      "Mireqenie mendore dhe shoqerore",
+      "Mireqenie fizike, mendore dhe shoqerore"
+    ],
+    "correct": 3,
+    "explanation": "OBSH e përkufizon shëndetin si mirëqenie e plotë fizike, mendore dhe shoqërore."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-003",
+    "question": "Si duhet te konsiderohet shendeti:",
+    "answers": [
+      "Ne nje shkalle lineare",
+      "Ne nje shkalle multidimensionale",
+      "Te dyja (Në një shkallë lineare dhe multidimensionale)",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Shëndeti konsiderohet dukuri multidimensionale (fizike, mendore, sociale), jo lineare."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-004",
+    "question": "Shendeti Publik eshte:",
+    "answers": [
+      "Shkenca dhe arti i parandalimit te semundjes",
+      "Veprimtari shoqerore dhe politike",
+      "Te dyja (Shkenca e arti i parandalimit të sëmundjes dhe veprimtaria shoqërore dhe politike)",
+      "Asnjera"
+    ],
+    "correct": 2,
+    "explanation": "Shëndeti publik është njëkohësisht shkencë/art i parandalimit të sëmundjeve dhe veprimtari shoqërore e politike."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-005",
+    "question": "Shendeti Publik e ka fokusin:",
+    "answers": [
+      "Ne popullate",
+      "Ne individe",
+      "Ne institucionet shendetesore",
+      "Ne politikat shendetesore."
+    ],
+    "correct": 0,
+    "explanation": "Shëndeti publik fokusohet te popullata."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-006",
+    "question": "Shendeti Publik e ka fokusin:",
+    "answers": [
+      "Ne parandalimin e semundjeve",
+      "Ne sherbimet shendetesore",
+      "Te dyja (Në parandalimin e sëmundjeve dhe shërbimet shëndetësore)",
+      "Asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Shëndeti publik fokusohet te parandalimi i sëmundjeve në nivel popullate, jo vetëm te trajtimi individual."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-007",
+    "question": "Shendeti publik e ka fokusin",
+    "answers": [
+      "Diagnostikimin e semundjeve",
+      "Ne trajtimin e semundjeve",
+      "Ne diagnostikimin e hershem te semundjeve",
+      "Asnjera"
+    ],
+    "correct": 2,
+    "explanation": "Shëndeti publik fokusohet te diagnostikimi/depistimi i hershëm i sëmundjeve."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-008",
+    "question": "Shendeti publik i “vjeter” konsistonte ne:",
+    "answers": [
+      "Organizimin e sherbimeve shendetesore",
+      "Sigurine ushqimore",
+      "Te dyja (Organizimin e shërbimeve shëndetësore dhe sigurinë ushqimore)",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Shëndeti publik i 'vjetër' mbështetej kryesisht te higjiena dhe siguria ushqimore (uji, ushqimi, mbeturinat)."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-009",
+    "question": "Parimet etike te shendetit publik te “ri” jane:",
+    "answers": [
+      "Barazia dhe solidariteti",
+      "Vlerat morale",
+      "Mospjesemarrja",
+      "Asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Barazia dhe solidariteti janë parime themelore të shëndetit publik të ri."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-010",
+    "question": "Karakteristika unike e shendetit publik eshte:",
+    "answers": [
+      "Aplikimi i nje disipline",
+      "Aplikimi i trajtimit",
+      "Aplikimi i parandalimit",
+      "Te gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Karakteristika unike e shëndetit publik është aplikimi i parandalimit."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-011",
+    "question": "Karakteristika unike e shendetit publik eshte:",
+    "answers": [
+      "Aplikimi i njekohshem i shume disiplinave",
+      "Aplikimi i diagnostikimit",
+      "Perdorimi i burimeve financiare pa eficince",
+      "Asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Karakteristika unike e shëndetit publik është zbatimi i njëkohshëm i shumë disiplinave."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-012",
+    "question": "Funksionet e shendetit publik te ri:",
+    "answers": [
+      "Forcimi i infrastruktures",
+      "Udheheqja e punes kerkimore-shkencore",
+      "Adaptimi i nje perqasje komunitare",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Funksionet e shëndetit publik të ri përfshijnë të gjitha këto elemente."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-013",
+    "question": "Fushat e veprimit te shendetit publik te ri:",
+    "answers": [
+      "Adaptimi i nje perqasje multi-faktoriale",
+      "Sigurimi i pjesemarrjes se gjere te komunitetit",
+      "Forcimi i kapaciteteve institucionale",
+      "Asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Shëndeti publik i ri adopton qasje multi-faktoriale ndaj problemeve shëndetësore."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-014",
+    "question": "Sfidat e shendetit publik te ri:",
+    "answers": [
+      "obeziteti",
+      "Asbestoza",
+      "Kanceri i endometrit",
+      "Te gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Obeziteti është një ndër sfidat kryesore moderne të shëndetit publik."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-015",
+    "question": "Epidemiologjia studion:",
+    "answers": [
+      "Statistiken",
+      "Higjenen",
+      "Shpeshtesine e semundjeve",
+      "Metodat"
+    ],
+    "correct": 2,
+    "explanation": "Epidemiologjia studion shpeshtësinë dhe shpërndarjen e sëmundjeve."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-016",
+    "question": "Epidemiologjia studion:",
+    "answers": [
+      "Statistiken",
+      "Higjenen",
+      "Shpeshtesine e semundjeve",
+      "Metodat"
+    ],
+    "correct": 2,
+    "explanation": "Epidemiologjia studion shpeshtësinë dhe shpërndarjen e sëmundjeve."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-017",
+    "question": "Faktoret biologjike jane:",
+    "answers": [
+      "Gjendja e punesimit",
+      "Anti-trupat",
+      "Sjelljet seksuale",
+      "Te gjitha"
+    ],
+    "correct": 1,
+    "explanation": "Antitrupat janë faktorë biologjikë; punësimi dhe sjelljet seksuale janë faktorë socialë/sjelljes."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-018",
+    "question": "Faktoret gjenetike jane:",
+    "answers": [
+      "Mosha",
+      "Duhanpirja",
+      "Konsumi i alkolit",
+      "Asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Mosha, duhani dhe alkooli nuk janë faktorë gjenetikë; kështu asnjëra nuk i përshtatet."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-019",
+    "question": "Faktoret socio-ekonomik jane:",
+    "answers": [
+      "Aktiviteti fizik",
+      "Profesioni",
+      "Perdorimi i drogave",
+      "Te gjitha"
+    ],
+    "correct": 1,
+    "explanation": "Profesioni është faktor socio-ekonomik; aktiviteti fizik dhe drogat janë faktorë sjelljeje."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-020",
+    "question": "Stili dhe menyra e jetesse kane te bejne me:",
+    "answers": [
+      "duhanpirja",
+      "Sjelljet seksuale",
+      "Faktoret dietetike",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Stili i jetesës përfshin duhanin, sjelljet seksuale dhe faktorët dietetikë."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-021",
+    "question": "Qellimi i nje kerkimi epidemiologjik eshte:",
+    "answers": [
+      "Ndricimi i faktoreve etiologjike",
+      "Studimet eksperimentale",
+      "Studimet transversale",
+      "Asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Qëllimi kryesor i kërkimit epidemiologjik është ndriçimi i faktorëve etiologjikë."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-022",
+    "question": "Randomizimi ndodh ne:",
+    "answers": [
+      "Studimet transversale",
+      "Studimet rast-kontroll",
+      "Studimet kohorte",
+      "Asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Randomizimi është karakteristikë e studimeve eksperimentale, jo e këtyre studimeve observuese."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-023",
+    "question": "Epidemia i referohet:",
+    "answers": [
+      "Rritjes se incidences",
+      "Rritjes se prevalences",
+      "Rritjes se rriskut relativ",
+      "Te gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Pandemia i referohet rritjes së madhe të incidencës në shkallë globale."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-024",
+    "question": "Pandemia i referohet:",
+    "answers": [
+      "Rritjes incidences",
+      "Rritjes se rriskut relativ",
+      "Rritjes se prevalences",
+      "Asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Pandemia i referohet rritjes së madhe të incidencës në shkallë globale."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-025",
+    "question": "Kurba epidemike perfaqeson:",
+    "answers": [
+      "Incidencen",
+      "Imunitetin e grupit",
+      "Shperndarjen e periudhave te inkubacionit",
+      "Asnjera"
+    ],
+    "correct": 2,
+    "explanation": "Sipas kësaj alternative, kurba epidemike përfaqëson shpërndarjen e periudhave të inkubacionit (jo vetëm incidencën në kohë)."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-026",
+    "question": "Fluoroza eshte nje:",
+    "answers": [
+      "Pandemi",
+      "Endemi",
+      "Epidemi",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Fluoroza konsiderohet gjendje endemike, e lidhur me përqendrime të larta fluori në zona të caktuara."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-027",
+    "question": "Survejanca epidemiologjike eshte:",
+    "answers": [
+      "Pasive",
+      "Sentinele",
+      "Aktive",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Survejanca epidemiologjike mund të jetë pasive, sentinelë ose aktive."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-028",
+    "question": "Incidenca eshte:",
+    "answers": [
+      "Numri i rasteve te reja",
+      "Prevalence",
+      "Studim rasti",
+      "Te gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Incidenca është numri i rasteve të reja të një sëmundjeje."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-029",
+    "question": "Prevalenca eshte:",
+    "answers": [
+      "Incidence",
+      "Epidemi",
+      "Rrisk relative",
+      "Asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Asnjëra nga opsionet e listuara nuk përkufizon saktë prevalencën."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-030",
+    "question": "Studimet deskriptive jane:",
+    "answers": [
+      "Analitike",
+      "Vezhguese",
+      "Eksperimentale",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Studimet deskriptive janë vëzhguese (nuk testojnë hipoteza shkakësore)."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-031",
+    "question": "Studimet analitike:",
+    "answers": [
+      "Zbulojne lidhje",
+      "Provojne hipoteza",
+      "Rrezojne hipoteza",
+      "Te gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Studimet analitike zbulojnë lidhje dhe testojnë hipoteza."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-032",
+    "question": "Ne cilat studime studiusi luan rol aktiv:",
+    "answers": [
+      "Studimet kohorte",
+      "Studimet eksperimentale",
+      "Studimet trasversale",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Në studimet eksperimentale studiuesi ndërhyn aktivisht (cakton ekspozimin)."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-033",
+    "question": "Studimet kohorte njehsojne:",
+    "answers": [
+      "Prevalencen",
+      "Incidencen",
+      "Te dyja (Prevalencën dhe incidencën)",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Studimet kohorte njehsojnë incidencën (ndjekin subjektet në kohë)."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-034",
+    "question": "Studimet rast-kontroll:",
+    "answers": [
+      "Jane me kosto te ulet",
+      "Jane me kosto te larte",
+      "Jane me kosto mesatare",
+      "Asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Studimet rast-kontroll kanë kosto të ulët krahasuar me kohortet."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-035",
+    "question": "Rreziku absolut eshte:",
+    "answers": [
+      "Incidenca e semundjes",
+      "Prevalenca e semundjes",
+      "Diferenca e rriskut",
+      "Asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Rreziku absolut është incidenca e sëmundjes në grupin e ekspozuar."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-036",
+    "question": "Madhesite e shoqerimit jane:",
+    "answers": [
+      "Madhesi te shpeshtesise",
+      "Madhesi te frekueces",
+      "Madhesi te semundjes",
+      "Asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Madhësitë e shoqërimit (RR, OR) nuk janë madhësi të shpeshtësisë, frekuencës apo sëmundjes; përgjigjja e dhënë është 'asnjëra'."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-037",
+    "question": "Studimet kohorte jane :",
+    "answers": [
+      "Kosto te ulet",
+      "Kosto te larte",
+      "Me periudhe te shkurter per tu zhvilluar",
+      "Te gjitha"
+    ],
+    "correct": 1,
+    "explanation": "Studimet kohorte kërkojnë kohë të gjatë ndjekjeje dhe kanë kosto të lartë."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-038",
+    "question": "Studimet eksperimentale jane :",
+    "answers": [
+      "Eksperimente te mirefillta",
+      "Pseudo-eksperimente",
+      "Te dyja (Eksperimente të mirëfillta dhe pseudo-eksperimente)",
+      "Asnjera"
+    ],
+    "correct": 2,
+    "explanation": "Studimet eksperimentale përfshijnë si eksperimentet e mirëfillta ashtu edhe pseudo-eksperimentet."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-039",
+    "question": "Studimet vezhgues jane:",
+    "answers": [
+      "Observuese",
+      "Analitike",
+      "Deskriptive",
+      "Asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Studimet vëzhguese janë observuese (studiuesi vëzhgon pa ndërhyrë)."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-040",
+    "question": "Nje lidhje mund te jete:",
+    "answers": [
+      "Statistikore",
+      "Shkakesore",
+      "Te dyja (Statistikore dhe shkakësore)",
+      "Asnjera"
+    ],
+    "correct": 2,
+    "explanation": "Një lidhje mund të jetë statistikore, shkakësore ose të dyja."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-041",
+    "question": "Eutanazia pasive:",
+    "answers": [
+      "Është e pranueshme në stadin terminal të një sëmundje të pashërueshme",
+      "Kërkon dhënien e një sërë medikamentesh që përshpejtojnë vdekjen",
+      "Zgjat vuajtjen e pacientit",
+      "Zbatimi i saj është në kundërshtim me konceptin e së drejtës për të vdekur"
+    ],
+    "correct": 0,
+    "explanation": "Eutanazia pasive konsiderohet e pranueshme në stadin terminal të sëmundjes së pashërueshme."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-042",
+    "question": "Egzaminimi objektiv nga pikëpamja etike:",
+    "answers": [
+      "merr për bazë edhe faktorët psikologjikë, shumë të rëndësishëm për pacientin",
+      "është më i rëndësishëm se egzaminimi subjektiv",
+      "mund të jetë i barasvlefshëm me egzaminimin subjektiv",
+      "duhet të jetë gjithmonë i barasvlefshëm me ekzaminimin subjektiv"
+    ],
+    "correct": 2,
+    "explanation": "Ekzaminimi objektiv mund të jetë i barasvlefshëm (jo domosdoshmërisht epërsor) me atë subjektiv."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-043",
+    "question": "Në gjendjen vegjetative ndërprerja e ushqyerjes nazogastrike është e pranueshme sipas:",
+    "answers": [
+      "parimit të totalitetit",
+      "konceptit të cilësisë së jetës",
+      "konceptit të shenjtërimit të jetës",
+      "parimit të konfidencialitetit"
+    ],
+    "correct": 1,
+    "explanation": "Konceptit të cilësisë së jetës mbështet ndërprerjen e mjeteve artificiale kur jeta biologjike vazhdon pa cilësi."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-044",
+    "question": "Sjellja regresive e pacientit e shfaqur gjatë periudhës kalimtare ose të tranzicionit:",
+    "answers": [
+      "është e pakthyeshme",
+      "vonon kohën e shërimit të pacientit",
+      "është karakteristikë për stadin e tretë ose të konvalishencës",
+      "është e nevojshme për pacientin"
+    ],
+    "correct": 3,
+    "explanation": "Sjellja regresive në periudhën kalimtare është mekanizëm i nevojshëm i pacientit për t'u përshtatur me sëmundjen dhe varësinë."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-045",
+    "question": "Kujdesi mjekësor paliativ:",
+    "answers": [
+      "konsiston në zgjatjen e jetës së pacientit",
+      "vepron mbi shkakun e një sëmundjeje",
+      "përdoret në stadin terminal të një sëmundjeje të pashërueshme",
+      "përfshin vetëm terapinë psikologjike të pacientit"
+    ],
+    "correct": 2,
+    "explanation": "Kujdesi paliativ përdoret në stadin terminal të sëmundjeve të pashërueshme."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-046",
+    "question": "Eutanazia pasive :",
+    "answers": [
+      "zgjat jetën e pacientit",
+      "kërkon përdorimin e terapisë intensive",
+      "zbatohet në sëmundje të pashërueshme, pavarësisht stadit të sëmundjes",
+      "refuzon teprimin terapeutik"
+    ],
+    "correct": 3,
+    "explanation": "Eutanazia pasive refuzon teprimin terapeutik."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-047",
+    "question": "Konsenti është shprehje e parimit:",
+    "answers": [
+      "utilitarist",
+      "të pavarësisë dhe paprekshmërisë së personit",
+      "të totalitetit D konfidencialitetit"
+    ],
+    "correct": 1,
+    "explanation": "Konsenti i informuar është shprehje e parimit të autonomisë/pavarësisë së personit."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-048",
+    "question": "Cila nga simptomat e mëposhtme është shenja kryesore e jatrogjenive :",
+    "answers": [
+      "pagjumësia",
+      "djersitja e shtuar",
+      "dobësi e përgjithshme",
+      "frika (fobia) nga vdekja ose nga ndonjë sëmundje e pashërueshme"
+    ],
+    "correct": 3,
+    "explanation": "Frika/fobia nga vdekja apo sëmundja e pashërueshme është shenjë klasike e efektit jatrogjen."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-049",
+    "question": "Cila nga shprehjet e mëposhtme mbi Moralin është e gabuar:",
+    "answers": [
+      "ka të bëjë drejtpërdrejt me veprimet që pasqyrojnë sjelljet e njerëzve",
+      "tek morali normat janë të dhëna",
+      "ka një domethenie më të gjerë dhe me të thellë sesa Etika",
+      "në themel të cdo veprimi moral qëndron fjala “duhet”"
+    ],
+    "correct": 2,
+    "explanation": "Morali ka kuptim më të ngushtë se etika (norma praktike të dhëna), ndërsa etika është reflektimi teorik më i gjerë; pohimi i kundërt është i gabuar."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-050",
+    "question": "Në teoritë e jo pasojave:",
+    "answers": [
+      "veprimi është i drejtë nëse ai është i bazuar vetëm në ligje apo rregullore",
+      "veprimi është korrekt nëse funksionon dhe nëse është mëse i domosdoshëm",
+      "veprimi është i mirë për aq kohë sa efektet janë të mira",
+      "veprimi është i mirë nëse nga ky përfiton vetë personi"
+    ],
+    "correct": 0,
+    "explanation": "Sipas teorive jo-pasojash (deontologjike), veprimi cilësohet i drejtë bazuar në rregulla/ligje, jo në pasoja."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-051",
+    "question": "Terapia “mbështetëse” në stadin e tretë të periudhës kalimtare ose të tranzicionit të pacientit:",
+    "answers": [
+      "kryhet nga infermieri",
+      "kryhet nga vetë pacienti",
+      "kërkon një eksperiencë mjekësore të personelit mjekësor",
+      "asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Në stadin e tretë (konvalishencës) pacienti kryen vetë terapinë mbështetëse."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-052",
+    "question": "Për cilën nga stadet e periudhës kalimtare ose të karakteristike sjellja regresive: tranzicionit për pacientin është",
+    "answers": [
+      "stadin e parë",
+      "stadin e dytë",
+      "stadin e tretë",
+      "në të tre stadet"
+    ],
+    "correct": 1,
+    "explanation": "Sjellja regresive shfaqet kryesisht në stadin e dytë, kur pacienti pranon rolin e të sëmurit dhe varësinë."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-053",
+    "question": "Koncepti i cilesisë së jetës, në rrethanat kur jeta e pacientit mbahet në kushte artificiale:",
+    "answers": [
+      "ve theksin tek ekzistenca biologjike e jetës , pavarësisht cilësisë së saj",
+      "mbështet konceptin e karakterit të shenjtë të jetës",
+      "thekson se jeta e njeriut nuk duhet të zgjatet",
+      "mbështet zgjatjen e jetës së pacientit"
+    ],
+    "correct": 2,
+    "explanation": "Koncepti i cilësisë së jetës kundërshton zgjatjen artificiale të jetës kur cilësia e saj mungon."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-054",
+    "question": "Mohimi i sëmundjes për cilin stad të periudhës kalimtare ose të tranzicionit është karakteristike :",
+    "answers": [
+      "stadin e parë",
+      "stadin e dytë",
+      "stadin e tretë",
+      "në të 3 stadet"
+    ],
+    "correct": 0,
+    "explanation": "Mohimi i sëmundjes është karakteristikë e stadit të parë."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-055",
+    "question": "Plotësimi i detyrës së parandalimit të sëmundjeve ka çuar në konflikt me parimin e:",
+    "answers": [
+      "universalitetit",
+      "mirëbërësisë",
+      "konfidencialitetit",
+      "barazisë"
+    ],
+    "correct": 2,
+    "explanation": "Detyra e parandalimit (p.sh. raportimi i sëmundjeve) shpesh bie ndesh me ruajtjen e konfidencialitetit."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-056",
+    "question": "Parimi i pavarësisë së pacientit për të refuzuar mjekimin hyn në konflikt me parimin:",
+    "answers": [
+      "utilitarist",
+      "barazisë",
+      "drejtësisë dhe paanshmërisë",
+      "mirëbërësisë"
+    ],
+    "correct": 3,
+    "explanation": "Refuzimi i mjekimit nga pacienti mund të vijë në kundërshtim me parimin e mirëbërjes (beneficencës)."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-057",
+    "question": "Simptoma e hospitalitetit është karakteristike për ata pacientë, te cilët:",
+    "answers": [
+      "nuk e durojne dot varësinë nga të tjerët",
+      "e kanë të vështirë të zbatojnë regjimin e këshilluar",
+      "fillojnë të preokupohen për vetveten që të rifillojnë punën sa më parë",
+      "e pelqejnë shumë regresionin dhe duan që ta zgjasin atë pambarim"
+    ],
+    "correct": 3,
+    "explanation": "Sindroma e hospitalizmit karakterizohet nga një dëshirë për të vazhduar në gjendjen e varësisë/regresionit."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-058",
+    "question": "Në cilin rast nuk duhet të respektohet sekreti mjekësor:",
+    "answers": [
+      "sëmundje të trashëguara",
+      "somnambulizmi",
+      "disa sëmundje të rënda infektive",
+      "enuresis nokturna"
+    ],
+    "correct": 2,
+    "explanation": "Sëmundjet e rënda infektive raportueshme përbëjnë përjashtim ligjor nga sekreti mjekësor."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-059",
+    "question": "Cili nga pohimet mbi Fatkeqësinë mjekësore është i gabuar :",
+    "answers": [
+      "ështe e lidhur me sëmundje të rënda të pacientit",
+      "vjen si pasojë e veçorive individuale të organizmit",
+      "vjen si pasojë e një gabimi apo pakujdesie të njeriut të shëndetësisë",
+      "është pasojë e ndërlikimeve gjatë proçedurave të ndryshme mjekësore"
+    ],
+    "correct": 2,
+    "explanation": "Fatkeqësia mjekësore nuk vjen nga gabimi ose pakujdesia e personelit; kur ka gabim ose pakujdesi bëhet fjalë për faj mjekësor."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-060",
+    "question": "Jatrogjenitë mund të njihen ndryshe dhe si:",
+    "answers": [
+      "gabime diagnostike",
+      "fatkeqësi mjekësore",
+      "sëmundje sugjestionuese në mjekësi",
+      "gabime terapeutike"
+    ],
+    "correct": 2,
+    "explanation": "Jatrogjenitë njihen ndryshe si 'sëmundje sugjestionuese në mjekësi'."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-061",
+    "question": "Lëvizja “Hospike” iu ofron ndihmë:",
+    "answers": [
+      "të sëmurëve kronikë",
+      "pacientëve me nivel të ulët ekonomik",
+      "të sëmurëve të pashpresë për jetën",
+      "të sëmurëve handikapatë"
+    ],
+    "correct": 2,
+    "explanation": "Lëvizja Hospis ofron kujdes për të sëmurët terminalë (të pashpresë)."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-062",
+    "question": "Tek pacientet e moshuar ka:",
+    "answers": [
+      "shtim të perceptimit të dhimbjes",
+      "ulje të pragut të dhimbjes",
+      "dhimbje atipike",
+      "rigjenerim të neuroneve në palcën shpinore"
+    ],
+    "correct": 2,
+    "explanation": "Pacientët e moshuar shpesh paraqesin dhimbje atipike (manifestim jo tipik)."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-063",
+    "question": "Cili nga pohimet e mëposhtme që lidhen me Teprimin terapeutik është i gabuar:",
+    "answers": [
+      "përdoret tek pacientet në stadin terminal të sëmundjes",
+      "ka për qëllim zgjatjen e jetës së pacientit",
+      "nga pikëpamja etike pranohet në bazë të konceptit të së drejtës për te vdekur",
+      "është në përputhje me konceptin e shenjtërimit të jetës"
+    ],
+    "correct": 2,
+    "explanation": "Teprimi terapeutik NUK pranohet etikisht sipas konceptit të së drejtës për të vdekur — përkundrazi, ai kundërshtohet prej tij."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-064",
+    "question": "Testamenti i jetës :",
+    "answers": [
+      "i paraprin përdorimit të eutanazinë aktive",
+      "shkruhet nga pacienti në momentet e fundit të jetës së tij",
+      "hyn në fuqi pas vdekjes së pacientit",
+      "mbështetet në zbatimin e konsentit"
+    ],
+    "correct": 3,
+    "explanation": "Testamenti i jetës mbështetet në zbatimin e konsentit."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-065",
+    "question": "Pranimi zyrtar i Eutanazisë aktive do të rritë mundësitë për:",
+    "answers": [
+      "kërkime në fushën e mjekësisë paliative",
+      "zbulimin e ndonjë medikamenti të ri për shpëtimin e pacientit",
+      "abuzime të ndryshme me pacientët",
+      "përjashtimin e ndonjë diagnoze të gabuar në lidhje me pacientin"
+    ],
+    "correct": 2,
+    "explanation": "Kundërshtarët e legalizimit argumentojnë se kjo rrit rrezikun për abuzim me pacientët e cenueshëm."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-066",
+    "question": "Gabimet mjekësore të shkaktuara nga vetë njerëzit e shëndetësisë quhen:",
+    "answers": [
+      "gabime diagnostike",
+      "jatrogjeni",
+      "gabime tekniko- kuruese",
+      "gabime taktiko- kuruese"
+    ],
+    "correct": 1,
+    "explanation": "Gabimet e shkaktuara nga vetë personeli shëndetësor njihen si jatrogjeni."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-067",
+    "question": "Cila nga shprehjet e mëposhtme në lidhje me Dashjen kriminale është e gabuar:",
+    "answers": [
+      "bën pjesë ne Shkeljet e Kodit Penal",
+      "quhet krim mjekësor",
+      "bën pjesë ne shkeljet e Kodit Deontologjik",
+      "kryhet me qëllim nga njeriu i shëndetësisë"
+    ],
+    "correct": 2,
+    "explanation": "Dashja kriminale bën pjesë në shkeljet e Kodit Penal, jo thjesht të Kodit Deontologjik."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-068",
+    "question": "Në dhimbjen akute pacienti:",
+    "answers": [
+      "flet për dhimbjen vetëm po të pyetet",
+      "është i përqendruar në dhimbje",
+      "interesohet më tepër për probleme të tjera sesa për dhimbjen",
+      "ka shprehje normale të fytyrës"
+    ],
+    "correct": 1,
+    "explanation": "Në dhimbjen akute, pacienti është i përqendruar/i fokusuar te vetë dhimbja."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-069",
+    "question": "Në dhimbjen kronike pacienti:",
+    "answers": [
+      "shfaq grimasa në fytyrë",
+      "flet shumicën e kohës për dhimbjen",
+      "qan dhe rënkon gjithë kohën nga dhimbja",
+      "ka shenja depresioni"
+    ],
+    "correct": 3,
+    "explanation": "Dhimbja kronike shoqërohet shpesh me shenja depresioni."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-070",
+    "question": "Ligji hyn ne fuqi :",
+    "answers": [
+      "qe ne momentin qe miratohet ne Parlament,",
+      "15 dite pas publikimit ne Fletoren Zyrtare,",
+      "menjehere pasi dekretohet nga Presidenti,",
+      "asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Ligji hyn në fuqi 15 ditë pas publikimit në Fletoren Zyrtare, përveçse kur parashikohet ndryshe."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-071",
+    "question": "Keshilli administrativ i autoritetit spitalor ushtron keto funksione:",
+    "answers": [
+      "harton dhe miraton politikat ne fushen e sherbimit spitalor,",
+      "programon dhe propozon tek ministri ndryshimet strukturore,",
+      "harton, miraton politikat në fushën e shërbimit spitalor dhe programon e propozon tek ministri ndryshimet strukturore",
+      "perfaqeson spitalin ne marredhenie me te tretet"
+    ],
+    "correct": 2,
+    "explanation": "Këshilli administrativ harton e miraton politikat dhe propozon ndryshimet strukturore te ministri."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-072",
+    "question": "Organe drejtuese te spitaleve jane:",
+    "answers": [
+      "keshilli administrativ ,",
+      "keshilli i ministrave,",
+      "drejtoria,",
+      "këshilli administrativ dhe drejtoria"
+    ],
+    "correct": 3,
+    "explanation": "Organet drejtuese të spitaleve janë Këshilli Administrativ dhe Drejtoria."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-073",
+    "question": "Nje infermier me shtetesi te huaj :",
+    "answers": [
+      "Nuk mund te punoj ne Shqiperi,",
+      "mundet te punoje vetem nese eshte i anetaresuar ne nje urdher ne vendin e tij,",
+      "mund te punesohet ne cdo rast,",
+      "asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Infermieri me shtetësi të huaj mund të punojë nëse është anëtarësuar në një urdhër profesional në vendin e tij."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-074",
+    "question": "Komisionet displinore :",
+    "answers": [
+      "jane organe keshilluese prane asambleve,",
+      "zgjedhin keshillin kombetar,",
+      "verifikojne dhe shqyrtojne ankesat per shkelje te etikes mjekesore,",
+      "te gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Komisionet disiplinore verifikojnë e shqyrtojnë ankesat për shkelje të etikës mjekësore."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-075",
+    "question": "Me detyrim per anetaresi (sipas ligjit per urdhrin e infermierit) kuptojme :",
+    "answers": [
+      "asnje individ nuk mund te ushtroje profesionin e infermierit, mamise apo fizioterapeutit pa qene anetar i Urdhrit te Infermierit,",
+      "asnje individ nuk mund te ushtroje profesionin e infermierit, mamise apo fizioterapeutit pa qene anetar i Urdhrit te Mjekut,",
+      "asnjë individ nuk mund te ushtrojë profesionin e infermierit, mamisë apo fizioterapeutit pa qenë anetar i Urdhrit të Infermierit dhe i Urdhrit të Mjekut",
+      "asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Detyrimi për anëtarësi nënkupton se askush nuk mund të ushtrojë profesionin pa qenë anëtar i Urdhrit të Infermierit."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-076",
+    "question": "Ligji per Urdhrin e infermierit vepron:",
+    "answers": [
+      "vetem per infermieret , mamite dhe fizioterapeutet ne Tirane,",
+      "per infermieret, mamite dhe fizioterapeutet ne te gjithe Shqiperine,",
+      "ndaj cdo infermieri ne bote,",
+      "asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Ligji vepron për infermierët, mamitë dhe fizioterapeutët në të gjithë Shqipërinë."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-077",
+    "question": "Urdhri i infermierit eshte i organizuar ne:",
+    "answers": [
+      "nivel bashkie/ kombetar,",
+      "nivel rajonal/ kombetar,",
+      "nivel bashkie/ kombetar dhe nivel rajonal/ kombetar,",
+      "asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Urdhri i infermierit organizohet në nivel rajonal dhe kombëtar."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-078",
+    "question": "Komisionet disiplinore:",
+    "answers": [
+      "jane organe keshillimi prane drejtorive ,",
+      "merren me shqyrtimin e e shkeljeve te etikes nga ana e infermierit,",
+      "marrin vendime per anetaresimin e infermiereve ne Urdhrin e Infermierit,",
+      "asnjera nga alternativat e mesiperme."
+    ],
+    "correct": 1,
+    "explanation": "Komisionet disiplinore shqyrtojnë shkeljet e etikës nga infermierët."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-079",
+    "question": "Cila prej alternativave eshte faze e nxjerrjes se nje ligji:",
+    "answers": [
+      "Iniciativa ligjore,",
+      "Miratimi,",
+      "Shpallja,",
+      "Te gjitha me siper."
+    ],
+    "correct": 3,
+    "explanation": "Fazat e nxjerrjes së një ligji përfshijnë iniciativën, miratimin dhe shpalljen."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-080",
+    "question": "Ligji i nje shteti vepron :",
+    "answers": [
+      "Ne te gjithe territorin e atij shteti,",
+      "Ne ate shtet dhe ne shtete afer tij,",
+      "vetem ne siperfaqen tokesore te shtetit,",
+      "vetem ne hapesiren ajrore."
+    ],
+    "correct": 0,
+    "explanation": "Ligji i një shteti vepron në gjithë territorin e tij (tokësor, ajror, ujor)."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-081",
+    "question": "Urdhri i Infermierit :",
+    "answers": [
+      "Subvencionohet nga shteti,",
+      "Financohet nga kuotat e anetaresimit,",
+      "Subvencionohet nga shteti dhe financohet nga kuotat e anëtarësimit,",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Urdhri i Infermierit është organizëm profesional autonom, i financuar nga kuotat e anëtarësimit."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-082",
+    "question": "Cili prej ketyre kushteve nevojitet per te perfituar nga skema e sigurimeve shoqerore:",
+    "answers": [
+      "Arritja e moshes se caktuar,",
+      "vitet e punes,",
+      "pagesa e kontributit,",
+      "te gjitha alternativat e mesiperme."
+    ],
+    "correct": 3,
+    "explanation": "Për të përfituar nga sigurimet shoqërore nevojiten mosha, vitet e punës dhe pagesa e kontributeve."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-083",
+    "question": "Sigurimet shoqerore jane :",
+    "answers": [
+      "pagese personale ,",
+      "detyrim administrativ,",
+      "i paguajne vetem pensionistet,",
+      "asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Sigurimet shoqërore janë pagesë personale e detyrueshme."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-084",
+    "question": "Kontributi mund te jete :",
+    "answers": [
+      "I detyrueshem",
+      "Vullnetar",
+      "Penal",
+      "I detyrueshëm dhe vullnetar"
+    ],
+    "correct": 3,
+    "explanation": "Kontributi mund të jetë i detyrueshëm ose vullnetar."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-085",
+    "question": "Për ribozomet nuk është e vërtetë që:",
+    "answers": [
+      "në to kryhet sinteza e proteinave",
+      "përmbajnë arn",
+      "përbëhen nga subuniteti i madh dhe i vogël",
+      "s’ përmbajnë proteina strukturore"
+    ],
+    "correct": 3,
+    "explanation": "Ribozomet PËRMBAJNË proteina strukturore, prandaj pohimi i kundërt është i gabuar."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-086",
+    "question": "Nuk është e vërtetë që bërthama:",
+    "answers": [
+      "ka përmasa të ndryshme në qeliza të ndryshme",
+      "ka forma të ndryshme ne qeliza të ndryshme",
+      "permban material gjenetik ne trajten e adn",
+      "vendoset gjithmonë në qendër të qelizës"
+    ],
+    "correct": 3,
+    "explanation": "Bërthama nuk vendoset gjithmonë në qendër të qelizës (p.sh. te qelizat dhjamore)."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-087",
+    "question": "Gjeni pohimin e gabuar për indin epitelial:",
+    "answers": [
+      "ka pozicion kufitar",
+      "ka enë gjaku",
+      "ka veti rigjeneruese",
+      "ka polaritet të theksuar në disa lloje qelizash"
+    ],
+    "correct": 1,
+    "explanation": "Indi epitelial është avaskular: ushqehet me difuzion nga indi lidhor poshtë, ndaj nuk ka enë gjaku."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-088",
+    "question": "Cili pohim është i gabuar për adn:",
+    "answers": [
+      "gjendet vetëm në bërthamë",
+      "shoqërohen nga proteinat histone",
+      "organizohet në kromozome",
+      "organizohet në kromatinë"
+    ],
+    "correct": 0,
+    "explanation": "Pohimi i gabuar është 'gjendet vetëm në bërthamë', sepse ADN gjendet edhe në mitokondri; ajo lidhet me histonet dhe organizohet në kromatinë e kromozome."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-089",
+    "question": "Formimi i njëkohshëm i eritrocitit, trombocitit dhe granulociteve realizohet në:",
+    "answers": [
+      "nyjen limfatike",
+      "lien",
+      "palcën e kuqe të kockave",
+      "hepar"
+    ],
+    "correct": 2,
+    "explanation": "Hematopoeza (eritrocite, trombocite, granulocite) ndodh në palcën e kuqe të kockave."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-090",
+    "question": "Për neuronin është e gabuar që:",
+    "answers": [
+      "është njësia morfologjike dhe funksionale e indit nervor",
+      "nuk kanë aftësi të shumohen",
+      "aksonet e tij permbajne lende tigroide",
+      "dentritet janë më të shkurtër se aksoni"
+    ],
+    "correct": 2,
+    "explanation": "Lëndët tigroide (trupat Nissl) ndodhen në trupin qelizor/dendritet, jo në akson."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-091",
+    "question": "Për pankreasin është e gabuar që:",
+    "answers": [
+      "ka funksion endokrin dhe ekzokrin",
+      "indi ekzokrin paraqitet ne trajten e ishujve te langehansit",
+      "pjesa ekzokrine përbën pjesën më të madhe të gjendrës",
+      "pjesa endokrine prodhon glukagon"
+    ],
+    "correct": 1,
+    "explanation": "Indi ekzokrin nuk formon ishujt e Langerhansit; ishujt përbëjnë pjesën endokrine."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-092",
+    "question": "Në veshkë sintetizohen substancat e mëposhtme, përveç:",
+    "answers": [
+      "reninës",
+      "eritropoetinës",
+      "aldosteronit",
+      "angiotensinogjenit"
+    ],
+    "correct": 2,
+    "explanation": "Sipas kësaj alternative, aldosteroni NUK sintetizohet në veshkë (por në gjëndrën mbiveshkore); angiotensinogjeni prodhohet nga mëlçia por qarkullon te veshka."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-093",
+    "question": "Epiteli i kavitetit oral është:",
+    "answers": [
+      "më i keratinizuari i trupit të njeriut",
+      "pseudo-shumështresor prizmatik",
+      "i mbuluar në sipërfaqe nga indi muskulor",
+      "shumështresor i sheshtë"
+    ],
+    "correct": 3,
+    "explanation": "Epiteli i kavitetit oral është shumështresor i sheshtë."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-094",
+    "question": "Cili është pohim i gabuar për kompleksin golxhi:",
+    "answers": [
+      "vendoset përballë bërthamës",
+      "është më i shprehur në qelizat sekretore",
+      "në to kryhet trafiku më i madh i makromolekulave",
+      "ndërmjet tij dhe rep-it ka komunikim direkt"
+    ],
+    "correct": 3,
+    "explanation": "Komunikimi mes Golgi dhe RE bëhet nëpërmjet vezikulave, jo direkt."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-095",
+    "question": "Gjeni pohimin e gabuar në lidhje me bërthamën:",
+    "answers": [
+      "madhësia e saj është e ndryshme në qeliza të ndryshme",
+      "qelizat kanë gjithmonë vetëm një bërthamë",
+      "ajo mund të gjendet në dy gjendje fizike",
+      "kromatina është përbërja kryesore e bërthamës"
+    ],
+    "correct": 1,
+    "explanation": "Disa qeliza (p.sh. osteoklastet) mund të kenë më shumë se një bërthamë."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-096",
+    "question": "Cila nga qelizat e mëposhtme nuk është autoktone në indin lidhor:",
+    "answers": [
+      "fibroblastet",
+      "eozinofilet",
+      "qelizat mezenkimale",
+      "mastocitet"
+    ],
+    "correct": 1,
+    "explanation": "Eozinofilet janë qeliza migratore, jo autoktone (rezidente) të indit lidhor."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-097",
+    "question": "Për eritrocitet është e gabuar që:",
+    "answers": [
+      "kanë bërthamë",
+      "përmbajnë proteinën hemoglobinë",
+      "kanë formën e diskut bikonkav",
+      "kanë funksion transportin e oksigjenit dhe dioksidit të karbonit"
+    ],
+    "correct": 0,
+    "explanation": "Eritrocitet e pjekura NUK kanë bërthamë."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-098",
+    "question": "Për eozinofilet nuk është e vërtetë që:",
+    "answers": [
+      "bëjnë pjesë në seritë granulocitare",
+      "kanë granula specifike me nuancë portokalli",
+      "kanë bërthamë të rrumbullakët",
+      "rritja e numrit të tyre quhet eozinofili"
+    ],
+    "correct": 2,
+    "explanation": "Eozinofilet kanë bërthamë bilobuar, jo të rrumbullakët."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-099",
+    "question": "Sistemi përçues në zemër nuk përbëhet nga:",
+    "answers": [
+      "nyja sinusale",
+      "nyja atrio-ventrikulare",
+      "tufa e hisit",
+      "disqet e ndërvëna"
+    ],
+    "correct": 3,
+    "explanation": "Disqet e ndërvëna janë struktura të miokardit, jo pjesë e sistemit përçues të zemrës."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-100",
+    "question": "Cili funksion nuk i përket neuroglisë:",
+    "answers": [
+      "mbështetës",
+      "ushqyes",
+      "përcjellës",
+      "kufizues"
+    ],
+    "correct": 2,
+    "explanation": "Funksioni përcjellës i impulsit i përket neuroneve, jo neuroglisë."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-101",
+    "question": "Cilat qeliza nuk përbëjnë mukozën e kavitetit nazal:",
+    "answers": [
+      "olfaktore",
+      "parietale",
+      "mbështetëse",
+      "kaliciforme"
+    ],
+    "correct": 1,
+    "explanation": "Qelizat parietale janë të stomakut, jo të mukozës nazale."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-102",
+    "question": "Në lëkurën e hollë mungon shtresa:",
+    "answers": [
+      "bazale",
+      "e shndritshme",
+      "kokrrizore",
+      "e brirëzuar"
+    ],
+    "correct": 1,
+    "explanation": "Shtresa e shndritshme (stratum lucidum) mungon në lëkurën e hollë, gjendet vetëm në atë të trashë."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-103",
+    "question": "Gjeni pohimin e gabuar mbi uterusin:",
+    "answers": [
+      "përbëhet nga tre shtresa",
+      "është vendi i implantimit të vezës së fekonduar",
+      "epiteli i tij përbëhet nga dy shtresa",
+      "shtresa muskulore është më e holla"
+    ],
+    "correct": 2,
+    "explanation": "Epiteli i endometrit është një shtresë qelizash cilindrike, jo dy shtresa; miometri është shtresa më e trashë."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-104",
+    "question": "Fibrocitet kanë tipar karakteristik:",
+    "answers": [
+      "Praninë e zgjatimeve të shumta citoplazmatike",
+      "Organelet citoplazmatike të zhvilluara",
+      "Formën boshtore të bërthamës",
+      "Bërthamën eukromatinike"
+    ],
+    "correct": 2,
+    "explanation": "Fibrocitet janë qeliza të pjekura të indit lidhor me bërthamë të zgjatur, në formë boshti."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-105",
+    "question": "Eritrocitet kanë tipar karakteristik:",
+    "answers": [
+      "Gjatësinë 60-80 milimetër",
+      "Ngjyrën blu të bërthamës",
+      "Diametrin 7-8 mikrometër",
+      "Formën bikonvekse"
+    ],
+    "correct": 2,
+    "explanation": "Eritrocitet kanë diametër tipik 7-8 mikrometër."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-106",
+    "question": "Bazofilia:",
+    "answers": [
+      "Është mungesa e qelizave bazale",
+      "Nuk egziston sepse bazofilet përbëjnë më pak se 1% të leukociteve",
+      "Është ulja e sasise së bazofileve",
+      "Është rritje e numrit të bazofileve"
+    ],
+    "correct": 3,
+    "explanation": "Bazofilia është rritja e numrit të bazofileve në gjak."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-107",
+    "question": "Palca e kockave nuk ka funksion:",
+    "answers": [
+      "Hematoklazik",
+      "Lokomotor",
+      "Retikulo-endotelial",
+      "Hemopoetik"
+    ],
+    "correct": 1,
+    "explanation": "Palca e kockave nuk ka funksion lokomotor."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-108",
+    "question": "Fijet muskulare të skeletit në prerje tërthore janë:",
+    "answers": [
+      "Me formë poligonale",
+      "Me pamje të vijëzuar",
+      "Pa bërthamë",
+      "Me bërthamë në qendër të qelizës"
+    ],
+    "correct": 0,
+    "explanation": "Në prerje tërthore fijet skeletike duken poligonale; vijëzimi shihet vetëm në prerje gjatësore."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-109",
+    "question": "Qelizat e mikroglisë në sistemin nervor qendror janë:",
+    "answers": [
+      "Me origjinë nga indi muskulor",
+      "Me funksion fagocitar",
+      "Përbërëse të mielinës",
+      "Me funksion imunitar"
+    ],
+    "correct": 1,
+    "explanation": "Mikroglia ka funksion fagocitar (mbrojtje imune) në SNQ."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-110",
+    "question": "Mukoza olfaktore në kavitetin nazal mbulon:",
+    "answers": [
+      "Gjithë sipërfaqen",
+      "Pjesën superiore",
+      "Pjesën më të madhe",
+      "Pjesën inferiore"
+    ],
+    "correct": 1,
+    "explanation": "Mukoza olfaktore mbulon pjesën superiore të kavitetit nazal."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-111",
+    "question": "Gjendrat sublinguale:",
+    "answers": [
+      "Prodhojnë sekrecion të përzier",
+      "Prodhojnë sekrecion vetëm seroz",
+      "Nuk kanë gjysmehënëza të xhianucit",
+      "Kanë qeliza centroacinare"
+    ],
+    "correct": 0,
+    "explanation": "Gjëndrat sublinguale prodhojnë sekrecion të përzier (mukoz dhe seroz)."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-112",
+    "question": "Në përbërje të acinusit pankreatik marrin pjesë edhe:",
+    "answers": [
+      "Ishujt e langerhansit",
+      "Qelizat sertoli",
+      "Qelizat centroacinare",
+      "Qelizat beta"
+    ],
+    "correct": 2,
+    "explanation": "Qelizat centroacinare bëjnë pjesë në acinusin pankreatik ekzokrin."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-113",
+    "question": "Në glomerula:",
+    "answers": [
+      "Përqëndrohet urina",
+      "Ka qeliza mezangiale",
+      "Nuk ka podocite",
+      "Sintetizohet eritropoetina dhe renina"
+    ],
+    "correct": 1,
+    "explanation": "Në glomerula gjenden qelizat mezangiale."
+  },
+  {
+    "id": "lab-02-shendet-publik-etike-legjislacion-histologji-114",
+    "question": "Në terrenet qelizore nuk nevojiten:",
+    "answers": [
+      "Kushtet aseptike",
+      "Antinflamatorët",
+      "Bujonet organike",
+      "Antibiotikët"
+    ],
+    "correct": 1,
+    "explanation": "Në kulturat qelizore nevojiten kushte aseptike, bujone dhe antibiotikë; antiinflamatorët nuk kanë rol."
+  }
+]
